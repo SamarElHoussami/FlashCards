@@ -1,5 +1,6 @@
 import re
 from random import *
+import os
 
 class FlashCard():
 	def __init__(self, question, answer):
@@ -32,11 +33,19 @@ def Play(cards):
 question_pattern = "([0-9]+[0-9]*[0-9]*\)(?:.|\n)*?)Answer: "
 answer_pattern = "Answer:..(.)"
 
-chapter = input("Which chapter would you like to study? : ")
-filename = "testbanks/chap" + chapter + ".txt"
+while True:
+	chapter = input("Enter the chapter that you would like to study: ")
+	filename = "testbanks/chap" + chapter + ".txt"
+	
+	if os.path.isfile(filename):
+		break
+
+	else:
+		print("Chapter not available")
 
 f = open(filename, 'r')
 text = f.read()
+f.close()
 
 q = re.findall(question_pattern, text)
 a = re.findall(answer_pattern, text)
@@ -45,5 +54,4 @@ cards = [None]*len(q)
 for x in range(0, len(q)):
 	cards[x] = FlashCard(q[x], a[x])
 
-f.close()
 Play(cards)
