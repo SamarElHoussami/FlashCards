@@ -1,0 +1,1624 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 27   Money and Banking
+
+1) The function of money in an economy is to serve as 
+1) a unit of account;
+2) a store of value;
+3) a medium of exchange.
+A) 1 and 2
+B) 2 and 3
+C) 1 and 3
+D) 1, 2, and 3
+E) 3 only
+Answer:  D
+Diff: 1
+Topic:  27.1a. the functions of money
+Skill:  Recall
+User2:  Qualitative
+
+2) Money is commonly defined as
+A) a generally accepted medium of exchange.
+B) gold.
+C) foreign-exchange reserves.
+D) paper currency.
+E) the Canadian dollar.
+Answer:  A
+Diff: 1
+Topic:  27.1a. the functions of money
+Skill:  Recall
+User2:  Qualitative
+
+3) In order to be considered "money," paper currency must be
+A) convertible into a precious metal.
+B) impossible to counterfeit.
+C) issued by a chartered bank.
+D) issued by a government agency.
+E) generally acceptable as a medium of exchange.
+Answer:  E
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Recall
+User2:  Qualitative
+ 
+4) Doug is saving money in order to purchase a new snowboard next winter. This represents using money as
+A) a medium of exchange.
+B) a store of value.
+C) a unit of account.
+D) a medium of deferred payment.
+E) method of barter.
+Answer:  B
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+
+5) Other things being equal, a rise in the price level will
+A) increase the value of money.
+B) decrease the purchasing power of money.
+C) stabilize the value of money. 
+D) increase the purchasing power of money.
+E) have no effect on the value of money.
+Answer:  B
+Diff: 1
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+
+6) Other things being equal, the purchasing power of money is
+A) inversely related to the level of aggregate demand.
+B) inversely related to the price level.
+C) directly related to the price level.
+D) directly related with the cost of living.
+E) directly related to the level of aggregate demand.
+Answer:  B
+Diff: 1
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+
+ 
+7) When you are estimating your monthly income and expenses, money is being used as 
+A) a medium of exchange. 
+B) a store of value.
+C) a unit of account.
+D) a standard unit of deferred payment.
+E) a money substitute.
+Answer:  C
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+8) Doug compares the unit price of chocolate bars in order to get the "best buy." This represents using money as
+A) a medium of exchange.
+B) a store of value.
+C) a unit of account.
+D) a unit of deferred payment.
+E) a money substitute.
+Answer:  C
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+
+9) The major advantage of using money rather than barter is that
+A) in the barter system there is no way to express values of commodities.
+B) money is the only convenient way to store one's wealth.
+C) money has more value than real goods.
+D) money stays where you put it, whereas a cow often has to be fenced in.
+E) the use of money significantly reduces transactions costs.
+Answer:  E
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+10) The biggest disadvantage of a barter system compared to one that uses money is that
+A) it is difficult to find goods to trade in a barter system that satisfy the needs of society.
+B) a standardized unit of account cannot exist in a barter system.
+C) commodities are difficult to transport and therefore inefficient for exchange.
+D) each trade requires a double coincidence of wants.
+E) commodities are difficult to use as a store of value.
+Answer:  D
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Recall
+User2:  Qualitative
+
+11) An example of the use of money as a medium of exchange is:
+A) Dave keeps $250 in his drawer for a "rainy day."
+B) Mike gets a friend to give him a beer today in return for promising to give the friend two beer when Mike gets paid at the end of the month.
+C) Judy lends her car to a friend who signs a promissory note that she will pay Judy $10 a day for the use of the car after she returns the car to Judy.
+D) Barry pays $275 with his bank debit card for tickets for an NHL play-off game.
+E) ABC Investments Inc. enters in its account books that it owes Nallai $20 for his last month's investment income.
+Answer:  D
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+12) If a majority of Canadian households and businesses refused to accept Canadian dollars in exchange for goods and services, the value of the Canadian dollar would
+A) fall.
+B) rise since less would be in circulation.
+C) stay constant since the value does not depend on its acceptability by people.
+D) stay constant since its value is determined only by the Bank of Canada.
+E) stay constant since its value is determined only by the Government of Canada.
+Answer:  A
+Diff: 1
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+
+ 
+13) In order for money to be successfully used as a medium of exchange, it must
+1) be readily acceptable;
+2) be easily divisible;
+3) have a high value-weight ratio.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1, 2, and 3
+Answer:  E
+Diff: 1
+Topic:  27.1a. the functions of money
+Skill:  Recall
+User2:  Qualitative
+
+14) The use of money in an economy does which of the following?
+A) creates the necessity for a double coincidence of wants
+B) solves the problem of inflation
+C) creates a problem of trading a portion of indivisible commodities such as a ship
+D) promote specialization and the division of labour
+E) promotes the use of barter
+Answer:  D
+Diff: 2
+Topic:  27.1a. the functions of money
+Skill:  Applied
+User2:  Qualitative
+
+15) When metal coins, such as gold and silver, were used as money, a technique which helped to prevent the reduction of their value through clipping was 
+A) basing.
+B) re-minting.
+C) milling.
+D) debasement.
+E) sweating.
+Answer:  C
+Diff: 1
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+ 
+16) Historically, when gold and silver coins were used as money, their debasement resulted in 
+A) deflation
+B) an increase in the supply of money.
+C) an increase in the amount of gold bullion.
+D) an increase in the desire to store wealth by holding coins.
+E) a decrease in the money supply.
+Answer:  B
+Diff: 1
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+
+17) Gresham's law predicts that
+A) good money drives out bad money.
+B) debased money will circulate with undebased money.
+C) undebased money will be driven from circulation.
+D) debased money will be driven from circulation.
+E) money is neutral in the long run.
+Answer:  C
+Diff: 1
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+
+18) Which of the following is consistent with the predictions of Gresham's law?
+A) An increase in the money supply will be followed by inflation.
+B) The increased circulation of U.S. coins in Canada during periods when the Canadian dollar is worth significantly less than the U.S. dollar.
+C) Debasement of a metallic money will be followed by inflation.
+D) Increases in the money supply led to the hyperinflation of the 1920s in Germany.
+E) The disappearance of U.S. coins circulating in Canada during periods when the Canadian dollar is worth less than the U.S. dollar.
+Answer:  E
+Diff: 3
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+ 
+19) Suppose you come into possession of two "silver" dollars, one minted in the 1950s which contains a lot of silver, the other minted in the 1990s which contains no silver at all. The legal exchange rate between the coins is fixed at one for one. According to Gresham's law, the 1950s silver dollar
+A) is considered "bad" money.
+B) will drive out of circulation the 1990s silver dollar.
+C) is more likely to be used as a medium of exchange.
+D) is less likely to be used as a medium of exchange.
+E) is less likely to be used as a store of value because it will appear old fashioned.
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+20) Which of the following was the most important initial step in the evolution of paper currency? 
+A) the acceptance of bank notes
+B) the acceptance of goldsmiths' receipts
+C) the acceptance of metallic coins
+D) the issuance of currency by governments
+E) the use of the Gold Standard
+Answer:  B
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+
+21) Suppose an economy has two types of money — gold and silver coins — that are both legal tender but have different non-monetary values. Gresham's law has come into effect when 
+A) people refuse to use the coins of lesser value.
+B) the value of the coins is in the same ratio as their non-monetary values.
+C) the lower-valued coin is taken out of circulation.
+D) the higher-valued coin is taken out of circulation.
+E) people use the higher-valued coins for exchange and the lower-valued for savings.
+Answer:  D
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+ 
+22) The major problem of a currency that is fractionally backed and convertible into a precious metal is that of 
+A) clipping, which debases the metal coins.
+B) counterfeiting.
+C) maintaining its convertability into the metal.
+D) paper money being less durable than gold.
+E) perennial shortages of paper currency.
+Answer:  C
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+
+23) Most Canadians accept Canadian dollars in payment for goods and services in Canada because they have confidence that the dollar 
+A) will be accepted in the future.
+B) is fully convertible into gold.
+C) is accepted by foreigners as more stable than their own currency.
+D) is fully convertible into American dollars at a set exchange rate.
+E) is fully backed by the British pound sterling.
+Answer:  A
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+
+24) Fiat money has value because it
+A) can be manufactured at will by the issuing government.
+B) has intrinsic value equal to its face value.
+C) is fully backed by gold at a fixed ratio.
+D) is only fractionally backed by gold.
+E) is generally accepted.
+Answer:  E
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+
+ 
+25) For a country to be on a "gold standard," it must
+A) use gold coins as money.
+B) use gold coins as money and promise never to debase its coins.
+C) use gold as money, but not necessarily in the form of gold coins.
+D) make its currency convertible into gold at a fixed rate of exchange.
+E) use gold as fiat money.
+Answer:  D
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+26) If most individuals accept paper currency in transactions, and paper currency is convertible into gold, then banks can safely issue
+A) no more paper currency than the value of the gold they hold.
+B) more paper currency than the value of the gold they hold.
+C) as much paper currency as they please.
+D) paper currency equal to a fraction of the gold they hold.
+E) paper currency equal to the bank's commercial debt divided by their gold reserves.
+Answer:  B
+Diff: 3
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+
+27) The currency that is in circulation in Canada today is
+A) fully backed by gold held at the central bank.
+B) backed by the U.S. dollar.
+C) backed by the euro.
+D) fractionally backed by gold.
+E) not officially backed by anything.
+Answer:  E
+Diff: 1
+Topic:  27.1b. the origins of money
+Skill:  Recall
+User2:  Qualitative
+
+ 
+28) Which of the following illustrates the use of fiat money?
+A) exchanging Canadian dollars for a T-shirt
+B) exchanging money-market funds for gold
+C) exchanging money-market funds for insurance
+D) keeping gold as a hedge against inflation
+E) bartering goods for services
+Answer:  A
+Diff: 1
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+
+29) Debit cards that are issued by commercial banks can be characterized as
+A) an example of near money.
+B) an electronic version of a cheque.
+C) deposit money.
+D) fiat money.
+E) a store of value.
+Answer:  B
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+30) In recent years, the use of debit cards issued by commercial banks has skyrocketed. When you pay for a purchase at a store using a debit card, you are
+A) authorizing the transfer of cash from your bank account to the merchant's bank account.
+B) creating an electronic debt to the merchant.
+C) authorizing an electronic transfer of a money substitute from you to the merchant.
+D) authorizing an electronic transfer of deposit money from you to the merchant.
+E) authorizing the transfer of bank notes from you to the merchant.
+Answer:  D
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Applied
+User2:  Qualitative
+
+ 
+31) Which of the following statements about deposit money is true? 
+A) The quantity of fiat money in the Canadian economy far exceeds the quantity of deposit money. 
+B) Deposit money can legally be created solely by the Bank of Canada. 
+C) Deposit money is the paper money or coinage that is decreed by the government to be accepted as legal tender. 
+D) Deposit money is recorded as an asset on the balance sheet of a commercial bank. 
+E) The quantity of deposit money in the Canadian economy far exceeds the quantity of fiat money in circulation. 
+Answer:  E
+Diff: 2
+Topic:  27.1b. the origins of money
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+32) The largest element of the Canadian money supply today is
+A) coins.
+B) paper money.
+C) bank deposits.
+D) gold.
+E) the debt of the federal government.
+Answer:  C
+Diff: 1
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+33) The functions of the Bank of Canada include
+A) acting as the lender of last resort for the largest private corporations.
+B) acting as banker for the commercial banks.
+C) regulating both the money market and stock market.
+D) setting the exchange rate for the Canadian dollar on world markets.
+E) providing deposit insurance at Canadian commercial banks.
+Answer:  B
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+ 
+34) Basic functions of the Bank of Canada include
+1) acting as lender of last resort to private non-financial corporations;
+2) acting as banker for the chartered banks.
+3) regulating the money supply.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 and 3
+E) 1, 2, and 3
+Answer:  D
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+35) The largest component of the assets of the Bank of Canada is
+A) Government of Canada securities.
+B) Government of Canada deposits.
+C) notes and coins in circulation.
+D) loans to commercial banks.
+E) loans to private individuals.
+Answer:  A
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+36) The largest component of the liabilities of the Bank of Canada is
+A) Government of Canada securities.
+B) Government of Canada deposits.
+C) Canadian dollars in circulation.
+D) deposits of commercial banks and other financial institutions.
+E) loans to private individuals.
+Answer:  C
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+ 
+37) In the event of a sudden loss in confidence in the ability of the commercial banks to redeem deposits, the Bank of Canada would probably 
+A) take over the operation of any banks in severe difficulties.
+B) lend reserves to the commercial banks.
+C) offer to sell government bonds to the chartered banks.
+D) suspend operation of the banking system until the panic subsided.
+E) impose severe financial penalties on the commercial banks by charging them interest at higher than the Bank rate.
+Answer:  B
+Diff: 3
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+38) Suppose the rare event occurs that a major Canadian commercial bank is on the verge of insolvency and collapse due to volatile world credit markets. The likely initial response is 
+A) a bankruptcy filing overseen by the Superintendent of Financial Institutions.
+B) the adoption of all of the bank's liabilities by the Bank of Canada as the "lender of last resort."
+C) the sale of the bank's assets to the remaining commercial banks.
+D) the provision of funds by the World Bank as the "lender of last resort."
+E) the provision of funds by the Bank of Canada as the "lender of last resort."
+Answer:  E
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Applied
+User2:  Qualitative
+
+39) Which of the following statements best describes the relationship between the Bank of Canada and the Government of Canada? 
+A) The Bank of Canada has the same status as the Department of Finance and is directly responsible to Parliament for its day-to-day operations of monetary policy. 
+B) The Bank of Canada is a wholly owned entity of the government but is given independence in the day-to-day operations of monetary policy. 
+C) The Bank of Canada is a central-banking institution that is completely independent of the government and is fully autonomous in its conduct of monetary policy. 
+D) The Bank of Canada is a privately owned banking institution that is overseen by a Board of Directors with a mandate to act in the best interests of the citizens of Canada. 
+E) The governor of the Bank of Canada and the minister of finance have joint responsibility for both fiscal and monetary policy. 
+Answer:  B
+Diff: 3
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+ 
+40) Which of the following entries would appear on the liabilities side of the Bank of Canada's balance sheet? 
+A) deposit money held in accounts at Canada's commercial banks
+B) Government of Canada securities
+C) foreign currency reserves
+D) paper notes in circulation
+E) Canadian corporate securities
+Answer:  D
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+41) Commercial banks in Canada are prohibited by law from
+A) accepting demand deposits.
+B) issuing paper currency.
+C) lending money to households and firms.
+D) accepting term deposits.
+E) settling inter-bank debts through a clearinghouse.
+Answer:  B
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+42) The financial crisis that occurred in 2007 and 2008 highlighted one of the crucial functions of commercial banks and other financial institutions in developed economies. A crucial function that ceased to work smoothly during this time, and contributed to the global recession that began in 2008, was
+A) the acceptance of deposits from firms and households.
+B) the joint regulation of financial markets.
+C) the provision of credit to firms and households.
+D) cheque clearing and collection.
+E) the clearing of electronic transfers.
+Answer:  C
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+ 
+43) An example of "interbank activities" in the Canadian banking system is 
+A) banks pooling their money together to fund the operations of the Bank of Canada.
+B) banks lending money to each other in order to meet daily cash requirements.
+C) the joint regulation of financial markets.
+D) the joint regulation of the money supply.
+E) lender of last resort to the banking system.
+Answer:  B
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+44) The Canada Deposit Insurance Corporation (CDIC) was set up to protect
+A) member financial institutions in case of non-payment of loans from borrowers.
+B) member financial institutions in case of non payment of loans from the government.
+C) depositors with Canadian dollar accounts in member institutions for up to a maximum of $100 000 per eligible deposit.
+D) depositors with Canadian dollar accounts in any Canadian financial institution for up to a maximum of $100 000 per institution.
+E) depositors of any currency in any Canadian financial institution for up to a maximum of $100 000 per institution.
+Answer:  C
+Diff: 3
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+45) Which of the following entries would appear on the liabilities side of the Bank of Canada's balance sheet?
+A) Government of Canada securities
+B) deposits of commercial banks
+C) advances to commercial banks
+D) savings deposits
+E) shareholders' equity
+Answer:  B
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+ 
+46) Which of the following entries would appear on the assets side of a commercial bank's balance sheet?
+A) Government of Canada securities
+B) chequable deposits
+C) Government of Canada deposits
+D) savings deposits
+E) shareholders' equity
+Answer:  A
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+47) Which of the following entries would appear on the liabilities side of a commercial bank's balance sheet? 
+A) mortgage loans
+B) Government of Canada securities
+C) cash reserves
+D) foreign currency reserves
+E) demand deposits
+Answer:  E
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+Consider the following list of entries that might appear on the balance sheet of a commercial bank. All figures are millions of dollars. 
+
+Shareholders' equity	200
+Demand deposits	1500
+Foreign-currency reserves	2000
+Deposits at the Bank of Canada	50
+Mortgage loans	700
+Notice (term) deposits	1200
+Government deposits	60
+Cash reserves	210
+
+TABLE 27-1
+
+48) Refer to Table 27-1. What are the total assets on the balance sheet of this commercial bank? 
+A) 2410
+B) 2520
+C) 2810
+D) 2960
+E) 3160
+Answer:  D
+Diff: 3
+Topic:  27.2a. the Canadian banking system
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+49) Refer to Table 27-1. What are the total liabilities on the balance sheet of this commercial bank? 
+A) 2410
+B) 2520
+C) 2810
+D) 2960
+E) 3160
+Answer:  D
+Diff: 3
+Topic:  27.2a. the Canadian banking system
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+ 
+50) A bank run is unlikely to occur in Canada today because
+A) if necessary, the central bank can provide all the reserves that are necessary to avoid this situation.
+B) the commercial banks are required by law to maintain 100% of their deposits in cash.
+C) there is relatively little demand for cash at present.
+D) banking is done mostly electronically.
+E) the commercial banks hold enough government securities that are convertible into cash.
+Answer:  A
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+51) What is a bank run? 
+A) A situation where a commercial bank is holding zero reserves.
+B) A panic situation where many depositors rush simultaneously to withdraw their deposit money in the form of cash.
+C) A situation where all commercial banks in the system are simultaneously short of reserves. 
+D) The collapse of a non-commercial bank as a result of non-payment of loans.
+E) The collapse of a commercial banks as a result of the devaluation of their assets.
+Answer:  B
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+52) Why is the possibility of a bank run extremely small in Canada today?
+A) The Bank of Canada guarantees the deposits at all commercial banks in Canada, eliminating the danger of a rush of withdrawals.
+B) The Department of Finance guarantees the deposits at all commercial banks in Canada, eliminating the danger of a rush of withdrawals. 
+C) The Canadian Deposit Insurance Corporation provides deposit insurance on eligible deposits, so most depositors would not feel the need to withdraw all of their money in a panic. 
+D) The Office of the Superintendent of Financial Institutions provides deposit insurance on eligible deposits, so most depositors would not feel the need to withdraw all of their money in a panic.
+E) Industry Canada guarantees the deposits at all commercial banks in Canada, eliminating the danger of a rush of withdrawals. 
+Answer:  C
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+ 
+53) Canadian commercial banks maintain their reserves in the form of
+A) cash in their bank vaults and deposits at the Bank of Canada.
+B) cash in their bank vaults.
+C) gold in their bank vaults.
+D) deposits at other commercial banks that are immediately accessible.
+E) cash and foreign currency at the Bank of Canada.
+Answer:  A
+Diff: 2
+Topic:  27.2a. the Canadian banking system
+Skill:  Recall
+User2:  Qualitative
+
+54) A commercial bank's actual reserve ratio is the
+A) fraction of its deposit liabilities that it actually holds as reserves, either as cash or as deposits with the Bank of Canada.
+B) fraction of its deposit liabilities that it actually holds as gold, other precious metal or cash in its own vaults.
+C) fraction of its deposit liabilities that are backed by gold.
+D) ratio of Canadian dollars to foreign currencies that it holds on its books.
+E) ratio of chequable deposits to term deposits that it holds on its books.
+Answer:  A
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Recall
+User2:  Qualitative
+55) "Excess reserves" for a commercial bank refer to
+A) any surplus in the bank's supply of gold.
+B) any surplus of chequable deposits.
+C) any reserves (cash or deposits with the Bank of Canada) that the bank holds over and above its desired reserves.
+D) reserves (cash or deposits with the Bank of Canada) that the Bank of Canada requires the bank to hold.
+E) excess demand for money from that bank.
+Answer:  C
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Recall
+User2:  Qualitative
+
+ 
+56) Consider a new deposit of $10 000 to the Canadian banking system. The bank that initially receives this deposit will find itself with 
+A) no excess reserves if there is no reserve requirement.
+B) $1000 of excess cash reserves if its target reserve ratio is 10%.
+C) $2000 of excess cash reserves if its target reserve ratio is 10%.
+D) $8000 of excess cash reserves if its target reserve ratio is 20%.
+E) $10 000 of excess cash reserves if its target reserve ratio is 100%.
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+
+57) A commercial bank's target reserve ratio is the
+A) fraction of its deposit liabilities that it wishes to holds as reserves, either as cash or as deposits with the Bank of Canada.
+B) fraction of its deposit liabilities that it actually holds as cash in its own vaults.
+C) fraction of its deposit liabilities that are backed by gold.
+D) ratio of Canadian dollars to foreign currencies that the bank holds on its books.
+E) ratio of chequable deposits to term deposits that the bank holds on its books.
+Answer:  A
+Diff: 1
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Recall
+User2:  Qualitative
+58) If all the commercial banks in the banking system collectively have $300 million in cash reserves and are satisfying their target reserve ratio of 20%, what is the amount of deposits they have?
+A) $0
+B) $60 million
+C) $600 million
+D) $1500 million
+E) $2000 million
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+
+ 
+59) Which of the following statements about reserve ratios at Canadian commercial banks is true? Commercial banks in Canada
+A) are required by the Bank Act to hold required reserves.
+B) have a reserve ratio of zero.
+C) have a reserve ratio of 100%.
+D) have a positive reserve ratio.
+E) never have excess reserves.
+Answer:  D
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+60) Without a central bank, commercial banks in Canada would probably hold ________ reserves than they do now, resulting in a ________ money supply than at present.
+A) the same; the same
+B) more; larger
+C) more; smaller
+D) less; smaller
+E) less; larger
+Answer:  C
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Qualitative
+61) Commercial banks hold a fraction of their deposits in cash in their vaults (or as deposits with the central bank). This fraction is known as
+A) the required reserve.
+B) the excess reserve ratio.
+C) the fractional reserve.
+D) the reserve ratio.
+E) the target reserve.
+Answer:  D
+Diff: 1
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Recall
+User2:  Qualitative
+
+ 
+62) The Canadian banking system is a 
+A) gold-reserve system.
+B) fractional-reserve system.
+C) target-reserve system.
+D) asset-backed reserve system.
+E) treasury-bill reserve system.
+Answer:  B
+Diff: 1
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Recall
+User2:  Qualitative
+
+63) Suppose a commercial bank has a level of target reserves of $500 million and actual reserves of $575 million. This bank's ________ is/are $75 million.
+A) profits
+B) fractional reserves
+C) excess reserves
+D) reserve ratio
+E) cash drain
+Answer:  C
+Diff: 1
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+
+64) Suppose a commercial bank has a target reserve ratio of 1%, but has an actual reserve ratio of 0.8%. This bank will likely
+A) expand its portfolio of loans.
+B) contract its portfolio of loans.
+C) maintain its new, higher reserve ratio because it is more profitable.
+D) buy government securities from the Bank of Canada.
+E) allow fewer cash withdrawals by the bank's customers.
+Answer:  B
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+ 
+65) Suppose Bank ABC has a target reserve ratio of 10%. If Bank ABC receives a new deposit of $100 000 it will immediately find itself with
+A) no excess cash reserves.
+B) excess cash reserves of $10 000.
+C) excess cash reserves of $90 000.
+D) excess cash reserves of $100 000.
+E) excess cash reserves equal to 10% of its deposits.
+Answer:  C
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+
+66) Suppose Bank ABC has a target reserve ratio of 2%. If Bank ABC receives a new deposit of $50 million it will immediately find itself with
+A) no excess cash reserves.
+B) excess cash reserves of $1 million.
+C) excess cash reserves of $10 million.
+D) excess cash reserves of $49 million.
+E) excess cash reserves of $49.5 million.
+Answer:  D
+Diff: 2
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+
+67) Suppose the Canadian banking system jointly has $20 million in reserves (cash and deposits at the Bank of Canada), all banks have a target reserve ratio of 20%, and there are no excess reserves. What is the amount of deposits in the banking system?
+A) $4 million
+B) $40 million
+C) $80 million
+D) $100 million
+E) $120 million
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.2b. target reserves and excess reserves
+Skill:  Applied
+User2:  Quantitative
+
+ 
+68) A central bank can "create" money by
+A) selling some of its foreign-currency reserves for domestic currency.
+B) selling government Treasury bills to the commercial banks.
+C) increasing the rate of inflation.
+D) issuing its own Central Bank bonds.
+E) purchasing government securities on the open market.
+Answer:  E
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Recall
+User2:  Qualitative
+69) Which of the following examples constitutes a new deposit to the Canadian commercial banking system?
+A) an individual transfers money from ShipShape Credit Union to Scotiabank
+B) an individual immigrates to Canada and deposits money from abroad
+C) an individual puts cash in a safety-deposit box
+D) the Bank of Canada sells government securities to an individual or a firm
+E) the Bank of Canada buys foreign currency from abroad
+Answer:  B
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Qualitative
+
+70) A new deposit to the banking system can result when
+A) an individual stashes cash in a mattress.
+B) a new immigrant to Canada sends cash to his or her home country.
+C) the Bank of Canada sells a government security to a firm which then maintains the asset in a bank.
+D) the Bank of Canada buys a government security from a firm, which keeps the proceeds from the sale in a company vault.
+E) the Bank of Canada buys a government security from a firm, which then deposits the proceeds from the sale in its account at a commercial bank.
+Answer:  E
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Qualitative
+
+ 
+71) Which of the following examples constitutes a new deposit to the Canadian commercial banking system?
+A) an individual transfers money from Ship Shape Credit Union to Scotiabank
+B) an individual immigrates to Canada and maintains his existing deposits in a foreign bank
+C) an individual puts cash in a safety-deposit box
+D) the Bank of Canada buys government securities from a Canadian commercial bank
+E) the Bank of Canada buys foreign currency from abroad
+Answer:  D
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Qualitative
+
+	Bank North's Balance Sheet
+
+	Assets			Liabilities       
+Reserves	$300	Deposits	$2000
+Loans	$2200	Capital 	  $500
+	$2500		$2500
+
+TABLE 27-2
+
+72)  Refer to Table 27-2. Assume that Bank North is operating with no excess reserves. What is their actual reserve ratio?
+A) 12%
+B) 13.67%
+C) 15%
+D) 20%
+E) 25%
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+73) Refer to Table 27-2. What are the income-earning assets for Bank North?
+A) Reserves
+B) Loans
+C) Deposits
+D) Capital
+E) Liabilities
+Answer:  B
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+74) Refer to Table 27-2. If Bank North receives a new deposit of $400, its actual reserve ratio immediately becomes
+A) 7%
+B) 15%
+C) 25%
+D) 29%
+E) 35%
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+75) Refer to Table 27-2. Assume that Bank North is operating at its target reserve ratio and has no excess reserves. If Bank North receives a new deposit of $400, it can immediately expand its loans by ________ while maintaining its target reserve ratio.
+A) $260
+B) $272
+C) $340
+D) $400
+E) $700
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+76) Refer to Table 27-2. Assume that Bank North is operating at its target reserve ratio and has no excess reserves, and that all commercial banks have the same target reserve ratio. If a new deposit to the Canadian banking system of $400 is deposited at Bank North, the total new deposits created in the banking system can be calculated as follows:
+A) 300/.136 = $2205.88
+B) 400/.15 = $2666.67
+C) 400/.12 = $3333.33
+D) 700/.12 = $5833.33
+E) Not enough information to determine
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+Consider the following situation in the Canadian banking system:
+
+∙	The Bank of Canada purchases $5 million worth of government securities 
+	from an investment dealer with a cheque drawn on the Bank of Canada.
+∙	The dealer deposits this cheque at Bank XYZ, a commercial bank.
+∙	The target reserve ratio for all commercial banks is 25%.
+∙	All commercial banks operate with no excess reserves.
+∙	There is no cash drain.
+					
+TABLE 27-3
+
+77) Refer to Table 27-3. Bank XYZ is immediately in a position to expand its loans by 
+A) $1.25 million.
+B) $3.75 million.
+C) $5 million.
+D) $15 million.
+E) $20 million.
+Answer:  B
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+78) Refer to Table 27-3. If Bank XYZ increases its loans to the maximum extent possible with its new excess reserves, the second-generation banks will be able to expand their loans by
+A) $0.94 million.
+B) $1.00 million.
+C) $1.50 million.
+D) $2.81 million.
+E) $3.75 million.
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+79) Refer to Table 27-3. The maximum creation of new deposits by the banking system, including the dealer's original deposit at Bank XYZ, is 
+A) $25 million.
+B) $22.5 million.
+C) $20 million.
+D) $15 million.
+E) $5 million.
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+80) Refer to Table 27-3. Suppose the public decides to hold 5% of their deposits in cash - that is, there is now a cash drain of 5%. As a result of the new deposit, the money supply would eventually 
+A) increase by $16.67 million.
+B) increase by $20 million.
+C) decrease by $20 million.
+D) decrease by $16.67 million.
+E) decrease by $ 8.33 million.
+Answer:  A
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  REVISED
+User1:  Table
+User2:  Quantitative
+
+ 
+81) Refer to Table 27-3. Suppose the public decides to hold 15% of their deposits in cash - that is, there is now a cash drain of 15%. As a result of the new deposit, the money supply would eventually 
+A) increase by $ 3.75 million.
+B) increase by $12.50 million.
+C) decrease by $12.50 million.
+D) decrease by $20.00 million.
+E) not change.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  REVISED
+User1:  Table
+User2:  Quantitative
+Consider the following situation in the Canadian banking system:
+
+∙  	An investment dealer withdraws $10 million from its account at Bank XYZ to
+	purchase government securities from the Bank of Canada.
+∙  	As a result, $10 million has been withdrawn from the Canadian banking system.
+∙	The target reserve ratio for all banks is 10%.
+∙	All commercial banks operate with no excess reserves.
+∙	There is no cash drain.
+
+TABLE 27-4
+
+82) Refer to Table 27-4. Bank XYZ is immediately in a position to 
+A) decrease its loans by $100 million.
+B) decrease its loans by $10 million.
+C) decrease its loans by $9 million.
+D) increase loans by $9 million.
+E) increase loans by $10 million
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+83) Refer to Table 27-4. Assume that Bank XYZ has decreased its loans and re-established its target reserve ratio. The second-generation banks in this scenario will 
+A) decrease their loans by $9.0 million.
+B) decrease their loans by $8.1 million.
+C) not have to change their loan positions.
+D) increase their loans by $8.1 million.
+E) increase their loans by $9.0 million.
+Answer:  B
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+84) Refer to Table 27-4. As a result of this withdrawal from the banking system, the Canadian banking system would eventually 
+A) decrease its loans by $100 million.
+B) decrease its loans by $90 million.
+C) decrease its loans by $10 million.
+D) increase loans by $90 million.
+E) increase loans by $100 million.
+Answer:  A
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+85) Consider the creation of deposit money in the banking system. One implication of an increase in the cash drain to the public is that the
+A) banking system cannot create any additional money following a new deposit.
+B) amount of new money that can be created from a new source of reserves is increased.
+C) desired ratio is reduced.
+D) desired reserve ratio is increased.
+E) banking system's ability to create new money following a new deposit is reduced.
+Answer:  E
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+86) Suppose you found a $100 bill that was lost for many years under your grandmother's mattress and you decided to deposit this money in a commercial bank. If the target reserve ratio were 20% and all excess reserves were lent out, your new deposit of $100 would lead to an eventual expansion of the money supply of
+A) $120.
+B) $200.
+C) $500.
+D) $1200.
+E) $2000.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+87) Suppose you found a $100 bill that was lost for many years under your grandmother's mattress. If the banking system has a cash drain of 5%, its target reserve ratio is 20%, and all excess reserves were lent out, your new deposit of the $100 bill would lead to an eventual expansion of the money supply of
+A) $20.
+B) $25.
+C) $200.
+D) $400.
+E) $500.
+Answer:  D
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+88) If all the banks in the banking system collectively have $20 million in cash reserves and have a target reserve ratio of 5%, the maximum amount of deposits the banking system can support is
+A) $4 million.
+B) $40 million.
+C) $80 million.
+D) $100 million.
+E) $400 million.
+Answer:  E
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+ 
+89) If all the banks in the banking system collectively have $500 million in cash reserves, and have a target reserve ratio of 5%, the maximum amount of deposits the banking system can support is
+A) $10 million.
+B) $100 million.
+C) $25 billion.
+D) $100 billion.
+E) $10 billion.
+Answer:  E
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+90) Assume that Bank ABC has a target reserve ratio of 10%. If Bank ABC receives a new deposit of $100 000, the largest new loan this bank could initially make, and maintain its target reserve ratio, is
+A) $  1000.
+B) $ 10 000.
+C) $ 90 000.
+D) $100 000.
+E) $900 000.
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+91) Suppose that the excess reserves in Toronto Dominion Bank increase by $700. Given a desired reserve ratio of 2.5% and no cash drain, the maximum change in deposits for the entire banking system would be
+A) $682.50.
+B) $700.00.
+C) $17 500.00.
+D) $28 000.00.
+E) $70 000.00.
+Answer:  D
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+ 
+92) Suppose that the excess reserves in Toronto Dominion Bank increase by $700. Given a target reserve ratio of 1.0% and no cash drain, the maximum change in deposits for the entire banking system would be
+A) $682.50.
+B) $700.00.
+C) $17 500.00.
+D) $28 000.00.
+E) $70 000.00.
+Answer:  E
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+93) A desire by ________ has no effect on the ability of the banking system to create bank deposits, for a given amount of reserves in the banking system. 
+A) banks to delay making loans in expectation of higher future interest rates
+B) households to increase the fraction of their money held in the form of currency
+C) households to hold more money in safety-deposit boxes
+D) the government to increase its level of spending
+E) firms to reduce their desired level of borrowing from banks 
+Answer:  D
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Qualitative
+ 
+	Northern Bank:  Balance Sheet
+
+	Assets			Liabilities           
+Reserves	    $800	Deposits	$10 000
+Loans	$11 200	Capital	  $2000
+	$12 000		$12 000
+
+TABLE 27-5
+
+94) Refer to Table 27-5. Assume that Northern Bank's target reserve ratio is 10%. What is it's actual reserve ratio?
+A) 6.67%
+B) 7.1%
+C) 8.0%
+D) 9.1%
+E) 10.0%
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+95) Refer to Table 27-5. Northern Bank extends credit to its customers in the form of household mortgages and lines of credit. Under which category of the balance sheet do these fall?
+A) Reserves
+B) Loans
+C) Liabilities
+D) Deposits
+E) Capital
+Answer:  B
+Diff: 1
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+ 
+96) Refer to Table 27-5. Owners of Northern Bank contributed money to start the bank. Under which category of it's balance sheet do these funds fall?
+A) Reserves
+B) Loans
+C) Assets
+D) Deposits
+E) Capital
+Answer:  E
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+97) Refer to Table 27-5. Assume that Northern Bank's target reserve ratio is 10%. What is its current level of excess reserves?
+A) -$320
+B) -$200
+C) $0
+D) $320
+E) $400
+Answer:  B
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+98) Refer to Table 27-5. Assume that Northern Bank's target reserve ratio is 10%. In order to achieve its target reserve ratio, Northern Bank must ________ and ________.
+A) increase its reserves by $200; decrease its deposits by $200
+B) increase its reserves by $400; decrease its deposits by $400
+C) not change its reserves; not change its deposits
+D) increase its reserves by $200; decrease its loans by $200
+E) increase its reserves by $400; increase its loans by $800
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+99) Refer to Table 27-5. Northern Bank holds cash in its vault and has some deposits in its account at the central bank. Under which category on its balance sheet are these funds included?
+A) reserves
+B) loans
+C) liabilities
+D) deposits
+E) capital
+Answer:  A
+Diff: 1
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+100) Consider a new deposit of $10 000 to the Canadian banking system. The commercial bank that initially receives this deposit will find itself with 
+A) no excess reserves if there is no reserve requirement.
+B) $1000 of excess cash reserves if its target reserve ratio is 10%.
+C) $2000 of excess cash reserves if its target reserve ratio is 2%.
+D) $9000 of excess cash reserves if its target reserve ratio is 10%.
+E) $98 000 of excess cash reserves if its target reserve ratio is 2%.
+Answer:  D
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+101) Consider a new deposit of $10 000 to the Canadian banking system. Assuming that all Canadian banks have a target reserve ratio of 2%, and that there is no cash drain, the banking system as a whole could create ________ as a result of this single new deposit.
+A) $10 000 of new deposits
+B) $50 000 of new deposits
+C) $500 000 of new deposits
+D) $980 000 of additional loans
+E) $1 000 000 of additional loans
+Answer:  C
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+ 
+102) Consider a new deposit of $100 000 to the Canadian banking system. The commercial bank that initially receives this deposit will find itself with
+A) no excess reserves if there is no reserve requirement.
+B) $1000 of excess cash reserves if its target reserve ratio is 10%.
+C) $2000 of excess cash reserves if its target reserve ratio is 2%.
+D) $10 000 of excess cash reserves if its target reserve ratio is 10%.
+E) $98 000 of excess cash reserves if its target reserve ratio is 2%.
+Answer:  E
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+103) If the Bank of Canada enters the open market and purchases $1000 of government securities, what will be the eventual change in the money supply given a 10% target reserve ratio in the commercial banking system?
+A) decrease of $1000
+B) decrease of $5000
+C) decrease of $10 000
+D) increase of $5000
+E) increase of $10 000
+Answer:  E
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+104) If the Bank of Canada enters the open market and sells $1000 of government securities, what will be the eventual change in the money supply if commercial banks lend out all excess reserves and they have a 2.5% target reserve ratio? 
+A) decrease of $40 000
+B) decrease of $4000
+C) increase of $40 000
+D) increase of $4000
+E) decrease of $25 000
+Answer:  A
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+ 
+105) If the Bank of Canada enters the open market and sells $1000 of government securities, what will be the eventual change in the money supply given a 10% target reserve ratio in the commercial banking system and a 10% cash drain?
+A) decrease of $1000
+B) decrease of $5000
+C) decrease of $10 000
+D) increase of $5000
+E) increase of $10 000
+Answer:  B
+Diff: 3
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+106) If the target reserve ratio in the banking system is 20%, there is no cash drain, and there are no excess reserves, a new deposit of $1 will lead to an eventual expansion of the money supply of
+A) $0.20.
+B) $1.20.
+C) $2.00.
+D) $5.00.
+E) $20.00.
+Answer:  D
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+107) If the target reserve ratio in the banking system is 10%, there is no cash drain, and there are no excess reserves, a new deposit of $1 will lead to an eventual expansion of the money supply of
+A) $0.01.
+B) $0.10.
+C) $1.00.
+D) $10.00.
+E) $100.00.
+Answer:  D
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+ 
+108) If the target reserve ratio in the banking system is 1%, there is no cash drain, and there are no excess reserves, a new deposit of $1 will lead to an expansion of the money supply of
+A) $0.01.
+B) $1.10.
+C) $1.00.
+D) $10.00.
+E) $100.00.
+Answer:  E
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+109) Suppose Bank ABC has a target reserve ratio of 10%, no excess reserves, and it receives a new deposit of $500 000. This bank will initially expand its loans by
+A) $50 000.
+B) $450 000.
+C) $500 000.
+D) $4.5 million.
+E) $5 million.
+Answer:  B
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Quantitative
+
+110) The expansion of deposits resulting from an injection of new cash to the banking system can be calculated as follows. The change in deposits is equal to 
+A) the change in loans divided by the sum of the target reserve ratio.
+B) the change in reserves divided by the cash-deposit ratio.
+C) the change in reserves divided by the target reserve ratio.
+D) the change in reserves divided by the sum of the target reserve ratio and the cash-deposit ratio.
+E) the change in reserves divided by the sum of excess reserves and cash drain.
+Answer:  D
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+ 
+111) Suppose that the cash drain in the banking system increases during holiday periods. As a result,
+A) the capacity of the banking system to create deposit money is dampened during holiday periods.
+B) the capacity of the banking system to create deposit money is increased during holiday periods.
+C) commercial banks decrease their target reserve ratios.
+D) changes in reserves will result in no change in deposits during holiday periods.
+E) the money supply will automatically increase.
+Answer:  A
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+User2:  Qualitative
+
+112) When discussing the banking system, a cash drain of 5% means that
+A) 5% of an initial new deposit to the banking system is paid in banking fees and is therefore not available for the creation of new deposit money.
+B) depositors wish to hold 5% of the value of their deposits in cash. 
+C) 5% of an initial new deposit to the banking system is payable as a financial services tax.
+D) 95% of an initial new deposit is maintained as cash reserves by the commercial bank.
+E) depositors wish to hold 95% of the value of their deposits in cash. 
+Answer:  B
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+113) In reality, the reserve ratio for Canadian commercial banks is close to ________%, which means that the deposit creation process is ________.
+A) 0.1; extremely powerful
+B) 5; powerful
+C) 20; similar to that discussed in the text
+D) 50; weak
+E) 100; very weak
+Answer:  B
+Diff: 2
+Topic:  27.3. the creation of deposit money
+Skill:  Recall
+User2:  Qualitative
+ 
+114) Suppose a student deposits into a downtown bank a $200 cheque that she received from her parents in the suburbs. This transaction alone would
+A) decrease the money supply.
+B) not change the money supply.
+C) increase the money supply by an indeterminate amount.
+D) increase the money supply by $1000 if the target reserve ratio was 20%.
+E) decrease the money supply by $1000 if the target reserve ratio was 20%.
+Answer:  B
+Diff: 3
+Topic:  27.4. the money supply
+Skill:  Applied
+User2:  Quantitative
+
+115) The money supply in Canada is measured using M1, M2, M2+, and M3. The reason there are so many measures of the money supply is that 
+A) the Bank of Canada wants to confuse the general public.
+B) different kinds of bank accounts represent different functions of money, and so the various measures are used to reflect these different functions. 
+C) the money supply is too large to have only one measurement.
+D) only the newer and broader measurements are correct but the older measurements are still used so that historical comparisons are possible.
+E) it is a convenient way for provincial and federal governments to hide their budgetary surpluses.
+Answer:  B
+Diff: 1
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative
+
+116) Until recently, and for many years, the common definition of the money supply used by the Bank of Canada was M1, which included currency in circulation plus
+A) chequable deposits at the chartered banks.
+B) chequable deposits and savings accounts at the chartered banks.
+C) savings accounts and demand loans.
+D) term deposits and money market funds.
+E) chequable deposits at all financial institutions.
+Answer:  A
+Diff: 1
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative
+ 
+117) As a measure of the Canadian money supply, M2+ is defined as currency in circulation plus 
+A) all chequable deposits.
+B) notice deposits at all financial institutions.
+C) savings deposits at the chartered banks and non-bank financial institutions. 
+D) term deposits and money market funds at all financial institutions.
+E) term deposits, money market funds and personal savings accounts.
+Answer:  B
+Diff: 1
+Topic:  27.4. the money supply
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+118) The main distinction between M2 and M2+ is that M2+ also includes
+A) deposits at trust companies, caisse populaires and foreign-currency accounts.
+B) coins in circulation. 
+C) money market mutual funds held by the Bank of Canada.
+D) paper currency.
+E) deposits at financial institutions other than the chartered banks.
+Answer:  E
+Diff: 1
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative
+
+119) The concept of "near money" refers to
+A) money substitutes such as credit cards.
+B) cheques on demand deposits.
+C) financial assets whose capital values are too unstable for them to be classified as money.
+D) assets that fulfill the temporary store-of-value function but not the medium-of-exchange function.
+E) assets that fulfill the medium-of-exchange function but not the store of value function.
+Answer:  D
+Diff: 1
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative
+
+ 
+120) Credit cards are considered to be "money substitutes" instead of money because
+A) they are not acceptable to pay for purchases.
+B) they cannot serve as a temporary medium of exchange.
+C) the only function of money they can perform is to serve as a store of value.
+D) money must eventually be used to pay for the transaction.
+E) credit card accounts are not chequable.
+Answer:  D
+Diff: 2
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative
+121) Which of the following is an example of "near money"?
+A) Scotiabank credit card
+B) American Express card
+C) 30-day Treasury bill
+D) mortgage on a house
+E) car loan
+Answer:  C
+Diff: 2
+Topic:  27.4. the money supply
+Skill:  Applied
+User2:  Qualitative
+
+122) When you pay for your $74 purchase at the grocery store with a debit card, you are
+A) transferring $74 of currency from your bank account to the grocery store's bank account.
+B) withdrawing $74 from your bank account with which you pay for your groceries.
+C) transferring your claim on $74 worth of gold to the grocery store.
+D) electronically transferring $74 of deposit money from your bank account to the grocery store's bank account.
+E) essentially promising the grocery store that your bank will pay them $74 at the end of the month when debts are settled.
+Answer:  D
+Diff: 3
+Topic:  27.4. the money supply
+Skill:  Applied
+User2:  Qualitative
+
+ 
+123) The M2 and M2+ definitions of the money supply concentrate on the ________ function of money.
+A) store of value
+B) unit of account
+C) medium-of-exchange
+D) accounting
+E) deposit-creation
+Answer:  C
+Diff: 1
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative
+
+124) The M2++ and M3 definitions of the money supply include financial assets
+A) that serve the store-of-value function and are convertible into a medium of exchange.
+B) such as deposits at credit unions and caisses populaires.
+C) such as deposits at non-bank financial institutions.
+D) such as a credit card.
+E) such as a government Treasury bill.
+Answer:  A
+Diff: 3
+Topic:  27.4. the money supply
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+125) Developments in the financial industry in recent years have resulted in a multitude of types of deposits. For the purposes of studying the money supply, the most important distinction is between chequing and savings deposits which are ________ and term deposits and other financial assets which are ________.
+A) a store of value; not a store a value
+B) a unit of account; not a unit of account
+C) a component of the money supply; not a component of the money supply
+D) media of exchange; not media of exchange
+E) money substitutes; near money
+Answer:  D
+Diff: 2
+Topic:  27.4. the money supply
+Skill:  Recall
+User2:  Qualitative

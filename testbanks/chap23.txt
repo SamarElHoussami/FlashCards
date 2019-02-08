@@ -1,0 +1,1716 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 23   Output and Prices in the Short Run
+
+1) Other things being equal, a rise in the domestic price level
+A) causes a decrease in real saving.
+B) lowers the real value of all assets denominated in money units.
+C) makes domestic goods more attractive to foreigners.
+D) makes foreign goods less attractive to domestic residents.
+E) raises the real burden of repaying a fixed money value debt.
+Answer:  B
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+2) Other things being equal, a fall in the domestic price level leads to a rise in private-sector wealth and thus 
+A) an increase in the average propensity to save.
+B) an increase in autonomous desired consumption.
+C) a downward shift in the AE curve.
+D) a downward shift in net exports.
+E) domestic goods appearing less attractive to foreigners.
+Answer:  B
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+3) Other things being equal, an exogenous rise in the domestic price level will
+A) have no effect on the level of desired real expenditure.
+B) increase the level of desired real expenditure.
+C) decrease desired real expenditure only if it is accompanied by a change in the current income of households.
+D) decrease desired real expenditure because it will affect the real value of wealth.
+E) cause net exports to rise.
+Answer:  D
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+ 
+4) Other things being equal, when the domestic price level falls exogenously, 
+A) Canadian goods become more expensive relative to foreign goods.
+B) the net export function shifts upward.
+C) the aggregate expenditure function shifts downward.
+D) imports of foreign goods rise.
+E) the net export function shifts downward.
+Answer:  B
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+5) Other things being equal, when the domestic price level rises exogenously, 
+A) Canadian goods become more expensive relative to foreign goods.
+B) the net export function shifts upward.
+C) the aggregate expenditure function shifts upward.
+D) imports of foreign goods fall.
+E) the desired investment function shifts upward.
+Answer:  A
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+6) Consider a simple macro model with a given price level and demand-determined output. An exogenous change in the domestic price level changes equilibrium real GDP 
+A) in the same direction.
+B) in the opposite direction.
+C) by the same amount in the same direction.
+D) by the same amount in the opposite direction.
+E) by a lesser amount in either direction.
+Answer:  B
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+ 
+7) Other things being equal, when the price level rises, the real value of money holdings ________; when the domestic price level falls, the real value of money holdings ________.
+A) rises; falls
+B) falls; is not affected
+C) falls; rises
+D) is not affected; falls
+E) is not affected; rises
+Answer:  C
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+8) An exogenous fall in the domestic price level causes an increase in real wealth and
+A) a fall in desired investment.
+B) a rise in desired consumption.
+C) a downward shift in the AE curve.
+D) a downward shift of the net export function.
+E) a fall in government purchases.
+Answer:  B
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+9) Consider a simple macro-model with demand-determined output. An exogenous increase in the domestic price level will ________ the real value of the private sector's wealth, which leads to ________ in autonomous consumption and thus ________ shift in the AE function.
+A) increase; a decrease; a downward
+B) increase; an increase; a downward
+C) increase; an increase; an upward
+D) reduce; a decrease; a downward
+E) reduce; an increase; an upward
+Answer:  D
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+ 
+10) Consider a simple macro model with demand-determined output. An exogenous increase in the domestic price level will
+A) shift both the net export function and the AE curve upward.
+B) shift the net export function upward and the AE curve downward.
+C) shift both the net export function and the AE curve downward.
+D) shift the net export function downward and the AE curve upward.
+E) pivot the net export function and the AE curve upward.
+Answer:  C
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+11) Consider a simple macro model with demand-determined output. Other things being equal, the price level and desired aggregate expenditure are related to each other
+A) positively.
+B) proportionally.
+C) progressively.
+D) exponentially.
+E) negatively.
+Answer:  E
+Diff: 1
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+12) Consider a simple macro model with demand-determined output. An exogenous change in the price level shifts the AE curve because the change affects desired ________ and desired ________.
+A) consumption; investment
+B) consumption; imports
+C) investment; consumption
+D) government purchases; net exports
+E) consumption; net exports
+Answer:  E
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+ 
+13) Suppose there is an exogenous increase in the domestic price level. Which of the individuals listed below would experience an increase in wealth?
+A) a person with a 25-year home mortgage
+B) a person with cash under the mattress
+C) a person with deposits in a bank savings account
+D) a person with a government bond that promises to pay the holder $1000, 5 years hence
+E) a person with a corporate bond that promises to repay the face value of the bond in the future
+Answer:  A
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Applied
+User2:  Qualitative
+
+14) Other things being equal, a rise in the price level will imply ________ in wealth for the bondholder and ________ in the wealth of the issuer of the bond. 
+A) a decline; an increase 
+B) a decline; a decline 
+C) a decline; no change 
+D) an increase; a decline 
+E) an increase; an increase 
+Answer:  A
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+15) Other things being equal, an exogenous increase in the price level causes the aggregate wealth of holders and issuers of private-sector bonds to 
+A) decrease. 
+B) increase. 
+C) not change since the changes in the wealth of bondholders and bond issuers offset each other. 
+D) either increase or decrease depending on other factors. 
+E) rise in nominal terms, but fall in real terms. 
+Answer:  C
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Recall
+User2:  Qualitative
+
+ 
+16) Which of the following events would cause the AE function to shift upwards in a parallel way?
+A) an increase in the MPC 
+B) a decrease in the net tax rate 
+C) a decrease in the business confidence of firms 
+D) a decrease in foreign income 
+E) a decrease in the aggregate price level 
+Answer:  E
+Diff: 2
+Topic:  23.1a. effects of an exogenous change in the price level
+Skill:  Applied
+User2:  Qualitative
+17) Other things being equal, as the price level rises exogenously, the aggregate expenditure (AE) function shifts
+A) down and the economy will move upward to the left along the AD curve.
+B) down and the economy will move downward to the right along the AD curve.
+C) upward and the economy moves upward to the left along the AD curve.
+D) upward and the economy moves downward to the right along the AD curve.
+E) to the right and the AD curve will also shift to the right.
+Answer:  A
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User2:  Qualitative
+
+18) Other things being equal, as the price level falls exogenously, the aggregate expenditure (AE) function shifts
+A) down and the economy will move upward along the AD curve.
+B) down and the economy will move downward along the AD curve.
+C) upward and the economy moves upward along the AD curve.
+D) upward and the economy moves downward along the AD curve.
+E) to the left, as does the AD curve.
+Answer:  D
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Recall
+User2:  Qualitative
+
+ 
+19) The AD curve relates the price level to
+A) desired aggregate expenditure.
+B) desired consumption.
+C) equilibrium real GDP if output is demand determined.
+D) equilibrium nominal GDP if output is demand determined.
+E) equilibrium savings and wealth.
+Answer:  C
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Recall
+User2:  Qualitative
+
+20) All points on an economy's AD curve
+A) correspond to a particular point on industry demand curves for a particular product.
+B) relate a particular price level to the total demand for output at that price level.
+C) show only changes in relative prices and quantities.
+D) show the direct relationship between the price level and net exports.
+E) show the direct relationship between the price level and the demand for consumer goods.
+Answer:  B
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Recall
+User2:  Qualitative
+21) In a macro model with a constant price level, an increase in autonomous desired consumption will cause the AE curve to shift
+A) downward and the AD curve to shift to the left.
+B) downward and the AD curve to shift to the right.
+C) upward and the AD curve to shift to the left.
+D) upward and the AD curve to shift to the right.
+E) upward and a movement to the right along the AD curve.
+Answer:  D
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User2:  Qualitative
+
+ 
+22) In a macro model with a constant price level, an increase in government purchases will cause the AE curve to shift
+A) downward and the AD curve to shift to the right.
+B) downward and the AD curve to shift to the left.
+C) downward and a movement to the right along the AD curve.
+D) upward and the AD curve to shift to the left.
+E) upward and the AD curve to shift to the right.
+Answer:  E
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User2:  Qualitative
+
+23) On a graph that shows the derivation of the AD curve, an exogenous change in the price level causes
+A) a shift in the AE curve and a movement along the AD curve.
+B) a shift in both the AE and AD curves.
+C) a movement along the AE curve and a shift in the AD curve.
+D) a movement along the AE curve but not along the AD curve.
+E) a movement along both the AE and AD curves.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Recall
+User2:  Qualitative
+
+24) Which of the following would likely cause an upward parallel shift in the AE curve and a rightward shift in the AD curve? 
+A) an increase in the business confidence of firms 
+B) a reduction in government purchases 
+C) an increase in the MPC 
+D) a decrease in the price level 
+E) an increase in the price level 
+Answer:  A
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User2:  Qualitative
+ 
+25) Which of the following would likely cause a downward shift in the AE curve and a movement upward along the AD curve?
+A) a decrease in the business confidence of firms
+B) a reduction in government purchases
+C) a decrease in the MPC
+D) a decrease in the price level
+E) an increase in the price level
+Answer:  E
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+26) Which of the following would likely cause a downward parallel shift in the AE curve and a leftward shift in the AD curve? 
+A) an increase in the business confidence of firms 
+B) a reduction in government purchases 
+C) an decrease in the MPC 
+D) a decrease in the price level 
+E) an increase in the price level 
+Answer:  B
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User2:  Qualitative
+ 
+
+FIGURE 23-1
+
+27) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . The corresponding point on the aggregate demand curve is point
+A) A.
+B) B.
+C) C.
+D) D.
+E) E.
+Answer:  B
+Diff: 1
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+28) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Other things being equal, exogenous changes in the price level will cause
+A) movement along the aggregate expenditure curve   and shifts of the AD curve.
+B) movement along the aggregate expenditure curve   and movement along the aggregate demand curve  .
+C) shifts of the AE curve and shifts of the AD curve.
+D) shifts of the AE curve and movement along the aggregate demand curve  .
+E) no change in either the AE curve or the AD curve.
+Answer:  D
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+29) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Now, suppose there is an exogenous rise in the price level to  . Which of the following statements describes the likely macroeconomic effects? 
+A) The AE curve shifts to  , a new equilibrium is established at point U, and the AD curve shifts from   to  , and equilibrium from point B to point D.
+B) The AE curve shifts to  , a new equilibrium is established at point W, and the economy moves from point B to point C along  .
+C) The AE curve shifts to  , a new equilibrium is established at point U, and the economy moves from point B to point A along  
+D) The AE curve shifts to  , a new equilibrium is established at point W, and the AD curve shifts from  to  , and equilibrium moves from point B to point D.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+30) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Now, suppose there is an increase in desired investment and no change in the price level. Which of the following statements describes the likely macroeconomic effects? 
+A) The AE curve shifts up to  , the AD curve shifts to  , and a new equilibrium is established at point C, with real GDP at  .
+B) The AE curve shifts down to  , the AD curve shifts to  , and a new equilibrium is established at point F, with real GDP at  .
+C) The AE curve shifts to  , the AD curve shifts to  , and a new equilibrium is established at point E, with real GDP at  .
+D) The AE curve shifts to  , the AD curve shifts to  , and a new equilibrium is established at point F, with real GDP at  .
+E) The AE curve shifts to  , the AD curve shifts to  , and a new equilibrium is established at point E, with real GDP at  .
+Answer:  E
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+31) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Now, suppose the AE curve shifts to   and we move to a new equilibrium level of GDP at   and point A on  . A possible cause of this change in equilibrium is 
+A) an exogenous rise in the price level.
+B) a decrease in desired investment.
+C) a decrease in autonomous consumption.
+D) a decrease in desired net exports.
+E) an increase in government purchases.
+Answer:  A
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+32) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Now, suppose the AE curve shifts to   and we move to a new equilibrium level of GDP at   and point F on  . A possible cause of this change in equilibrium is
+A) an exogenous rise in the price level.
+B) an exogenous fall in the price level.
+C) an increase in autonomous consumption.
+D) a decrease in desired net exports.
+E) an increase in government purchases.
+Answer:  D
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+33) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Now, suppose the AE curve shifts to   and we move to a new equilibrium level of GDP at   and point E on  . A possible cause of this change in equilibrium is 
+A) an increase in government purchases. 
+B) an increase in the net tax rate.
+C) a decrease in desired investment. 
+D) a decrease in desired net exports. 
+E) an exogenous fall in the price level. 
+Answer:  A
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+
+ 
+34) Refer to Figure 23-1. Assume the economy is initially in equilibrium with desired aggregate expenditure equal to real GDP at point V. The price level is  . Now, suppose the AE curve shifts to   and we move to a new equilibrium level of GDP at   and point C on  . A possible cause of this change in equilibrium is 
+A) an increase in autonomous consumption. 
+B) an increase in desired investment. 
+C) an exogenous fall in the price level. 
+D) an exogenous rise in the price level. 
+E) an increase in desired net exports. 
+Answer:  C
+Diff: 2
+Topic:  23.1b. relationship between AE and AD curves
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+35) Consider a simple macro model with a given price level and demand-determined output. An exogenous change in the price level causes a
+A) shift in both the AE and AD curves.
+B) movement along the AE curve and a shift in the AD curve.
+C) movement along both the AE and AD curves.
+D) shift in the AE curve and a movement along the AD curve.
+E) movement along AE but does not affect the AD curve.
+Answer:  D
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+36) Consider the relationship between the AE curve and the AD curve. A rise in the amount of desired consumption, investment, government purchases, or net exports at any given level of national income 
+A) shifts the AD curve to the left.
+B) shifts the AD curve to the right.
+C) causes a movement along the AD curve.
+D) causes a movement along the AE curve.
+E) causes a shift of the AE curve but no movement of the AD curve.
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+ 
+37) Consider the relationship between the AE curve and the AD curve. A fall in the amount of desired consumption, investment, government purchases, or net exports at any given level of national income
+A) shifts the AD curve to the left.
+B) shifts the AD curve to the right.
+C) causes a movement along the AD curve.
+D) causes a movement along the AE curve.
+E) causes a shift of the AE curve but no movement of the AD curve.
+Answer:  A
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+38) A leftward shift of the aggregate demand (AD) curve could result from a fall in 
+A) autonomous government purchases.
+B) induced imports.
+C) the net tax rate.
+D) autonomous desired saving.
+E) the price level.
+Answer:  A
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+39) A leftward shift in the aggregate demand (AD) curve could result from a rise in
+A) autonomous exports.
+B) autonomous government purchases.
+C) government transfer payments to households.
+D) desired investment.
+E) autonomous desired savings.
+Answer:  E
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+ 
+40) A leftward shift of the aggregate demand (AD) curve could result from a rise in
+A) desired exports.
+B) government purchases.
+C) government transfer payments to households.
+D) the net tax rate.
+E) desired investment.
+Answer:  D
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+41) A rightward shift in the aggregate demand (AD) curve could result from a rise in
+A) induced imports.
+B) desired investment.
+C) the net tax rate.
+D) desired saving.
+E) the price level.
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+42) Consider the basic AD/AS macro model. The simple multiplier is reflected by the
+A) horizontal distance between initial macroeconomic equilibrium and the new intersection of AD and AS in response to a change in autonomous expenditure.
+B) downward movement along the AD curve in response to a change in autonomous expenditure.
+C) size of the rightward shift of the AD curve in response to a change in autonomous expenditure.
+D) upward movement along the AD curve in response to a change in autonomous expenditure.
+E) size of the leftward shift of the AD curve in response to a rise in autonomous expenditure.
+Answer:  C
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+ 
+43) Consider the basic AD/AS model in the short run. When there is a change in autonomous desired expenditure, the simple multiplier is equal to the
+A) product of the horizontal shift of the AD curve times the change in autonomous expenditure.
+B) product of the vertical movement along the AD curve times the change in autonomous expenditure.
+C) ratio of the horizontal shift of the AD curve to the change in autonomous expenditure.
+D) ratio of the vertical movement along the AD curve to the change in autonomous expenditure.
+E) ratio of the vertical shift of the AD curve to the change in autonomous expenditure.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Applied
+User2:  Qualitative
+
+44) One reason why the aggregate demand (AD) curve slopes downward is that
+A) aggregate expenditure increases as the price level rises.
+B) increases in the price level cause consumers to substitute foreign goods for domestic goods.
+C) increased production results in lower production costs.
+D) when the price level falls firms must be more competitive when output increases.
+E) when the price level falls consumers increase their saving rate.
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+45) One reason why the aggregate demand (AD) curve slopes downward is that
+A) aggregate expenditure increases as the price level rises.
+B) decreases in the price level cause increases in private-sector wealth which lead to increases in desired consumption.
+C) increased production results in lower production costs.
+D) when the price level falls firms must be more competitive when output increases.
+E) when the price level falls consumers increase their saving rate.
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+ 
+46) The AD curve shows the relationship between
+A) the price level and the equilibrium level of demand-determined national income.
+B) AS and real national income.
+C) real national income and AE.
+D) AS and AE.
+E) the price level and desired consumption.
+Answer:  A
+Diff: 1
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+47) Consider the relationship between the AE curve and the AD curve. A rise in the amount of desired investment expenditure at each level of national income
+A) shifts the AD curve to the left.
+B) shifts the AD curve to the right.
+C) causes a movement along the AD curve.
+D) causes a movement along the AE curve.
+E) causes a shift of the AE curve but no movement of the AD curve.
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+48) Consider the relationship between the AE curve and the AD curve. A decline in the amount of desired net exports at each level of national income 
+A) shifts the AD curve to the right.
+B) shifts the AD curve to the left. 
+C) causes a movement up along the AD curve.
+D) causes a movement down along the AD curve. 
+E) causes an upward shift of the AE curve but no movement of the AD curve.
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+49) Consider the AD/AS model. Suppose there is an increase in autonomous desired consumption at a given price level. The result is
+A) the AE curve shifts downward and the AD curve shifts to the left.
+B) the AE curve shifts downward and the AD curve shifts to the right.
+C) the AE curve shifts upward and the AD curve shifts to the left.
+D) the AE curve shifts upward and the AD curve shifts to the right.
+E) no change in either the AE or the AD curve.
+Answer:  D
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+50) Other things being equal, a ________ marginal propensity to spend will lead to a ________ AD curve.
+A) lower; flatter
+B) higher; flatter
+C) higher; steeper
+D) lower; rightward shift of the
+E) lower; leftward shift of the
+Answer:  B
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+User2:  Qualitative
+
+51) Other things being equal, a closed economy will have a ________ marginal propensity to spend and thus a ________ AD curve compared to an open economy with foreign trade.
+A) lower; flatter
+B) higher; flatter
+C) higher; steeper
+D) lower; rightward shift of the
+E) lower; leftward shift of the
+Answer:  B
+Diff: 3
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Applied
+User2:  Qualitative
+
+ 
+52) Consider two economies, A and B. Economy A has a marginal propensity to consume of 0.9, a net tax rate of 0.1 and a marginal propensity to import of 0.1. Economy B has a marginal propensity to consume of 0.6, a net tax rate of 0.2 and a marginal propensity to import of 0.2. Suppose there is a decrease in autonomous investment of $5 billion in each of these economies. Which of the following statements is true?
+A) The AD curve shifts farther to the left in Economy A than Economy B.
+B) The AD curve shifts farther to the right in Economy A than Economy B. 
+C) The AD curve shifts to the left the same amount in both economies. 
+D) The AD curve shifts to the right the same amount in both economies. 
+E) The simple multiplier is larger in Economy B. 
+Answer:  A
+Diff: 3
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+53) Consider the simple multiplier when the price level is constant. We can say that national income is ________ and that the simple multiplier measures the horizontal shift in ________ in response to a change in autonomous desired expenditure. 
+A) demand determined; the AS curve
+B) unit-cost determined; the AD curve
+C) constant; the AD curve
+D) demand determined; the AD curve
+E) constant; the AE curve
+Answer:  D
+Diff: 2
+Topic:  23.1c. slope and shifts of the AD curve
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+54) Aggregate supply refers to the
+A) decisions of firms to decrease inputs in order to produce outputs.
+B) effects of increases in input prices on output.
+C) economy's potential output at each possible labour force.
+D) supply of labour inputs in the economy.
+E) total output firms wish to produce at each price level.
+Answer:  E
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+ 
+55) The economy's aggregate supply (AS) curve shows the relationship between the
+A) equilibrium real GDP and marginal cost.
+B) equilibrium real GDP and desired consumption.
+C) price level and the marginal propensity to consume (MPC).
+D) price level and the total output that firms wish to produce and sell, with technology and input prices held constant.
+E) price level and the total output that firms wish to produce and sell, as technology and input prices vary.
+Answer:  D
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+56) The economy's aggregate supply (AS) curve shows the relationship between the price level and the total
+A) investment that firms wish to make, with input prices given.
+B) investment that firms wish to make, as input prices vary.
+C) output that firms wish to produce and sell, with input prices given.
+D) output that firms wish to produce and sell, as input prices vary.
+E) wealth accumulated by households, with national income given.
+Answer:  C
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+57) The aggregate supply (AS) curve is drawn with which variables on the axes of the graph?
+A) the price level on the vertical axis and MPC on the horizontal axis
+B) national income on the vertical axis and total desired consumption on the horizontal axis
+C) the price level on the vertical axis and real national income on the horizontal axis
+D) national income on the vertical axis and marginal cost on the horizontal axis
+E) the price level on the vertical axis and real disposable income on the horizontal axis
+Answer:  C
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+ 
+58) The aggregate supply curve relates the price level to the quantity of output that firms would like to produce and sell, given the assumption that
+A) technology and the prices of all factors of production remain constant.
+B) unit costs remain constant.
+C) all firms are price takers.
+D) all firms are price setters.
+E) technology and the prices of all factors of production do not remain constant.
+Answer:  A
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+59) In the short run, the aggregate supply curve has a positive slope because, as the price level rises, producers can 
+A) accumulate inventories.
+B) be compensated for the extra costs incurred to produce more output.
+C) experience rising factor prices.
+D) produce less in response to falling profits.
+E) increase output at unchanged unit costs.
+Answer:  B
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+60) In building a macro model with an AS curve, it is assumed that producers will
+A) increase prices without changing their output.
+B) decrease their prices without changing output.
+C) decrease their prices when they expand output.
+D) produce as much as possible at the existing price level.
+E) produce more output only if prices rise.
+Answer:  E
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+ 
+61) The economy's aggregate supply (AS) curve is assumed to slope upward because
+A) inputs become more expensive at higher levels of output.
+B) inputs become less expensive at higher levels of output.
+C) firms' unit costs rise as output increases.
+D) firms' unit costs fall as output increases. 
+E) aggregate demand increases at higher levels of national income.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+62) The economy's aggregate supply curve is drawn under two main assumptions. They are
+A) firms' unit costs are constant; prices of all factors of production are constant.
+B) firms' unit costs are constant; the state of technology is constant.
+C) firms will produce more output only if prices rise; technology improves only if prices rise.
+D) the prices of all factors of production are constant; the state of technology is constant.
+E) the prices of all factors of production are constant; productivity improves as the price level rises.
+Answer:  D
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+Objective:  NEW
+User1:  Table
+User2:  Qualitative
+
+63) A decrease in aggregate supply in the short run is 
+A) shown by a shift to the left of the AS curve.
+B) shown by a shift to the right of the AS curve.
+C) interpreted to mean that more national output will be supplied at any given price level.
+D) caused by a decrease in the price level.
+E) caused by an increase in the price level.
+Answer:  A
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+
+ 
+64) A decrease in aggregate supply in the short run is
+A) reflected in a movement to the left along the AS curve.
+B) reflected in a shift to the right in the AS curve.
+C) interpreted to mean that less total output will be supplied at any given price level.
+D) caused by a decrease in the price level.
+E) caused by an increase in the price level.
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+65) Consider the basic AD/AS model. If there is a decrease in the cost of non-labour inputs to production, the result will be to 
+A) shift the AD curve to the left.
+B) shift the AD curve to the right.
+C) shift the AS curve to the left.
+D) shift the AS curve to the right.
+E) cause a movement to the left along the AS curve.
+Answer:  D
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+
+66) Consider the basic AD/AS model. If major labour unions succeed in increasing wages across the economy, the AS curve will shift
+A) downward (to the right), reducing the price level.
+B) downward (to the right) and then return immediately to its original position.
+C) upward (to the left) and then return immediately to its original position.
+D) upward (to the left), increasing the price level.
+E) None of the above; there will no effect on the AS curve.
+Answer:  D
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+
+ 
+67) A movement along the economy's AS curve could be caused by a change in
+A) labour productivity.
+B) the cost of capital.
+C) the price level, caused in turn by an AD shock.
+D) technology.
+E) the wage rate.
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+
+68) The economy's AS curve will shift upward in the short run if there is
+A) an improvement in technology.
+B) a decrease in the cost of capital.
+C) an increase in the price level.
+D) a decrease in nominal wages.
+E) an increase in nominal wages.
+Answer:  E
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+69) The economy's AS curve will shift upward in the short run if there is
+A) a deterioration in technology.
+B) a decrease in the cost of capital.
+C) a decrease in nominal wages.
+D) a decrease in the price level.
+E) an improvement in technology.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+70) Other things being equal, the AS curve will shift downward if there is
+A) a decrease in labour productivity.
+B) a decrease in the cost of capital inputs.
+C) a decrease in the price level.
+D) an increase in the price level.
+E) an increase in nominal wages.
+Answer:  B
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+71) A rightward shift in the economy's AS curve implies that
+A) at any given price level, a lower level of output will be supplied.
+B) at any given price level, a higher level of output will be supplied.
+C) there is a decrease in aggregate supply.
+D) there is a demand shock.
+E) the same output will be produced, but only at a higher price level.
+Answer:  B
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+
+72) A leftward shift in the economy's AS curve implies that
+A) at any given price level, a lower level of output will be supplied.
+B) at any given price level, a higher level of output will be supplied.
+C) there is an increase in aggregate supply.
+D) there is a demand shock.
+E) the same output will be produced in equilibrium, but at a lower price level.
+Answer:  A
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+ 
+73) The economy's AS curve is often assumed to be relatively flat at low levels of real GDP. The underlying reasoning is that 
+A) consumer demand for most goods tends to be non-responsive to price when output is low.
+B) consumer demand for most goods tends to be very responsive to price when output is low.
+C) at low levels of output, firms are faced with unused capacity and thus can increase output without significantly increasing their costs.
+D) the price level is constant.
+E) profits are normally high in this section of the AS curve, so firms are willing to expand output.
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+74) Consider the economy's aggregate supply curve. Other things being equal, unit costs will tend to increase if 
+A) there is a rise in the price of oil.
+B) the government reduces payroll taxes.
+C) wage increases exceed productivity increases.
+D) wages rise.
+E) wage and price controls are in effect.
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+75) Consider the economy's aggregate supply curve. Other things being equal, unit costs will tend to fall if 
+A) there is a fall in the price of oil.
+B) the government increases payroll taxes.
+C) wage increases are less than productivity increases.
+D) wages fall.
+E) wage and price controls are in effect.
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+ 
+76) Consider the basic AD/AS model. When wage rates rise faster than the increase in labour productivity, the
+A) AD curve shifts left.
+B) AS curve shifts upward.
+C) output gap falls.
+D) output gap increases.
+E) AS curve shifts downward.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+77) Suppose there is a drop in the price of an important factor input. What will be the effect on the aggregate supply curve?
+A) There will be movement to the left, along the AS curve.
+B) The AS curve will shift to the left.
+C) There will be movement to the right, along the AS curve.
+D) The AS curve will shift to the right.
+E) There will be no change in the AS curve.
+Answer:  D
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+78) Consider the basic AD/AS model. Suppose that a rising percentage of high-school graduates are illiterate, resulting in a decrease in average labour productivity. This change will
+A) shift the AD curve to the left.
+B) shift the AD curve to the right.
+C) shift the AS curve to the left.
+D) shift the AS curve to the right.
+E) cause a movement to the right along the AS curve.
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+ 
+79) Consider the basic AD/AS model. Suppose that high-school graduates have better computing skills than did graduates in the past, resulting in an increase in average labour productivity. This change will
+A) shift the AS curve to the left.
+B) shift the AS curve to the right.
+C) shift the AD curve to the left.
+D) shift the AD curve to the right.
+E) cause a movement along the AS curve to the right.
+Answer:  B
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+
+80) Consider the basic AD/AS model. If their unit costs rise as output increases, price-taking firms will be prepared to produce ________ only if ________.
+A) more; prices decrease
+B) more; the economy is in equilibrium
+C) their current output; prices increase
+D) less; prices increase
+E) more; prices increase
+Answer:  E
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+81) The aggregate supply curve will shift as a result of a change in 
+1) the wage rate;
+2) the price level;
+3) technology.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 3
+E) 2 and 3
+Answer:  D
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+ 
+82) The aggregate supply curve tends to be relatively steep when GDP is above potential output because firms are operating above ________ and ________ are rising rapidly.
+A) equilibrium output; unit costs
+B) profit-maximizing output; total costs
+C) capacity; unit costs
+D) equilibrium output; total costs
+E) equilibrium output; average costs
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+83) The aggregate supply curve is usually assumed to get progressively steeper at relatively higher levels of output because 
+A) of increasing factor prices. 
+B) of increasing productivity of the factors of production. 
+C) of diminishing marginal productivity of the factors of production. 
+D) of rising competition among price setters. 
+E) of excess capacity at higher levels of output. 
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Recall
+User2:  Qualitative
+
+84) Consider the basic AD/AS model. If firms' unit costs remained constant as firms increased their output levels, this would lead to a 
+A) vertical AD curve. 
+B) horizontal AD curve. 
+C) vertical AS curve. 
+D) horizontal AS curve. 
+E) horizontal AE curve. 
+Answer:  D
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+85) The concept of "demand-determined output" requires ________ to remain constant as output increases. 
+A) technology of production 
+B) government purchases 
+C) firms' unit costs 
+D) labour productivity 
+E) the ratio of price setters to price takers 
+Answer:  C
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User2:  Qualitative
+ 
+
+FIGURE 23-2
+
+86) Refer to Figure 23-2. Which of the following events could cause the upward shift of the AS curve? 
+A) a decrease in the price of raw materials 
+B) a decrease in the world supply of oil as a result of a major hurricane 
+C) improved quality of the national education system 
+D) rapid technological advances in mass production 
+E) an increase in consumption
+Answer:  B
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+87) Refer to Figure 23-2. Which of the following events could cause the upward shift of the AS curve? 
+A) improvements in communications technology
+B) a decrease in business confidence that reduces desired investment
+C) a recession in the U.S. that reduces our net exports
+D) a major discovery of new oil reserves that will increase the world supply
+E) a massive drought that reduces agricultural output
+Answer:  E
+Diff: 2
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Qualitative
+88) Refer to Figure 23-2. The shift from   to   shown in the diagram is referred to as a(n)
+A) increase in aggregate supply.
+B) increase in unit costs.
+C) negative aggregate supply shock.
+D) positive aggregate supply shock.
+E) decrease in unit costs.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  23.2. slope and shifts of the AS curve
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+89) Macroeconomic equilibrium is described as the combination of
+A) potential output and price level that is on both the AD curve and AS curve.
+B) real GDP and price level that is on both the AD curve and 45-degree line.
+C) real GDP and price level that is on both the AD curve and AS curve.
+D) all individual demand curves and all individual supply curves.
+E) all individual demand curves and potential GDP.
+Answer:  C
+Diff: 1
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Recall
+User2:  Qualitative
+
+ 
+90) Consider the nature of macroeconomic equilibrium. If, at a particular price level, aggregate output demanded is less than that supplied by producers, then 
+A) the price level will rise toward its equilibrium value.
+B) the price level will decline toward its equilibrium value.
+C) the aggregate demand curve will shift to the right, re-establishing an equilibrium.
+D) the aggregate supply curve will shift to the left, re-establishing an equilibrium.
+E) the aggregate supply curve will shift to the right, re-establishing an equilibrium.
+Answer:  B
+Diff: 1
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User2:  Qualitative
+
+91) Consider the nature of macroeconomic equilibrium. If, at a particular price level, the total output demanded is greater than that supplied by producers, then 
+A) the price level will decline toward its equilibrium value.
+B) the price level will rise toward its equilibrium value.
+C) the aggregate demand curve will shift to the left, re-establishing an equilibrium.
+D) the aggregate supply curve will shift to the right, re-establishing an equilibrium.
+E) the aggregate supply curve will shift to the left, re-establishing equilibrium.
+Answer:  B
+Diff: 1
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User2:  Qualitative
+92) If the AS curve is vertical and there is a decrease in aggregate demand, the result is
+A) a decrease in the price level with no change in real GDP.
+B) an equal decrease in national income.
+C) an increase in the price level.
+D) an increase in national income.
+E) no change in either price level or real GDP.
+Answer:  A
+Diff: 1
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User2:  Qualitative
+
+ 
+93) Consider the AD/AS model. An increase in government purchases will have no impact on equilibrium real GDP if
+A) the AS curve slopes upward.
+B) the AS curve is vertical.
+C) the AS curve is horizontal.
+D) the marginal propensity to spend is very small.
+E) the simple multiplier is very small.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User2:  Qualitative
+
+94) Consider the basic AD/AS model. Real GDP is demand determined along the
+A) upward-sloping portion of the AS curve.
+B) downward-sloping portion of the AS curve.
+C) vertical portion of the AS curve.
+D) horizontal portion of the AS curve.
+E) None of the above - real GDP cannot be demand determined.
+Answer:  D
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Recall
+User2:  Qualitative
+
+95) Over the horizontal range of the economy's AS curve (assuming such a range exists), a rightward shift of the AD curve will result in
+A) an increase in prices and no change in real GDP.
+B) an increase in real GDP and no change in prices.
+C) an increase in both real GDP and prices.
+D) a decrease in both real GDP and prices.
+E) a decrease in real GDP but no change in prices.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User2:  Qualitative
+ 
+96) If the economy's AS curve is upward sloping, a negative shock to aggregate demand will result in
+A) an increase in prices and no change in real GDP.
+B) a decrease in prices but no change in real GDP.
+C) an increase in real GDP and no change in prices.
+D) an increase in both real GDP and prices.
+E) a decrease in both real GDP and prices.
+Answer:  E
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User2:  Qualitative
+
+97) Which of the following will cause a negative aggregate demand shock?
+A) an increase in the price of raw materials
+B) a decrease in the domestic price level
+C) an increase in the domestic price level
+D) an increase in government expenditures
+E) an increase in tax rates
+Answer:  E
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+ 
+	FIGURE 23-3
+
+98) Refer to Figure 23-3. Which of the following statements best describes the supply side of Economy A in its current equilibrium position?
+A) Unit costs are rising, but firms can produce more output by employing standby capacity and overtime labour, for example, with no increase in the price level.
+B) Firms are producing well below their capacity and are willing to produce more only if prices rise.
+C) Unit costs are rising rapidly as firms are producing beyond their capacity. Firms will produce more only if prices increase.
+D) Firms are producing well below their capacity and are willing to produce more output with no increase in price.
+E) Unit costs are rising, but firms are able to produce more output because there is excess capacity in the economy.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+99) Refer to Figure 23-3. Which of the following statements best describes the supply side of Economy B?
+A) Unit costs are rising rapidly, but firms can produce more output by employing standby capacity and overtime labour, for example, with no increase in the price level.
+B) Firms are producing well below their capacity and are willing to produce more only if prices rise.
+C) Unit costs are rising rapidly as firms are producing beyond their capacity. Firms will produce more only if prices increase.
+D) Firms are producing well below their capacity and are willing to produce more output with no increase in price.
+E) Firms are not able to produce more output because there is no excess capacity in the economy.
+Answer:  D
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+100) Refer to Figure 23-3. Suppose the price level in Economy A is above  . Which of the following statements describes what would occur?
+A) The AD curve would shift to the right until macro equilibrium is reached. 
+B) Real GDP would be above its equilibrium level which would put downward pressure on the price level until it reaches macro equilibrium at  .
+C) The amount of output supplied by firms is greater than total desired expenditure; excess supply will put downward pressure on the price level until it reaches macro equilibrium at  . 
+D) Real GDP would be below its equilibrium level which would put upward pressure on the price level until it reaches macro equilibrium. 
+E) The AS curve would shift to the left until macro equilibrium is reached. 
+Answer:  C
+Diff: 2
+Topic:  23.3a. macroeconomic equilibrium
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Qualitative
+ 
+101) Aggregate demand shocks have a large effect on real GDP and a small effect on the price level 
+A) the steeper the AS curve.
+B) on the downward-sloping portion of the AS curve.
+C) the flatter the AS curve.
+D) when the AS curve is vertical.
+E) if the AD curve is steep.
+Answer:  C
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+102) If the economy's AS curve is upward sloping, a positive aggregate demand shock will result in
+A) an increase in prices but not output.
+B) an increase in output but not prices.
+C) an increase in both output and prices.
+D) a decrease in both output and prices.
+E) a decrease in output and an increase in prices.
+Answer:  C
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+103) Consider the basic AD/AS model with an upward-sloping AS curve. A positive aggregate demand shock will cause
+A) a decrease in the price level.
+B) the equilibrium point to move rightward along the AS curve.
+C) a movement along the AD curve to the right.
+D) a shift to the right in the AS curve.
+E) the unemployment rate to remain constant.
+Answer:  B
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+104) If the economy's AS curve is very steep and there is a negative aggregate demand shock, the result will be 
+A) an increase in the price level and a decrease in real national income.
+B) an increase in both the price level and real national income.
+C) a decrease in the price level with almost no change in real national income.
+D) a decrease in the price level and an increase in real national income.
+E) no change in either price level or output.
+Answer:  C
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+105) Consider the basic AD/AS model. Suppose firms are currently producing beyond their normal capacity. A change in AD leads to a relatively
+A) large change in price level and a large change in real GDP.
+B) large change in price level and a small change in real GDP.
+C) small change in price level and a large change in real GDP.
+D) small change in price level and a small change in real GDP.
+E) no change in both price and output.
+Answer:  B
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+106) Suppose firms are currently producing output at a level beyond their normal capacity. In this situation, the AS curve will be relatively ________ and a positive AD shock will result in ________. 
+A) steep; an increase in the price level with a small increase in real GDP
+B) flat; an equal increase in the price level and in real GDP
+C) flat; a very small increase in prices but a large increase in real GDP
+D) flat; a very small decrease in the price level and a decrease in real GDP
+E) steep; a decrease in the price level and a very small decrease in real GDP
+Answer:  A
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+107) In the basic AD/AS model, the effect of an aggregate demand shock is divided between a change in output and a change in the price level. How the effect is divided depends on the
+A) amount of inflation in the economy.
+B) position of the AE curve.
+C) size of the simple multiplier.
+D) slope of the AD curve.
+E) slope of the AS curve.
+Answer:  E
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+108) Which of the following would cause a positive aggregate demand shock, but leave the aggregate supply curve unaffected?
+A) A free trade agreement between Canada and the United States that leads Canadian businesses to increase investment expenditures.
+B) A severe drought lasting for six months that destroys agricultural and forestry production.
+C) A medical report confirming that improved health for Canadian workers caused fewer lost days of production.
+D) An improvement in the computer literacy of workers.
+E) A substantial increase in world oil prices.
+Answer:  A
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+109) If the economy is in macroeconomic equilibrium with a vertical AS curve, and then aggregate demand increases, we expect the AE function to shift to a
+A) higher level and stay there.
+B) higher level, but then shift part of the way down to its original position as the price level rises.
+C) higher level but then return to its original position as the price level rises.
+D) lower level and stay there.
+E) lower level, but then return to its original position as the price level rises.
+Answer:  C
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+110) If the economy is in macroeconomic equilibrium with a vertical AS curve, and then aggregate demand decreases, we expect the AE function to shift to a
+A) higher level and stay there.
+B) higher level, but then shift part of the way down to its original position as the price level falls.
+C) higher level but then return to its original position as the price level falls.
+D) lower level and stay there.
+E) lower level, but then return to its original position as the price level falls.
+Answer:  E
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+111) Aggregate demand (AD) shocks have a smaller effect on real GDP and a larger effect on the price level
+A) the steeper the AS curve.
+B) on the downward-sloping portion of the AS curve.
+C) the flatter the AS curve.
+D) on the upward-sloping portion of the AS curve.
+E) if the AD curve is flatter.
+Answer:  A
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+112) Which of the following represents a positive aggregate supply shock?
+A) an outbreak of war among oil-exporting countries
+B) a general labour strike across the country
+C) bad weather which cripples telecommunications for one month
+D) improved computer literacy for the typical worker
+E) an increase in exports
+Answer:  D
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+113) Which of the following will cause a positive aggregate supply shock?
+A) an increase in the price of raw materials
+B) a decrease in the price of foreign output
+C) an increase in the price of foreign output
+D) a decrease in the price of oil
+E) a decrease in productivity
+Answer:  D
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+114) Aggregate supply shocks cause the price level and real GDP to change in 
+A) the same direction with price changing by more than output.
+B) the same direction and by the same amount.
+C) opposite directions with price changing by less than output.
+D) opposite directions but not necessarily by the same amount.
+E) opposite directions but by the same amount.
+Answer:  D
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+115) Consider the basic AD/AS macro model. A rise in an input price like the price of oil would be expected to cause a new macroeconomic equilibrium in which the price level
+A) and real GDP are higher than in the initial equilibrium.
+B) and real GDP are lower than in the initial equilibrium.
+C) is lower and real GDP higher than in the initial equilibrium.
+D) is higher and real GDP remained the same as in the initial equilibrium.
+E) is higher and real GDP lower than in the initial equilibrium.
+Answer:  E
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+116) Consider the basic AD/AS model. A rise in an input price like the wage rate would be expected to create a new macroeconomic equilibrium, which in comparison to the original equilibrium, has a price level that is
+A) higher and a real GDP that is higher.
+B) higher and a real GDP that is lower.
+C) higher and a real GDP that is the same.
+D) lower and a real GDP that is higher.
+E) lower and a real GDP that is lower.
+Answer:  B
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+117) Consider the AD/AS macro model. Suppose there is an increase in aggregate demand and, simultaneously, a decrease in aggregate supply. The result will be a
+A) rise in real GDP but price level changes will be indeterminate.
+B) rise in real GDP and a rise in the price level.
+C) rise in real GDP and a fall in the price level.
+D) an indeterminate change in real GDP and a rise in the price level.
+E) an indeterminate change in real GDP and a fall in the price level.
+Answer:  D
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+118) Consider the AD/AS model. Suppose there is a decrease in aggregate demand and, simultaneously, an increase in aggregate supply. The result will be a
+A) rise in real GDP but price level changes will be indeterminate.
+B) rise in real GDP and a rise in the price level.
+C) rise in real GDP and a fall in the price level.
+D) an indeterminate change in real GDP and a rise in the price level.
+E) an indeterminate change in real GDP and a fall in the price level.
+Answer:  E
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+ 
+119) Consider the following news headline: "World commodity prices rise sharply." Choose the statement below that best describes the likely macroeconomic effects in Canada. (Remember that Canada is both a producer and a consumer of commodities.)
+A) there is no change in either the AD or the AS curves
+B) the AD curve shifts to the left and the AS curve shifts to the right; the price level falls and the effect on real GDP is indeterminate
+C) the AD and AS curves both shift to the left; the effect on the price level is indeterminate and real GDP decreases
+D) the AD and AS curves both shift to the right; the effect on the price level is indeterminate and real GDP increases
+E) the AD curve shifts to the right and the AS curve shifts to the left; the price level rises and the effect on real GDP is indeterminate
+Answer:  E
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+120) Consider the following news headline: "Governments plan massive hospital construction programs across the country." Choose the statement below that best describes the likely macroeconomic effects.
+A) the AD curve shifts to the left; the price level falls and real GDP falls
+B) the AD curve shifts to the right; the price level rises and real GDP rises
+C) the AD curve shifts to the right and the AS curve shifts to the left; the price level rises and the effect on real GDP is indeterminate
+D) the AD curve shifts to the left and the AS curve shifts to the right; the price level falls and the effect on real GDP is indeterminate
+E) the AD and AS curves both shift to the right; the effect on the price level is indeterminate and real GDP rises
+Answer:  B
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+121) Consider the following news headline: "Information technology costs for Canadian firms continue to drop." Choose the statement below that best describes the likely macroeconomic effect.
+A) the AD curve shifts to the right; the price level rises and real GDP rises
+B) the AD curve shifts to the left; the price level falls and real GDP falls
+C) the AS curve shifts to the left; the price level rises and real GDP falls
+D) the AS curve shifts to the right; the price level falls and real GDP rises
+E) the AD and AS curves both shift to the right; the effect on the price level is indeterminate and real GDP rises
+Answer:  D
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User2:  Qualitative
+122) Consider the following news headline: "Threat of widespread labour unrest leads to generous wage increases in several industries." Choose the statement below that best describes the likely macroeconomic effects. 
+A) The AS curve shifts to the left; the price level rises and real GDP falls. 
+B) The AS curve shifts to the right; the price level falls and real GDP rises.
+C) The AD curve shifts to the left; the price level falls and real GDP falls. 
+D) The AD curve shifts to the right; the price level rises and real GDP rises. 
+E) The AD and AS curves both shift to the left; the effect on the price level is indeterminate and real GDP falls. 
+Answer:  A
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+123) Consider the following two headlines appearing in the same day: "Federal government announces major new infrastructure investments" and "New technology drives down transport costs." Choose the statement below that best describes the likely macroeconomic effects. 
+A) The AS curve shifts to the left; the price level rises and real GDP falls.
+B) The AS curve shifts to the right; the price level falls and real GDP rises.
+C) The AD curve shifts to the left; the price level falls and real GDP falls. 
+D) The AD curve shifts to the right; the price level rises and real GDP rises. 
+E) The AD and AS curves both shift to the right; the effect on the price level is indeterminate and real GDP rises. 
+Answer:  E
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+124) Suppose the economy is hit by a shock and we observe that the price level has decreased whereas real GDP has increased. We can conclude that this shock was 
+A) a positive AD shock. 
+B) a negative AD shock. 
+C) a positive AS shock. 
+D) a negative AS shock. 
+E) a negative technology shock. 
+Answer:  C
+Diff: 2
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+ 
+
+FIGURE 23-4
+
+125) Consider Figure 23-4. Initially the economy is in equilibrium at point A. An unexpected shock then shifts both the AD and the AS curves as shown and results in a new equilibrium represented by point B. Which of the following events could cause such a shock? 
+A) an increase in the net tax rate 
+B) a decrease in firms' desired investment expenditures 
+C) an increase in factor prices 
+D) a decrease in labour productivity 
+E) a decrease in the world price of oil 
+Answer:  E
+Diff: 3
+Topic:  23.3b. AD shocks and AS shocks
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+126) If the economy's AS curve is completely horizontal, the multiplier in the AD/AS model is 
+A) infinitely large.
+B) equal to the simple multiplier.
+C) smaller than the simple multiplier.
+D) is zero.
+E) negative.
+Answer:  B
+Diff: 2
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User2:  Qualitative
+127) When the economy's AS curve is positively sloped, the multiplier in the AD/AS model is 
+A) constant.
+B) equal to one.
+C) equal to the simple multiplier.
+D) smaller than the simple multiplier.
+E) larger than the simple multiplier.
+Answer:  D
+Diff: 2
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User2:  Qualitative
+
+128) If the economy's AS curve is vertical, the multiplier in the AD/AS model is 
+A) infinitely large.
+B) equal to the simple multiplier.
+C) smaller than the simple multiplier.
+D) zero.
+E) negative.
+Answer:  D
+Diff: 3
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User2:  Qualitative
+
+ 
+129) Suppose the government embarks on an infrastructure program, spending $8 billion on the construction of new roads and bridges. What is the size of the multiplier if the AS curve is vertical?
+A) 0
+B) greater than 1
+C) less than 1
+D) infinity
+E) insufficient information to solve
+Answer:  A
+Diff: 2
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User2:  Quantitative
+
+130) When the price level varies, the multiplier is ________ the simple multiplier.
+A) larger than
+B) smaller than
+C) definitionally the same as
+D) not comparable to
+E) equal to
+Answer:  B
+Diff: 2
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Recall
+User2:  Qualitative
+ 
+ 
+
+FIGURE 23-5
+
+131) Refer to Figure 23-5. Suppose that an increase in government purchases by 50 causes the AD curve to shift to the right, as shown. The simple multiplier is ________ and the multiplier is ________. 
+A) 6; 1.2 
+B) 2.8; 1.2 
+C) 4; 1.2 
+D) 4; 2.8 
+E) 4; 3.2 
+Answer:  C
+Diff: 3
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+132) Refer to Figure 23-5. Suppose that an increase in government purchases caused the AD curve to shift to the right, as shown. If the simple multiplier in this model is 5, then how much was the increase in government purchases?
+A) 30
+B) 40
+C) 50
+D) 12
+E) not enough information to know
+Answer:  B
+Diff: 3
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+133) Refer to Figure 23-5. Suppose that an increase in government purchases caused the AD curve to shift to the right, as shown. If the simple multiplier in this model is 4, then what is the value of the multiplier?
+A) 1.2 
+B) 1.4 
+C) 4
+D) 2.8 
+E) 3.2 
+Answer:  A
+Diff: 3
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+ 
+ 
+	FIGURE 23-3
+
+134) Refer to Figure 23-3. Which of the two economies, A or B, will experience more volatile fluctuations in national income in response to aggregate demand shocks?
+A) Economies A and B will experience similar volatility because the slopes of the AD curves are the same.
+B) Economy A because the large fluctuations in the price level lead to large fluctuations in national income.
+C) Economy A because the multiplier is much larger than in Economy B.
+D) Economy B because the multiplier is much smaller than in Economy A.
+E) Economy B because output is purely demand determined, and there is no offsetting effect from a price level increase.
+Answer:  E
+Diff: 2
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+135) Refer to Figure 23-3. Which of the following statements correctly describes the difference between the multipliers (in response to an increase in autonomous expenditure) in Economy A and Economy B? The multiplier in Economy A is ________ while the multiplier in Economy B is ________.
+A) almost zero; equal to one
+B) almost zero; equal to the simple multiplier
+C) equal to the simple multiplier; almost zero
+D) equal to one; almost zero
+E) equal to one; equal to the simple multiplier
+Answer:  B
+Diff: 3
+Topic:  23.3c. the multiplier when the price level varies
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative

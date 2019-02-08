@@ -1,0 +1,1903 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 21   The Simplest Short-Run Macro Model
+
+1) With respect to consumption, investment, government purchases and net exports, the national-income and product accounts measure
+A) desired expenditures in each of the categories.
+B) both actual and desired expenditures, since actual expenditure must equal desired expenditure in each category.
+C) the flow of saving at any income.
+D) neither actual nor desired expenditures.
+E) actual expenditures in each of the categories.
+Answer:  E
+Diff: 1
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Recall
+User2:  Qualitative
+
+2) For firms or individual households, desired expenditure is
+A) always greater than planned expenditure.
+B) always greater than actual expenditure.
+C) not relevant because human wants are unlimited.
+D) what they plan on spending, given the resources at their command.
+E) not a useful concept because it cannot be measured.
+Answer:  D
+Diff: 1
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Applied
+User2:  Qualitative
+
+3) In the simple macroeconomic model, "autonomous expenditures" are
+A) dependent on national income.
+B) not dependent on national income.
+C) induced expenditures.
+D) those which are constant.
+E) non-domestic expenditures.
+Answer:  B
+Diff: 1
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Recall
+User2:  Qualitative
+
+ 
+4) Undesired or unplanned inventory accumulation is likely to occur when
+A) consumption exceeds investment.
+B) investment exceeds consumption.
+C) autonomous expenditure exceeds induced expenditure.
+D) desired aggregate expenditure exceeds actual aggregate expenditure.
+E) actual aggregate expenditure exceeds desired aggregate expenditure.
+Answer:  E
+Diff: 2
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Recall
+User2:  Qualitative
+5) Undesired or unplanned inventory decumulation is likely to occur when
+A) consumption exceeds investment.
+B) investment exceeds consumption.
+C) autonomous expenditure exceeds induced expenditure.
+D) desired aggregate expenditure exceeds actual aggregate expenditure.
+E) actual aggregate expenditure exceeds desired aggregate expenditure.
+Answer:  D
+Diff: 2
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Recall
+User2:  Qualitative
+
+6) In each of the four expenditure categories, national income accounts measure ________ expenditures, while the theoretical model of the economy deals with ________ expenditures.
+A) actual; autonomous
+B) desired; actual
+C) induced; exogenous
+D) endogenous; exogenous
+E) actual; desired
+Answer:  E
+Diff: 1
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+7) Consider the equation: AE = C + I + G + (X - IM). Which of the following statements correctly describes this sum? 
+A) It is a summation of the desired expenditures on domestically produced output. 
+B) It is a summation of actual expenditures and is equivalent to GDP.
+C) It is a summation of planned expenditures and is equal to nominal GDP. 
+D) It is a summation of planned expenditures and is always equal to real GDP. 
+E) It is a summation of the desired expenditures of domestic households, firms and government. 
+Answer:  A
+Diff: 2
+Topic:  21.1a. desired vs. actual expenditures
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+8) In macroeconomics, the consumption function
+A) and the aggregate expenditure function are the same.
+B) describes the relationship between desired consumption expenditure and the factors that determine it, like national income.
+C) refers to the relationship between consumption expenditure and relative prices.
+D) refers to the relationship between an individual's consumption and his/her wealth.
+E) is relatively unimportant in macroeconomics, because consumption is such a small component of aggregate expenditure.
+Answer:  B
+Diff: 1
+Topic:  21.1b. the consumption function
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+9) The consumption function is based on the assumption that as real disposable income rises, aggregate desired consumption
+A) will fall and desired saving will rise.
+B) will rise and desired saving will fall.
+C) and desired saving will both rise.
+D) remains constant and desired saving will rise.
+E) remains constant and desired saving will fall.
+Answer:  C
+Diff: 1
+Topic:  21.1b. the consumption function
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+10) In a simple macro model, an increase in households' wealth is generally assumed to 
+A) cause no change in desired consumption because consumption is a function of disposable income only.
+B) cause no change in desired consumption because the increase is always expected.
+C) cause a downward shift in the aggregate consumption function.
+D) cause an upward shift in the aggregate consumption function.
+E) affect only desired saving, not desired consumption.
+Answer:  D
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User2:  Quantitative
+11) In a simple macro model, a decrease in households' wealth is generally assumed to 
+A) cause no change in consumption because consumption is a function of disposable income only.
+B) cause no change in consumption because the decline is always expected.
+C) cause a downward shift in the consumption function.
+D) cause an upward shift in the consumption function.
+E) affect only saving, not consumption.
+Answer:  C
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User2:  Qualitative
+
+12) Consider the consumption function in a simple macro model with no taxes. At the level of national income where APC = 1, the nation's households are 
+A) consuming all of their disposable income.
+B) allocating their income equally between saving and consumption.
+C) saving a portion of their income, but saving is less than consumption.
+D) spending more than their current income.
+E) saving all of their disposable income.
+Answer:  A
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+ 
+
+FIGURE 21-1
+
+13) Refer to Figure 21-1. The APC will be equal to one (1.0) when disposable income is equal to 
+A) 0.
+B) Y1.
+C) Y2.
+D) Y3.
+E) desired saving.
+Answer:  C
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+14) Refer to Figure 21-1. If disposable income is equal to Y3, desired consumption expenditure is equal to
+A) Y3E.
+B) Y3D.
+C) Y3F.
+D) Y3.
+E) DE.
+Answer:  B
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+15) Refer to Figure 21-1. The marginal propensity to consume is equal to
+A) EF/Y2Y3.
+B) EF/DF.
+C) ED/CF.
+D) DF/Y2Y3.
+E) ED/Y2Y3.
+Answer:  D
+Diff: 3
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+16) Refer to Figure 21-1. If disposable income is Y3, the level of desired saving is
+A) DE.
+B) FD.
+C) Y3F.
+D) Y3D.
+E) Y2Y3.
+Answer:  A
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+17) Refer to Figure 21-1. The marginal propensity to save can be expressed as
+A) DE/Y1Y3.
+B) DE/Y2Y3.
+C) DF/Y2Y3.
+D) FE/Y1Y3.
+E) FE/Y2Y3.
+Answer:  B
+Diff: 3
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+18) Refer to Figure 21-1. Desired consumption expenditures will equal disposable income at an income level of
+A) zero.
+B) Y1.
+C) Y2.
+D) Y3.
+E) more than Y3.
+Answer:  C
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+19) Refer to Figure 21-1. If disposable income is zero, then
+A) autonomous desired consumption is 0A.
+B) autonomous desired consumption is 0Y1.
+C) desired consumption must also be zero.
+D) the level of desired saving will be 0A.
+E) autonomous desired saving will be 0A.
+Answer:  A
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+
+FIGURE 21-2
+
+20) Refer to Figure 21-2. If disposable income is $3000, desired consumption expenditure is equal to
+A) $0.
+B) $500.
+C) $1000.
+D) $1500.
+E) $2000.
+Answer:  E
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+21) Refer to Figure 21-2. The APC will be equal to one (1.0) when disposable income is
+A) $0.
+B) $1000.
+C) $2000.
+D) $3000.
+E) Not enough information to determine.
+Answer:  B
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+ 
+22) Refer to Figure 21-2. Which of the following is the correct equation for the consumption function depicted in the figure?
+A) C = 500 + (2/3)YD
+B) C = (0.5)YD
+C) C = 1000 + (2/3)YD
+D) C = 500 + (0.5)YD
+E) C = 2000 + (2/3)YD
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+23) Refer to Figure 21-2. The slope of the consumption function in the figure is equal to
+A) the marginal propensity to consume.
+B) the average propensity to consume.
+C) the marginal propensity to save.
+D) the average propensity to save.
+E) the slope of the 45-degree line.
+Answer:  A
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+24) Refer to Figure 21-2. The slope of the consumption function in the figure is equal to
+A) 1.0.
+B) 0.67.
+C) 0.5.
+D) -0.5.
+E) -1.0.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+ 
+25) Refer to Figure 21-2. The amount of desired consumption expenditure that is unrelated to the level of disposable income is
+A) $0.
+B) $500.
+C) $1000.
+D) $1500.
+E) $2000.
+Answer:  B
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+26) Consider a consumption function of the following form: C = 50 + (0.6)YD. At what level of disposable income will desired savings be equal to zero?
+A) 31.25
+B) 50
+C) 83.33
+D) 125
+E) 208.33
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.1b. the consumption function
+Skill:  Applied
+User2:  Quantitative
+
+27) On a graph of a consumption function, what is the significance of the 45-degree line?
+A) It connects all points where desired consumption equals desired expenditure.
+B) It connects all points where desired consumption equals actual disposable income.
+C) It shows the slope of the average consumption function, against which we measure other consumption functions.
+D) It connects all points where desired consumption equals desired saving.
+E) Desired consumption is zero at all points along the 45-degree line.
+Answer:  B
+Diff: 3
+Topic:  21.1b. the consumption function
+Skill:  Recall
+User2:  Qualitative
+
+ 
+28) If the consumption function coincides with the 45-degree line, then we know that
+A) desired consumption is constant at all levels of disposable income.
+B) the marginal propensity to consume is less than one.
+C) the marginal propensity to consume is greater than one.
+D) desired consumption equals desired saving at all levels of disposable income.
+E) desired saving is zero at all levels of disposable income.
+Answer:  E
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Recall
+User2:  Qualitative
+29) Consider a consumption function that is upward sloping but flatter than the 45-degree line. When real disposable income rises
+A) desired consumption will fall and saving will rise.
+B) desired consumption will rise and saving will fall.
+C) desired consumption and saving will both rise.
+D) desired consumption remains constant.
+E) saving remains constant.
+Answer:  C
+Diff: 2
+Topic:  21.1b. the consumption function
+Skill:  Recall
+User2:  Qualitative
+
+30) If a family's annual disposable income rose from $60 000 to $65 000 and their desired consumption expenditures rose from $50 000 to $54 000, it can be concluded that the family's
+A) marginal propensity to consume is $800.
+B) average propensity to consume is 0.8.
+C) marginal propensity to consume is 0.8.
+D) average propensity to save is 0.8.
+E) marginal propensity to save is 0.8.
+Answer:  C
+Diff: 2
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User2:  Quantitative
+
+ 
+Disposable Income	Desired Consumption
+  0	 10
+ 50	 30
+150	 70
+300	130
+
+TABLE 21-1
+
+31) Refer to Table 21-1. The marginal propensity to consume is equal to
+A) 0.8.
+B) 0.67.
+C) 0.6.
+D) 0.4.
+E) 0.2.
+Answer:  D
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+32) Refer to Table 21-1. The marginal propensity to save is equal to 
+A) 0.2.
+B) 0.4.
+C) 0.6.
+D) 0.67.
+E) 0.8.
+Answer:  C
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+ 
+Disposable Income	Desired Consumption
+  0	 10
+ 30	 34
+ 70	 66
+130	114
+
+TABLE 21-2
+
+33) Refer to Table 21-2. The marginal propensity to save is equal to
+A) 0.8.
+B) 0.67.
+C) 0.6.
+D) 0.4.
+E) 0.2.
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+34) Refer to Table 21-2. The marginal propensity to consume is equal to 
+A) 0.2.
+B) 0.4.
+C) 0.6.
+D) 0.67.
+E) 0.8.
+Answer:  E
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+ 
+35) Desired consumption divided by disposable income is called the
+A) average propensity to consume.
+B) average propensity to save.
+C) average propensity to spend.
+D) marginal propensity to save.
+E) total propensity to save.
+Answer:  A
+Diff: 1
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+36) Desired consumption expenditure divided by disposable income is called the
+A) consumption function.
+B) marginal propensity to consume.
+C) average propensity to consume.
+D) average propensity to save.
+E) relative consumption ratio.
+Answer:  C
+Diff: 1
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+37) The "marginal propensity to consume" refers to the additional
+A) desired saving that occurs out of an additional dollar of disposable income.
+B) desired consumption that occurs out of an additional dollar of disposable income.
+C) desired consumption that occurs out of an additional dollar of investment.
+D) desired consumption caused by a change in tastes.
+E) desired consumption that occurs over time.
+Answer:  B
+Diff: 1
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Recall
+User2:  Qualitative
+
+ 
+38) The change in desired consumption divided by the change in disposable income that brought it about is called the
+A) average propensity to consume.
+B) average propensity not to consume.
+C) consumption function.
+D) marginal propensity to consume.
+E) marginal propensity not to spend.
+Answer:  D
+Diff: 1
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Recall
+User2:  Qualitative
+39) The marginal propensity to consume is defined to be 
+A) the change in desired consumption divided by the change in saving.
+B) the change in desired consumption divided by total disposable income.
+C) the change in desired consumption divided by the change in disposable income.
+D) total desired consumption divided by total disposable income.
+E) total desired consumption divided by the change in disposable income.
+Answer:  C
+Diff: 1
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Recall
+User2:  Qualitative
+
+40) If the marginal propensity to consume (MPC) is equal to 0.9, an increase in household income causes desired consumption expenditure to
+A) rise by more than the increase in income.
+B) rise by the full increase in income.
+C) rise by less than the full increase in income.
+D) fall, as an increase in income will increase saving.
+E) remain constant, because the MPC is also constant.
+Answer:  C
+Diff: 2
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User2:  Qualitative
+
+ 
+41) The consumption function is based on a number of assumptions. Given these assumptions, which of the following statements is true?
+A) Below a certain level of income, APC > 1 and MPC < 0.
+B) The MPC and APC are always less than unity.
+C) As income rises, the MPC falls and the APC rises.
+D) The MPC is greater than zero and less than one, and the APC falls as income rises.
+E) The APC is greater than zero and less than one, and the MPC falls as income rises.
+Answer:  D
+Diff: 2
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+42) The Smith family's disposable income rose from $40 000 per year to $42 000 and their desired consumption expenditure rose from $38 000 to $39 600. It can be concluded that their 
+A) average propensity to consume is 0.8.
+B) average propensity to save is 0.8.
+C) marginal propensity to consume is $800.
+D) marginal propensity to consume is 0.8.
+E) marginal propensity to save is 0.8.
+Answer:  D
+Diff: 2
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User2:  Quantitative
+43) Jean Tremblay's disposable income rose from $40 000 per year to $42 000 and his desired consumption expenditure rose from $38 000 to $39 600. It can be concluded that his 
+A) average propensity to consume decreased from 0.950 to 0.943.
+B) average propensity to save decreased from 0.950 to 0.943.
+C) marginal propensity to consume is 0.050.
+D) marginal propensity to consume increased from 0.050 to 0.058.
+E) marginal propensity to save is 0.80.
+Answer:  A
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User2:  Quantitative
+
+ 
+44) Bob Tetley's disposable income rose from $40 000 per year to $42 000 and his desired consumption expenditure rose from $38 000 to $39 500. It can be concluded that his 
+A) average propensity to consume is constant.
+B) average propensity to save is always 0.25.
+C) marginal propensity to consume decreased.
+D) marginal propensity to consume is 0.25.
+E) marginal propensity to save is 0.25.
+Answer:  E
+Diff: 2
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+45) Which of the following statements must be true in the simple macro model ? 
+A) APC increases as income rises.
+B) APS decreases as income rises.
+C) MPS and MPC are both negative.
+D) MPC is negative below a certain level of income.
+E) The sum of MPC and MPS is one.
+Answer:  E
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User2:  Qualitative
+
+46) If the Jones family's disposable income increases from $1200 to $1700 and their desired saving increases from -$100 to +$100, then the family's
+A) average propensity to consume is 0.60.
+B) average propensity to consume is 0.40.
+C) marginal propensity to consume is 0.40.
+D) marginal propensity to consume is 0.60.
+E) marginal propensity to save is 1.
+Answer:  D
+Diff: 3
+Topic:  21.1c. average and marginal propensities to consume
+Skill:  Applied
+User2:  Quantitative
+ 
+47) Total desired saving divided by total income is called the
+A) average propensity to consume.
+B) average propensity to save.
+C) average propensity to spend.
+D) marginal propensity to save.
+E) total propensity to save.
+Answer:  B
+Diff: 1
+Topic:  21.1d. the saving function
+Skill:  Recall
+User2:  Qualitative
+
+48) The marginal propensity to save refers to the
+A) additional saving that occurs out of an additional dollar of income.
+B) additional saving that occurs out of an additional dollar of investment.
+C) total saving divided by a change in income.
+D) change in saving divided by total income.
+E) additional saving that occurs over time.
+Answer:  A
+Diff: 1
+Topic:  21.1d. the saving function
+Skill:  Recall
+User2:  Qualitative
+
+49) In a simple model of the economy, without government or taxes, a shock that causes an upward shift of the aggregate consumption function also causes ________ shift of the saving function.
+A) an equal upward
+B) a less-than-equal upward
+C) an equal downward
+D) a less-than-equal downward
+E) no
+Answer:  C
+Diff: 2
+Topic:  21.1d. the saving function
+Skill:  Applied
+User2:  Qualitative
+
+ 
+50) When desired consumption exceeds disposable income, desired saving is ________; when desired consumption is less than the disposable income, desired saving is ________.
+A) negative; negative
+B) positive; negative
+C) negative; positive
+D) positive; positive
+E) zero; positive
+Answer:  C
+Diff: 2
+Topic:  21.1d. the saving function
+Skill:  Recall
+User2:  Qualitative
+51) Desired investment expenditure will generally fall as a result of which of the following changes?
+A) a decrease in business confidence
+B) a decrease in interest rates
+C) an increase in government purchases
+D) an increase in sales volume
+E) an increase in business confidence
+Answer:  A
+Diff: 1
+Topic:  21.1e. desired investment
+Skill:  Recall
+User2:  Qualitative
+
+52) In the simple macro model, desired investment is assumed to be autonomous with respect to national income. Which of the following will cause a shift of the investment function?
+1) a decrease in interest rates
+2) an increase in firms' optimism about the economy
+3) an expectation of a downturn in future economic activity
+A) 1 and 2
+B) 2 and 3
+C) 1 and 3
+D) 1, 2, and 3
+E) 1 only
+Answer:  D
+Diff: 2
+Topic:  21.1e. desired investment
+Skill:  Recall
+User2:  Qualitative
+
+ 
+53) Investment expenditure is the ________ volatile component of GDP, and changes in investment are ________ associated with business-cycle fluctuations.
+A) most; strongly
+B) most; weakly
+C) least; strongly
+D) least; weakly
+E) least; not
+Answer:  A
+Diff: 1
+Topic:  21.1e. desired investment
+Skill:  Recall
+User2:  Qualitative
+54) A rise in the real rate of interest ________ the opportunity cost of holding an inventory of a given size, and therefore ________ desired investment expenditure.
+A) increases; increases
+B) increases; decreases
+C) decreases; increases
+D) decreases; leaves unaffected
+E) decreases; decreases
+Answer:  B
+Diff: 2
+Topic:  21.1e. desired investment
+Skill:  Applied
+User2:  Qualitative
+
+55) In Canada, as in many other countries, the largest component of domestic investment expenditure is
+A) plant and equipment.
+B) residential housing.
+C) inventories.
+D) financial assets.
+E) savings.
+Answer:  A
+Diff: 1
+Topic:  21.1e. desired investment
+Skill:  Recall
+User2:  Qualitative
+
+ 
+56) Other things being equal, higher real interest rates tend to 
+A) increase every component of desired investment expenditure.
+B) reduce every component of desired investment expenditure.
+C) reduce every component of desired investment expenditure except residential housing.
+D) reduce every component of desired investment expenditure except inventories.
+E) reduce every component of desired investment expenditure except plant and equipment.
+Answer:  B
+Diff: 2
+Topic:  21.1e. desired investment
+Skill:  Applied
+User2:  Qualitative
+
+57) In the simplest macroeconomic model, with a closed economy and no government, the aggregate expenditure (AE) function is the sum of
+A) saving and desired investment.
+B) consumption and disposable income.
+C) desired consumption and desired investment.
+D) consumption and saving.
+E) actual consumption and actual investment.
+Answer:  C
+Diff: 1
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Recall
+User2:  Qualitative
+58) Consider the simplest macroeconomic model, with a closed economy and no government. If we assume that desired investment is autonomous with respect to national income, then the investment function (which graphs desired investment against actual national income) will be
+A) negatively sloped.
+B) positively sloped and relatively steep.
+C) positively sloped and relatively flat.
+D) vertical.
+E) horizontal.
+Answer:  E
+Diff: 1
+Topic:  21.1e. desired investment
+Skill:  Recall
+User2:  Qualitative
+
+ 
+59) The schedule that relates the level of desired total expenditures to the level of actual national income is called the
+A) consumption function.
+B) desired aggregate demand function.
+C) aggregate expenditure function.
+D) dissaving function.
+E) equilibrium function.
+Answer:  C
+Diff: 1
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Recall
+User2:  Qualitative
+
+60) The increase in aggregate planned expenditures divided by the change in national income that brought it about is called the 
+A) average propensity to consume.
+B) average propensity to save.
+C) marginal propensity to spend.
+D) marginal propensity to save.
+E) marginal propensity to consume.
+Answer:  C
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+61) Suppose there is an increase in the marginal propensity to spend out of national income. The result will be
+A) a movement to the right along the AE curve.
+B) a movement to the left along the AE curve.
+C) an increase in the slope of the AE curve.
+D) a decrease in the slope of the AE curve.
+E) a parallel upward shift in the AE curve.
+Answer:  C
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+62) A decrease in the marginal propensity to spend out of national income will cause
+A) a movement to the right along the AE curve.
+B) a movement to the left along the AE curve.
+C) an increase in the slope of the AE curve, which rotates it upward.
+D) a decrease in the slope of the AE curve, which rotates it downward.
+E) a parallel downward shift in the AE curve.
+Answer:  D
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User2:  Qualitative
+ 
+ 
+
+FIGURE 21-3
+
+63) Refer to Figure 21-3. Assuming AE0 is the prevailing aggregate expenditure function, the distance 0A is a measure of
+A) aggregate expenditure at equilibrium national income.
+B) autonomous desired expenditures.
+C) induced expenditures.
+D) desired saving.
+E) desired investment.
+Answer:  B
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+64) Refer to Figure 21-3. Assuming AE0 is the prevailing aggregate expenditure function, at a level of national income equal to Y3 we can state that
+A) consumption is greater than desired aggregate expenditure.
+B) consumption is less than desired aggregate expenditure.
+C) desired aggregate expenditure is greater than output.
+D) desired aggregate expenditure is less than output.
+E) desired saving is less than zero.
+Answer:  D
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+65) Refer to Figure 21-3. In this demand-determined model of the macro economy, the price level is
+A) measured by Y2/0B.
+B) measured by Y1Y2/AB.
+C) increasing as the economy moves from E0 to E1.
+D) assumed to be constant.
+E) derived from the slope of the AE function.
+Answer:  D
+Diff: 3
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+66) Refer to Figure 21-3. If national income is Y1 and the aggregate expenditure function is AE1, then desired aggregate expenditure
+A) exceeds income and income will rise.
+B) exceeds income and income will fall.
+C) is less than income and income will rise.
+D) is equal to income and income will not change.
+E) is less than income and income will fall.
+Answer:  A
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+67) Refer to Figure 21-3. If national income is Y3 and the aggregate expenditure function is AE1, 
+A) the economy is in equilibrium.
+B) there is unintended inventory accumulation and income will rise.
+C) there is unintended inventory accumulation and income will fall.
+D) there is unintended inventory decumulation and income will rise.
+E) there is unintended inventory decumulation and income will fall.
+Answer:  C
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+68) Refer to Figure 21-3. If national income is Y1 and the aggregate expenditure function is AE1,
+A) the economy is in equilibrium.
+B) there is unintended inventory accumulation and income will rise.
+C) there is unintended inventory accumulation and income will fall.
+D) there is unintended inventory decumulation and income will rise.
+E) there is unintended inventory decumulation and income will fall.
+Answer:  D
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+69) The aggregate expenditure (AE) function is an upward-sloping curve that describes
+A) the amount spent on an economy's output at each national income.
+B) what firms and households would like to spend at each level of national income.
+C) what an economy would like to spend, in the absence of income constraints, at each level of output.
+D) what is actually spent on an economy's output at each level of output.
+E) what is actually spent at each level of national income.
+Answer:  B
+Diff: 1
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Recall
+User2:  Qualitative
+
+ 
+70) In general, the marginal propensity to spend is the change in total desired expenditure induced by a change in ________ whereas the marginal propensity to consume is the change in desired consumption expenditure induced by a change in ________. In the case of the simplest macro model with no government and no international trade, however, the marginal propensity to spend is ________ the marginal propensity to consume.
+A) national income; disposable income; greater than
+B) national income; disposable income; equal to
+C) disposable income; national income; equal to
+D) disposable income; national income; greater than
+E) national income; disposable income; smaller than
+Answer:  B
+Diff: 2
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Recall
+User2:  Qualitative
+71) Consider the following aggregate expenditure function: AE = $300 billion + (0.87)Y. Assuming that we have no government, no international trade and desired investment is autonomous and is equal to $56 billion, then which of the following is the correct statement of the consumption function?
+A) C = $356 billion + (0.87)Y
+B) C = $356 billion + (0.13)Y
+C) C = $244 billion + (0.87)Y
+D) C = $244 billion + (0.13)Y
+E) C = $300 billion + (0.13)Y
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.1f. the aggregate expenditure function (AE)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+
+FIGURE 21-3
+
+72) Refer to Figure 21-3. All points along the 45-degree line represent
+A) combinations of desired aggregate expenditure and actual national income where consumption expenditure equals saving.
+B) the equilibrium condition that desired aggregate expenditure equals actual national income.
+C) levels of actual national income where desired AE is equal to the sum of desired consumption and desired investment.
+D) levels of actual national income that occur when autonomous expenditure is increasing at a constant (linear) rate.
+E) levels of actual national income where desired saving is equal to zero.
+Answer:  B
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Recall
+User1:  Graph
+User2:  Qualitative
+
+ 
+73) Refer to Figure 21-3. Consider the simplest macro model with no government and no foreign trade, and the aggregate expenditure function AE = C + I. If there was zero autonomous expenditure and the marginal propensity to consume was equal to one, then the AE function would be
+A) steeper than the 45-degree line.
+B) above the 45-degree line at all points.
+C) below the 45-degree line at all points.
+D) coincident with the 45-degree line.
+E) flatter than the 45-degree line.
+Answer:  D
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+74) Consider the simplest macro model with demand-determined output, where
+AE = C + I. Suppose that actual national income is $900 billion and desired consumption plus desired investment is $920 billion. We can expect that
+A) firms will see an increase in inventories, and they will respond by decreasing output, thereby decreasing actual national income.
+B) firms will decrease autonomous investment by $20 billion until equilibrium national income is reached at $900 billion.
+C) firms will increase autonomous investment by $20 billion until equilibrium national income is reached at $920 billion.
+D) firms will see a decrease in inventories, and they will respond by increasing output, thereby increasing actual national income.
+E) actual national income will decrease until equilibrium national income is reached at $900 billion.
+Answer:  D
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+ 
+75) Consider the simplest macro model with demand-determined output, where
+AE = C + I. Suppose that actual national income is $900 billion and desired consumption plus desired investment is $890 billion. We can expect that
+A) firms will see a decrease in inventories, and they will respond by increasing output, thereby increasing actual national income.
+B) firms will decrease autonomous investment by $10 billion until equilibrium national income is reached at $890 billion.
+C) firms will increase autonomous investment by $10 billion until equilibrium national income is reached at $900 billion.
+D) actual national income will increase until equilibrium national income is reached at $900 billion.
+E) firms will see an increase in inventories, and they will respond by decreasing output, thereby decreasing actual national income.
+Answer:  E
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+Consider the following information describing a closed economy with no government and where aggregate output is demand determined. All dollar figures are in billions. 
+
+	 
+ 
+TABLE 21-3
+
+76) Refer to Table 21-3. The equilibrium level of national income will be 
+A) $3000.
+B) $3600.
+C) $3900.
+D) $4000.
+E) $4400.
+Answer:  D
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+ 
+77) Refer to Table 21-3. At the equilibrium level of national income, desired consumption expenditure will be 
+A) $300.
+B) $400.
+C) $3900.
+D) $3600.
+E) $4000.
+Answer:  C
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+78) Refer to Table 21-3. At the equilibrium level of national income, desired investment is 
+A) $100.
+B) $4000.
+C) $3900.
+D) $400.
+E) $1000.
+Answer:  A
+Diff: 1
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+79) Refer to Table 21-3. At the equilibrium level of national income, desired saving is 
+A) $100.
+B) $300.
+C) $4000.
+D) $3900.
+E) $1000.
+Answer:  A
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+ 
+80) Refer to Table 21-3. Suppose this economy is in equilibrium. There is then a significant decline in house prices across the country. The likely effect is
+A) autonomous consumption will rise above $300 and equilibrium national income will therefore rise. 
+B) autonomous saving will fall and equilibrium national income will therefore fall. 
+C) autonomous saving will rise and equilibrium national income will therefore rise. 
+D) autonomous investment will rise and equilibrium national income will therefore rise. 
+E) autonomous consumption will fall below $300 and equilibrium national income will therefore fall. 
+Answer:  E
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+Consider the following information describing a closed economy with no government and where aggregate output is demand determined. All dollar figures are in billions.
+
+	 
+ 
+TABLE 21-4
+
+81) Refer to Table 21-4. The equilibrium level of national income will be
+A) $ 70.
+B) $ 93.
+C) $120.
+D) $160.
+E) $280.
+Answer:  E
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+ 
+82) Refer to Table 21-4. At the equilibrium level of national income, desired consumption expenditure will be
+A) $ 30.
+B) $ 70.
+C) $210.
+D) $240.
+E) $280.
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+Objective:  REVISED
+User1:  Table
+User2:  Quantitative
+
+83) Refer to Table 21-4. At the equilibrium level of national income, desired saving will be
+A) zero.
+B) $ 40.
+C) $ 70.
+D) $200.
+E) $240.
+Answer:  B
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+84) Consider a simple macro model with demand-determined output. At the equilibrium level of national income,
+A) consumers' purchases of goods and services equal firms' purchases of investment goods.
+B) firms will hold no inventories of raw materials or final goods.
+C) desired aggregate expenditures will equal total output.
+D) desired aggregate expenditures will equal total output minus inventory holdings.
+E) consumers' purchases of goods and services equals their saving.
+Answer:  C
+Diff: 1
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+ 
+85) In a simple macro model with no government and no foreign trade, the equilibrium level of national income is the level of income at which
+A) aggregate desired expenditure is greater than actual national income.
+B) aggregate desired expenditure equals actual national income.
+C) aggregate desired expenditure equals consumer spending.
+D) saving equals income.
+E) saving equals consumer spending.
+Answer:  B
+Diff: 1
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+86) In a simple model of the economy with demand-determined output, the equilibrium level of national income is at an income
+A) to the right of the point where the AE curve intersects the 45-degree line.
+B) to the left of the point where the AE curve intersects the 45-degree line.
+C) where aggregate desired expenditure equals the value of total output.
+D) where aggregate desired expenditure equals consumption.
+E) where saving equals consumption.
+Answer:  C
+Diff: 1
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+87) In a simple macro model with demand-determined output, the equilibrium level of national income is at an income
+A) to the left of the point where the AE curve intersects the 45-degree line.
+B) where the AE curve intersects the 45-degree line.
+C) to the right of the point where the AE curve intersects the 45-degree line.
+D) where saving equals consumption.
+E) where saving equals income.
+Answer:  B
+Diff: 1
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+ 
+88) Consider the simplest macro model with a constant price level and demand-determined output. If desired aggregate expenditure is less than actual national income, then 
+A) inventories begin to fall, causing firms to increase production.
+B) actual national income is below the equilibrium level.
+C) actual national income must be above the equilibrium level.
+D) actual national income must be at equilibrium.
+E) inventories begin to fall, causing national income to fall.
+Answer:  C
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+89) Consider the simplest macro model with demand-determined output. If desired aggregate expenditure is greater than actual national income, then 
+A) inventories will likely begin to fall, causing firms to increase production.
+B) actual national income must be less than the equilibrium level.
+C) actual national income must be greater than the equilibrium level.
+D) inventories will likely begin to rise, causing firms to reduce production.
+E) both A and B are correct.
+Answer:  E
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+90) In a simple macro model with the price level assumed to be constant, a change in firms' level of desired investment is predicted to influence equilibrium national income by
+A) shifting the saving function.
+B) shifting the consumption function.
+C) shifting the aggregate expenditure function.
+D) causing movement along the investment function.
+E) shifting the 45-degree line.
+Answer:  C
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+ 
+91) Consider a simple macro model with a constant price level and demand-determined output. In such a model, the level of national income will 
+A) tend to rise if desired aggregate expenditure is less than actual national income.
+B) remain constant if savings equals consumption.
+C) be in equilibrium if all of the resources of the economy are fully employed.
+D) remain constant if firms are accumulating inventories.
+E) tend to rise if firms have unplanned decumulation of inventories.
+Answer:  E
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+92) If national income is demand-determined, the condition for national income to be in equilibrium can be stated as
+A) unemployment must equal the natural unemployment rate.
+B) AE must be greater than Y.
+C) desired saving equals actual investment.
+D) actual saving equals actual investment.
+E) desired aggregate expenditure equals the actual level of national income.
+Answer:  E
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+93) Consider the simplest macro model with a constant price level and demand-determined output. If national income is less than its equilibrium level, it is likely that firms' inventories are ________, and so national income tends to ________.
+A) accumulating; rise
+B) accumulating; fall
+C) being depleted; rise
+D) being depleted; fall
+E) constant; fall
+Answer:  C
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+ 
+94) Consider a simple macro model with a constant price level and demand-determined output. If national income is above its equilibrium level, it is likely that inventories are ________, and so national income tends to ________.
+A) accumulating; rise
+B) accumulating; fall
+C) being depleted; rise
+D) being depleted; fall
+E) constant: fall
+Answer:  B
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+Consider the following information describing an economy with demand-determined output.  There is no government or foreign trade. All dollar figures are in billions.
+
+	1.	equilibrium condition is Y = C + I
+	2. 	marginal propensity to save = 0.20
+	3. 	the autonomous part of C is $50
+	4. 	investment is autonomous and equals $25 
+
+TABLE 21-5
+
+95) Refer to Table 21-5. The equilibrium level of national income is
+A) $375.
+B) $249.
+C) $155.
+D) $75.
+E) $93.75.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+ 
+96) Refer to Table 21-5. At the equilibrium level of national income, what is the level of desired consumption expenditures?
+A) $68.75
+B) $125
+C) $150
+D) $350
+E) $375
+Answer:  D
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+97) Refer to Table 21-5. At the equilibrium level of national income, the level of desired saving will be
+A) equal to consumption expenditures.
+B) $375.
+C) $50.
+D) $25.
+E) $0
+Answer:  D
+Diff: 3
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+98) Consider a simple macro model with a constant price level and demand-determined output. Suppose the level of actual national income is less than desired aggregate expenditure. In this case,
+A) inventories will build up, causing national income to rise.
+B) national income will fall, because desired expenditures are less than actual expenditures.
+C) shortages of goods and reductions in inventories will cause producers to increase output and national income to rise.
+D) national income may increase or decrease, depending on the relative sizes of the average propensity to consume and the average propensity to save.
+E) there will be no change in national income because only actual expenditure is relevant.
+Answer:  C
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+ 
+99) Consider a simple macro model with a constant price level and demand-determined output. Suppose desired aggregate expenditures are less than the current level of national income. The vertical distance between the AE curve and the 45-degree line represents
+A) desired accumulation of inventories.
+B) desired decumulation of inventories.
+C) the amount by which output exceeds desired expenditures.
+D) the output gap.
+E) the amount by which desired expenditures exceeds output.
+Answer:  C
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Recall
+User2:  Qualitative
+
+100) Consider a simple macro model with a constant price level and demand-determined output. If the simple multiplier is 3 and there is a $2 million increase in autonomous investment spending, then the equilibrium level of income will increase by
+A) $1.2 million.
+B) $2 million
+C) $3 million.
+D) $4.5 million.
+E) $6 million.
+Answer:  E
+Diff: 2
+Topic:  21.2. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+101) Consider an exogenous increase in the real interest rate in the simple macro model. This will tend to cause ________ in desired consumption and ________ in desired investment.
+A) an increase; an increase
+B) an increase; a decrease
+C) a decrease; a decrease
+D) a decrease; no change
+E) a decrease; an increase
+Answer:  C
+Diff: 2
+Topic:  21.3a. shifts of the AE function
+Skill:  Applied
+User2:  Qualitative
+
+ 
+102) Consider a simple macro model with a constant price level and demand-determined output. In such a model, a downward shift of the saving function causes equilibrium national income to
+A) fall because the AE function shifts downward simultaneously.
+B) rise because the AE function shifts upward simultaneously.
+C) remain constant but consist of more consumption and less investment.
+D) remain constant but consist of less consumption and more investment.
+E) remain constant because it does not affect desired aggregate expenditure.
+Answer:  B
+Diff: 2
+Topic:  21.3a. shifts of the AE function
+Skill:  Applied
+User2:  Qualitative
+103) Consider the simplest macro model with a constant price level and demand-determined output. In such a model, an upward shift of the saving function causes equilibrium national income to
+A) fall because the AE function shifts downward simultaneously.
+B) rise because the AE function shifts upward simultaneously.
+C) remain constant but consist of more consumption and less investment.
+D) remain constant but consist of less consumption and more investment.
+E) remain constant because it does not affect desired aggregate expenditure.
+Answer:  A
+Diff: 2
+Topic:  21.3a. shifts of the AE function
+Skill:  Applied
+User2:  Qualitative
+
+ 
+ 
+
+FIGURE 21-3
+
+104) Refer to Figure 21-3. A shift in the aggregate expenditure function from AE0 to AE1 could be caused by
+A) a rise in the multiplier.
+B) a fall in the marginal propensity to consume.
+C) a rise in the marginal propensity to consume.
+D) an increase in desired investment expenditures.
+E) a decrease in desired investment expenditures.
+Answer:  D
+Diff: 2
+Topic:  21.3a. shifts of the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+105) Refer to Figure 21-3. A shift in the aggregate expenditure function downward from AE1 to AE0 could be caused by
+A) a rise in the multiplier.
+B) a fall in the marginal propensity to consume.
+C) a rise in the marginal propensity to consume.
+D) an increase in autonomous desired saving.
+E) a decrease in autonomous desired saving.
+Answer:  D
+Diff: 2
+Topic:  21.3a. shifts of the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+106) Refer to Figure 21-3. The simple multiplier could be measured by the ratio
+A)  /0A.
+B)  /0B.
+C)   /AB.
+D) BA/Y1.
+E) 1/(Y2 - Y1).
+Answer:  C
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+107) Consider the simplest macro model with demand-determined output. Suppose an increase in business confidence leads firms to increase investment in new equipment by $100 million. The marginal propensity to spend in this economy is 0.75. What is the increase in expenditure in this economy during the initial first round of spending?
+A) $75 million
+B) $25 million
+C) $100 million
+D) $400 million
+E) $500 million
+Answer:  C
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+ 
+108) Consider the simplest macro model with demand-determined output. Suppose an increase in business confidence leads firms to increase investment in new equipment by $100 million. The marginal propensity to spend in this economy is 0.75. What is the increase in expenditure in this economy during the second round of spending?
+A) $25 million
+B) $100 million
+C) $400 million
+D) $75 million
+E) $500 million
+Answer:  D
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+109) Consider the simplest macro model with demand-determined output. Suppose an increase in business confidence leads firms to increase investment in new equipment by $100 million. The marginal propensity to spend in this economy is 0.75. What is the eventual total new expenditure in this economy due to the increase in investment?
+A) $75 million
+B) $100 million
+C) $25 million
+D) $500 million
+E) $400 million
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+110) The simple multiplier, which applies to short-run situations in which the price level is constant, describes changes in
+A) investment induced by changes in equilibrium income.
+B) saving caused by changes in investment.
+C) the equilibrium level of national income caused by changes in autonomous expenditure.
+D) the rate of interest caused by increased demand for credit.
+E) employment induced by changes in equilibrium income.
+Answer:  C
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+ 
+111) Consider a simple macro model with a constant price level and demand-determined output. Using this model, if economists want to estimate the effect of a given change in desired investment on equilibrium national income, they would multiply the change in desired investment by the
+A) average propensity to save.
+B) marginal propensity to save.
+C) equilibrium level of national income.
+D) simple multiplier.
+E) reciprocal of the marginal propensity to spend.
+Answer:  D
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+112) The simple multiplier applies to short-run situations in which the price level is constant. The simple multiplier can be defined as
+A) national income divided by aggregate expenditure.
+B) the change in equilibrium national income divided by the initial change in autonomous expenditure that brought it about.
+C) the change in national income resulting from a change in expenditure, multiplied by the number of years since the initial change.
+D) a change in aggregate expenditures multiplied by the equilibrium level of national income.
+E) the change in national income resulting from a change in saving.
+Answer:  B
+Diff: 1
+Topic:  21.3b. the simple multiplier
+Skill:  Recall
+User2:  Qualitative
+
+113) In a simple macro model with demand-determined output, the simple multiplier is equal to 1/(1-z), where z equals the
+A) average propensity to spend.
+B) average propensity not to spend.
+C) level of autonomous expenditure.
+D) marginal propensity to spend.
+E) marginal propensity not to spend.
+Answer:  D
+Diff: 1
+Topic:  21.3b. the simple multiplier
+Skill:  Recall
+User2:  Qualitative
+ 
+114) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend in such a model is zero, the simple multiplier is
+A) zero.
+B) a positive number between zero and one.
+C) one.
+D) a positive number greater than one but less than infinity.
+E) infinitely large.
+Answer:  C
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+115) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend in such a model is one, the simple multiplier is
+A) zero.
+B) a positive number between zero and one.
+C) one.
+D) a positive number greater than one but less than infinity.
+E) infinitely large.
+Answer:  E
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+116) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend in such a model is between zero and one, the simple multiplier is
+A) zero.
+B) a positive number between zero and one.
+C) one.
+D) a positive number greater than one but less than infinity.
+E) infinitely large.
+Answer:  D
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+ 
+117) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend in such a model is 0.6, the simple multiplier is
+A) 0.
+B) 0.6.
+C) 1.67.
+D) 2.5.
+E) 6.0
+Answer:  D
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+118) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend in such a model is 0.4, the simple multiplier is
+A) 0.
+B) 0.4.
+C) 1.67.
+D) 2.5.
+E) 4.0.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+119) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend in such a model is 0.8, the simple multiplier is
+A) 0.
+B) 0.8.
+C) 1.25.
+D) 5.0.
+E) 8.0.
+Answer:  D
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+ 
+120) Consider a simple macro model with demand-determined output. If z is the marginal propensity to spend out of national income, Y is national income and A is autonomous expenditure, then the simple multiplier is equal to 
+A) z.
+B) 1 - z.
+C) 1/z.
+D) 1/(1-z).
+E) Y/(1-z).
+Answer:  D
+Diff: 1
+Topic:  21.3b. the simple multiplier
+Skill:  Recall
+User2:  Qualitative
+
+121) Consider a simple macro model with demand-determined output. In such a model, the larger the marginal propensity to spend, the
+A) larger the MPC.
+B) smaller the MPS.
+C) smaller the simple multiplier.
+D) larger the simple multiplier.
+E) greater is investment.
+Answer:  D
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+122) Consider a simple macro model with demand-determined output. In such a model, the smaller the marginal propensity to spend, the
+A) smaller the MPS.
+B) smaller the simple multiplier.
+C) larger is investment.
+D) larger the MPC.
+E) larger the simple multiplier.
+Answer:  B
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+ 
+123) Consider a simple macro model with demand-determined output. In such a model, the multiplier is larger, the
+A) higher the level of autonomous expenditures.
+B) steeper is the AE function.
+C) flatter is the AE function.
+D) lower the APC.
+E) lower the level of autonomous expenditures.
+Answer:  B
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+124) Consider a simple macro model with demand-determined output. Using such a model, if economists want to estimate the effect of a given change in desired investment on equilibrium national income, they would multiply the change in desired investment by the reciprocal of one minus
+A) the average propensity to save.
+B) the marginal propensity to save.
+C) the equilibrium level of national income.
+D) the marginal propensity not to spend.
+E) the marginal propensity to spend.
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+125) Suppose aggregate output is demand-determined. If the business community decreases its planned investment expenditures by $4 billion, causing equilibrium national income to fall by $12 billion, the marginal propensity to spend must be 
+A) 2/5.
+B) 1/3.
+C) 1/2.
+D) 2/3.
+E) 4/5.
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+ 
+126) Suppose aggregate output is demand-determined. If the business community decreases its planned investment expenditures by $4 billion, causing equilibrium national income to fall by $20 billion, the marginal propensity to spend must be 
+A) 2/5.
+B) 1/3.
+C) 1/2.
+D) 2/3.
+E) 4/5.
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+127) Suppose aggregate output is demand-determined. If the business community decreases its planned investment expenditures by $4 billion, causing equilibrium national income to fall by $8 billion, the marginal propensity to spend must be 
+A) 2/5.
+B) 1/3.
+C) 1/2.
+D) 2/3.
+E) 4/5.
+Answer:  C
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+128) Consider the simplest macro model in which aggregate output is demand-determined. If autonomous consumption increases by $2 billion causing equilibrium national income to rise by $4 billion, the marginal propensity to save must be 
+A) 1.0.
+B) 0.5.
+C) 0.2.
+D) 0.8.
+E) 2.0.
+Answer:  B
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+ 
+129) Consider a simple macro model with a constant price level. If the AE function is horizontal, then we know the simple multiplier is
+A) less than zero.
+B) zero.
+C) between zero and one.
+D) exactly one.
+E) greater than one.
+Answer:  D
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Qualitative
+
+130) Suppose aggregate output is demand-determined. If the simple multiplier is 4 and there is a $10 billion increase in planned investment spending, then equilibrium income will ________ and the marginal propensity to spend must equal ________.
+A) decrease by $40 billion; 0.75
+B) decrease by $10 billion; 0.25
+C) increase by $40 billion; 0.25
+D) increase by $40 billion; 0.75
+E) increase by $10 billion; 4.0
+Answer:  D
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+131) Suppose the price level is constant, output is demand-determined, and the economy is closed with no government. If the marginal propensity to spend is 0.7, the simple multiplier is
+A) 0.33.
+B) 0.70.
+C) 1.00.
+D) 1.42.
+E) 3.33.
+Answer:  E
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+ 
+132) Suppose the price level is constant, output is demand-determined, and the economy is closed with no government. If the consumption function is C = (2/3)Y, then the simple multiplier is
+A) 2/3.
+B) 1.
+C) 2.
+D) 3.
+E) Insufficient information to know.
+Answer:  D
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+133) Suppose the price level is constant, output is demand-determined, and the economy is closed with no government. If the consumption function is C = (1/2)Y, the simple multiplier is
+A) 2/3.
+B) 1.
+C) 2.
+D) 3.
+E) Insufficient information to know.
+Answer:  C
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+134) Suppose the price level is constant, output is demand-determined, and the economy is closed with no government. If the saving function is S = -100 + (0.2)Y, the simple multiplier is
+A) 0.2.
+B) 1.
+C) 2.5.
+D) 5.
+E) Insufficient information to know.
+Answer:  D
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+ 
+135) Suppose the price level is constant, output is demand-determined, and the economy is closed with no government. If the saving function is S = -100 + (0.4)Y, the simple multiplier is
+A) 0.2.
+B) 1.
+C) 2.5.
+D) 5.
+E) Insufficient information to know.
+Answer:  C
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+Consider the following information describing a closed economy with no government. Aggregate output is demand determined and the price level is constant.
+
+	 
+
+ TABLE 21-6
+
+136) Refer to Table 21-6. This economy's equilibrium level of national income is 
+A) 500.
+B) 600.
+C) 750.
+D) 1000.
+E) 1500.
+Answer:  C
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+137) Refer to Table 21-6. The simple multiplier in this economy is 
+A) 2.0.
+B) 2.5.
+C) 3.0.
+D) 4.0.
+E) 5.0.
+Answer:  B
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+Consider the following information concerning an economy with demand-determined output. There is no government or foreign trade.
+
+	 
+
+TABLE 21-7
+
+138) Refer to Table 21-7. This economy's equilibrium level of national income is 
+A) 500.
+B) 600.
+C) 750.
+D) 1000.
+E) 1500.
+Answer:  B
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+139) Refer to Table 21-7. The simple multiplier in this economy is 
+A) 2.0.
+B) 2.5.
+C) 3.0.
+D) 4.0.
+E) 5.0.
+Answer:  A
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+ 
+Consider the following information for an economy with demand-determined output and a constant price level. There is no government or foreign trade. 
+
+	 
+
+TABLE 21-8
+
+140) Refer to Table 21-8. This economy's equilibrium level of national income is 
+A) 500.
+B) 600.
+C) 750.
+D) 1000.
+E) 1500.
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+141) Refer to Table 21-8. The simple multiplier in this economy is 
+A) 2.0.
+B) 2.5.
+C) 3.0.
+D) 4.0.
+E) 5.0.
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+142) Consider a simple macro model with a constant price level and demand-determined output. If the marginal propensity to spend is 0.9, the simple multiplier is
+A) 0.1.
+B) 0.9.
+C) 1.0.
+D) 1.1.
+E) 10.0.
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+143) Suppose aggregate output is demand-determined. Suppose a decrease in autonomous investment expenditure of $20 million reduces equilibrium national income by $50 million. The simple multiplier is equal to
+A) -2.5.
+B) -0.6.
+C) 0.4.
+D) 0.6.
+E) 2.5.
+Answer:  E
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+144) Suppose aggregate output is demand-determined. Suppose a decrease in autonomous investment expenditure of $20 million reduces equilibrium national income by $50 million. The marginal propensity to spend is equal to
+A) -0.6.
+B) 0.4.
+C) 0.6.
+D) 2.5.
+E) -2.5.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  21.3b. the simple multiplier
+Skill:  Applied
+User2:  Quantitative
+
+145) Suppose aggregate output is demand-determined. The simple multiplier will increase as a result of
+A) an increase in the marginal propensity to consume.
+B) a decrease in the marginal propensity to consume.
+C) a decrease in autonomous consumption.
+D) an increase in autonomous consumption.
+E) an increase in investment.
+Answer:  A
+Diff: 2
+Topic:  21.3b. the simple multiplier
+Skill:  Recall
+User2:  Qualitative

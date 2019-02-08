@@ -1,0 +1,802 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 25   The Difference Between Short-Run and Long-Run Macroeconomics
+
+1) Many economists argue that Japan's remarkable long-run growth rate between 1950 and 1990 was largely due to Japan's
+A) excessive amounts of money invested into research and development.
+B) high consumption rate for high quality electronic products.
+C) high national saving rate.
+D) restrictive trade barriers which eliminated foreign competition.
+E) skilled labour force that developed over those forty years.
+Answer:  C
+Diff: 1
+Topic:  25.1. two examples of SR versus LR macroeconomics
+Skill:  Recall
+User2:  Qualitative
+
+2) Other things being equal, a country with a high national saving rate may have a ________ long-run growth rate because more saving increases the ________.
+A) high; interest rate and encourages more investment
+B) high; wealth of people and increases future consumption
+C) high; availability of funds, thus lowering the interest rate
+D) low; consumption in the long run
+E) low; unemployment and decreases wages in the long run
+Answer:  C
+Diff: 2
+Topic:  25.1. two examples of SR versus LR macroeconomics
+Skill:  Recall
+User2:  Qualitative
+
+3) A former Governor of the Bank of Canada argued that high interest rates tend to accompany high inflation because inflation
+A) causes the Canadian dollar to appreciate which again fuels inflation even more.
+B) erodes the value of the dollar and therefore lenders need to be compensated through higher interest rates.
+C) reduces banks' profits who then respond by lowering their lending rates.
+D) increases housing prices so younger Canadians are made worse off.
+E) lowers short term interest rates and acts as an incentive to borrow money.
+Answer:  B
+Diff: 2
+Topic:  25.1. two examples of SR versus LR macroeconomics
+Skill:  Recall
+User2:  Qualitative
+ 
+4) A former governor of the Bank of Canada argued that interest rates must be increased in order to reduce inflation, and this would ultimately result in lower interest rates. This apparent contradiction can be explained by noting that 
+A) higher interest rates in the short run put downward pressure on inflation which, in turn, lowers demand for borrowed funds, thus decreasing interest rates in the long run.
+B) higher interest rates promote saving which increases the supply of funds for lending and, other things constant, drives the "price" of borrowing down.
+C) interest rates move in cycles and therefore tend to rise before they fall.
+D) the Governor of the Bank of Canada is typically a patronage appointment with little formal training or knowledge of economic theory.
+E) increasing interest rates increases inflation in the short run, but decreases inflation in the long run.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  25.1. two examples of SR versus LR macroeconomics
+Skill:  Applied
+User2:  Qualitative
+
+5) Long-run increases in real national income can generally be traced to
+A) excess of demand in the labour market that increases employment.
+B) growing demand that lead to increases in output and prices.
+C) growing demand which causes continuous growth in consumer spending.
+D) growing supply because higher wages will increase the participation rate.
+E) growing availability of factors and/or growing factor productivity.
+Answer:  E
+Diff: 1
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+6) In the short run, changes in real GDP are primarily determined by changes in factor-utilization rates which, in turn, are due to changes in
+A) aggregate demand only.
+B) aggregate demand because increases in demand will lead to increases in output.
+C) aggregate supply only.
+D) aggregate supply because when firms increase prices they are then willing to produce more.
+E) both aggregate demand and aggregate supply.
+Answer:  E
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+ 
+7) Potential GDP is defined as the level of aggregate output at which
+A) all factors of production are fully employed.
+B) all factors of production are employed 24 hours per day, 7 days per week.
+C) the unemployment rate is zero.
+D) there is only cyclical and structural unemployment.
+E) there is only cyclical and frictional unemployment, and capital equipment is being used at 100% capacity.
+Answer:  A
+Diff: 1
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+8) Which of the following statements describes a possible self-fulfilling prophesy in the short run involving households' behaviour? A belief of an impending recession leads households
+A) to decrease their desired saving. 
+B) to increase their registration in post-secondary institutions to reduce their risk of being unemployed.
+C) to increase their desired consumption. 
+D) to increase their desired saving. 
+E) to increase the autonomous portion of their desired consumption.
+Answer:  D
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+9) Consider the basic AD/AS model. In the short run, a shift of the aggregate supply curve would lead to a change in real GDP by mostly changing 
+A) the amount of labour employed.
+B) the amount of land (natural resources) available to the economy.
+C) the prices of factors of production.
+D) the productivity of capital.
+E) the level of investment.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+ 
+10) A decrease in long-run real GDP (potential GDP) would be most likely caused by a (an)
+A) decrease in factor productivity.
+B) decrease in interest rates.
+C) decrease in unemployment rates.
+D) increase in factor-utilization rates.
+E) increase in unemployment rates.
+Answer:  A
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+11) A decrease in short-run real GDP that leaves potential GDP unaffected would be most likely caused by a (an)
+A) decrease in factor-utilization rates.
+B) decrease in interest rates.
+C) decrease in unemployment rates.
+D) increase in factor productivity.
+E) None of the above are likely to cause a reduction in real GDP.
+Answer:  A
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+
+12) An increase in potential GDP would most likely be caused by a (an)
+A) decrease in factor-utilization rates.
+B) increase in factor productivity.
+C) increase in interest rates.
+D) decrease in saving in the short run.
+E) increase in the unemployment rate.
+Answer:  B
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+
+ 
+13) Long-run increases in potential GDP would most likely be caused by a (an)
+A) decrease in factor-utilization rates.
+B) decrease in factor productivity.
+C) decrease in saving in the short run.
+D) increased availability of key factors of production.
+E) increases in the prices of factors of production such as wages or interest rates.
+Answer:  D
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+
+14) Which of the following may increase real GDP in the short run but may actually decrease the long-run growth rate of GDP?
+A) decrease in households' desired saving
+B) decrease in factor productivity
+C) increase in factor-utilization rates in the short run
+D) increase in factor supplies
+E) increase in the unemployment rate
+Answer:  A
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+15) A characteristic of the short run in macroeconomics is that 
+A) the output gap opens or closes as the economy moves through the phases of the business cycle.
+B) the output gap is constant because the capital stock cannot change.
+C) actual GDP is always less than potential GDP.
+D) actual GDP is always greater than potential GDP.
+E) actual GDP is always growing at the same rate as potential GDP.
+Answer:  A
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+ 
+16) The study of the short run in macroeconomics focuses 
+A) equally on potential GDP and actual GDP.
+B) primarily on changes to potential GDP.
+C) primarily on changes to potential GDP with less emphasis on changes in actual GDP.
+D) primarily on changes to actual GDP with no interest in the output gap.
+E) primarily on changes to the output gap with less emphasis on changes to potential GDP.
+Answer:  E
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+17) In the long run, increases in potential GDP are possible only if there is
+A) no government interference with the market system.
+B) growth in the supply of available factors or growth in factor productivity.
+C) continuous growth in the saving rate.
+D) an increase in the general price level.
+E) an increase in the unemployment rate.
+Answer:  B
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+18) At any given time, the level of potential GDP depends on 
+1) the available supply of factors of production;
+2) normal rates of utilization for labour and capital;
+3) the productivity of factors of production.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 2 and 3
+E) 1, 2, and 3
+Answer:  E
+Diff: 1
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+ 
+19) Relatively small annual changes in factor productivity are
+A) easy to calculate across many industries.
+B) thought to be an important cause of long-run economic growth.
+C) not important to long-run growth but are the dominant source of short-run changes in GDP.
+D) the only important source of changes in potential GDP.
+E) always cancelled out by changes in the growth in factor supplies.
+Answer:  B
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+
+20) The study of the long run in macroeconomics focuses 
+A) on changes to actual GDP but not on changes in potential GDP.
+B) equally on potential GDP and actual GDP.
+C) primarily on changes to potential GDP.
+D) primarily on changes to the output gap, with a constant level of potential output.
+E) primarily on the supply of factors of production.
+Answer:  C
+Diff: 1
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+21) When an economy experiences sustained growth in real GDP,
+A) actual GDP is greater than potential GDP.
+B) actual GDP is less than potential GDP.
+C) potential GDP is likely to be increasing.
+D) factor prices are likely to be decreasing.
+E) wage rates will decrease slowly as factor-utilization rates decrease.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+
+ 
+22) In the long run, changes to real GDP are most likely to be caused by an increase in
+A) interest rates.
+B) factor productivity.
+C) factor-utilization rates.
+D) desired consumption.
+E) factor prices.
+Answer:  B
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+23) The level of aggregate output is determined in the short run by ________ but in the long run by the level of ________.
+A) the output gap; factor productivity
+B) the AD curve; interest rates
+C) the AS curve; potential output
+D) the AD and AS curves; Y*
+E) the AD and AS curves; factor utilization
+Answer:  D
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Recall
+User2:  Qualitative
+
+24) Which of the following provides the best explanation for why GDP may increase over long periods of time?
+A) increase in capital stock
+B) increase in emigration
+C) increase in mortality rates
+D) increase in interest rates
+E) increase in unemployment
+Answer:  A
+Diff: 2
+Topic:  25.2a. LR versus SR changes in output
+Skill:  Applied
+User2:  Qualitative
+
+ 
+25) GDP can be represented by the equation: GDP = F × (Fe/F) × (GDP/Fe), where F represents the total factor supply and Fe represents the number of employed factors. The term (GDP/Fe) represents
+A) factor supply per level of output.
+B) output per capita.
+C) factor utilization.
+D) average factor productivity.
+E) income per person.
+Answer:  D
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+26) Consider the equation GDP = F ∙   ∙  . What is the significance of this equation? 
+A) It allows for a more accurate accounting of actual GDP in any given year. 
+B) The three components on the right-hand side provide a better understanding of all of the short-run changes in GDP. 
+C) The three components on the right-hand side provide a better understanding of the long-run changes in GDP. 
+D) It shows us how any change in real GDP can be decomposed into changes in factor supply, the utilization of factors, and productivity. 
+E) It allows us a better understanding of how changes in factor supply, the utilization of factors, and productivity affect changes in the output gap. 
+Answer:  D
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+27) GDP can be represented by the equation: GDP = F × (Fe/F) × (GDP/Fe). In this equation, the term (Fe/F) represents
+A) factor supply per level of output.
+B) output per capita.
+C) the factor-utilization rate.
+D) factor productivity.
+E) income per person.
+Answer:  C
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+ 
+28) GDP can be represented by the equation: GDP = F × (Fe/F) × (GDP/Fe). The term Fe represents 
+A) the number of employed factors.
+B) output per capita.
+C) the factor-utilization rate.
+D) factor productivity.
+E) income per person.
+Answer:  A
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+29) GDP can be represented by the equation: GDP = L × [E/L] × [GDP/E] where L is the total supply of labour and E is the level of employment. In this equation, the term [GDP/E] represents
+A) the productivity of labour.
+B) the ratio of the population unemployed.
+C) one minus the unemployment rate.
+D) output per unit of capital.
+E) the unemployment rate.
+Answer:  A
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+30) GDP can be represented by the equation: GDP = L × [E/L] × [GDP/E]. In this equation, the term [E/L] represents
+A) the productivity of labour.
+B) the ratio of the population unemployed.
+C) one minus the unemployment rate.
+D) the level of employment at a given period of time.
+E) the labour force.
+Answer:  C
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+
+ 
+31) GDP can be represented by the equation: GDP = F × (Fe/F) × (GDP/Fe). This equation tells us that real aggregate output can be expressed as factor 
+A) price times the utilization rate times GDP per capita.
+B) supply times the equilibrium factor price times GDP per capita.
+C) supply times equilibrium factor price times factor productivity.
+D) supply times the factor-utilization rate times factor productivity.
+E) utilization times equilibrium factor price times factor productivity.
+Answer:  D
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+32) GDP can be represented by the equation: GDP = F × (Fe/F) × (GDP/Fe). This equation tells us that any change in real GDP can be decomposed into changes in 
+A) factor price, productivity and the investment rate by businesses.
+B) factor price, productivity and factor-utilization rates.
+C) factor supply, productivity and per capita consumption by households.
+D) factor supply, productivity and the investment rate by businesses.
+E) factor supply, productivity and factor-utilization rates.
+Answer:  E
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+33) Consider the equation: GDP = L × [E/L] × [GDP/E] where L is the supply of labour and E is the level of employment. In this equation, the term [E/L] represents the 
+A) productivity of labour.
+B) the ratio of the population unemployed.
+C) labour employment rate.
+D) number of people employed.
+E) capital-utilization rate.
+Answer:  C
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+
+ 
+34) Changes in factor-utilization rates are considered important for explaining short-run changes in real GDP because
+A) wages increase and decrease rapidly in the short run, dampening the effect of factor utilization.
+B) the employment ratio of labour and the amount of excess capacity respond quickly to changes in aggregate demand or supply.
+C) additions to the labour force occur more frequently than changes in the utilization rate.
+D) changes to the capital stock are almost impossible to make in the short run.
+E) land and capital can change only in the short run.
+Answer:  B
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+
+35) When accounting for changes in real GDP, changes in the factor-utilization rate are most important in the
+A) long run because firms need time to hire more workers or acquire additional capital.
+B) long run because firms adapt to wage changes and hire more workers.
+C) short run because firms react to changes in demand by increasing production from existing facilities.
+D) short run because firms immediately build new plants to satisfy changes in demand.
+E) short run because firms need time to adjust their price lists.
+Answer:  C
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+36) A low factor-utilization rate describes ________ in factor markets, which causes factor prices to ________ and shifts the aggregate supply curve to the ________.
+A) excess supply; fall; left
+B) excess demand; rise; right
+C) excess supply; rise; right
+D) excess demand; fall; right
+E) excess supply; fall; right
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+
+ 
+37) An estimate for the value of potential GDP can be generated by observing and recording
+A) the economy's total supply of factors, their normal rates of utilization, and factor productivity.
+B) the economy's total supply of factors, the costs of those factors, and their productivity.
+C) the economy's total output, its total cost and demand for that output.
+D) the total available capacity for production in the Canadian economy.
+E) the level of actual GDP when the unemployment rate is zero.
+Answer:  A
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+38) Since 1985, Canada's potential GDP has been
+A) rising steadily.
+B) falling steadily.
+C) relatively stable.
+D) volatile, but with an upward trend.
+E) volatile, but with a downward trend.
+Answer:  A
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+39) Consider the equation GDP = F × (FE/F) × (GDP/FE). Which component describes the amount of output produced per unit of input employed?
+A) F
+B) FE
+C) (FE/F)
+D) (GDP/FE)
+E) GDP
+Answer:  D
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+ 
+40) Consider the equation GDP = F × (FE/F) × (GDP/FE). Which component describes the fraction of the available factors actually employed at any time?
+A) F
+B) FE
+C) (FE/F)
+D) (GDP/FE)
+E) GDP
+Answer:  C
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+41) Consider a small economy where factor supply is 1000 units, the factor utilization rate is 0.9 and a simple measure of productivity (GDP per factor employed) is $80. This economy's GDP is
+A) $7200.
+B) $72 000.
+C) $80 000.
+D) $88 888.
+E) $90 000.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+42) Consider a small economy where factor supply is 4000 units, the factor utilization rate is 0.8 and a simple measure of productivity (GDP per factor employed) is $50. This economy's GDP is
+A) $40 000.
+B) $160 000.
+C) $200 000.
+D) $320 000.
+E) $500 000.
+Answer:  B
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+ 
+43) Consider an economy where factor supply is 2.5 million units, the factor utilization rate is 0.85 and a simple measure of productivity (GDP per factor employed) is $200. This economy's GDP is
+A) $2.125 million.
+B) $200 million.
+C) $425 million.
+D) $500 million.
+E) $525 million.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+44) Consider a small economy where GDP is $100 000. Factor supply is 1000 units and the factor utilization rate is 0.8. What is a simple measure of productivity (GDP per factor employed) in this economy? 
+A) $125
+B) $800
+C) $100
+D) $125 000
+E) $1000
+Answer:  A
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+45) Consider an economy in long-run equilibrium where factor supply is 2.5 million units, the factor utilization rate is 0.85 and a simple measure of productivity (GDP per factor employed) is $200. Now suppose that, other things being equal, the productivity measure rises to $210. The effect of this change will be
+A) an inflationary gap caused by simultaneous rightward shifts of the aggregate demand and aggregate supply curves.
+B) a rightward shift of the aggregate supply curve, and an adjustment back to Y*.
+C) a rightward shift of the aggregate demand curve due to the increased wealth of the private sector.
+D) an increase in this economy's potential output, and an adjustment back to its original level after factor prices have adjusted.
+E) an increase in this economy's potential output in the long run.
+Answer:  E
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+46) The average rate of labour productivity growth in Canada over the past few decades has been about
+A) 15% per year.
+B) 25% per year.
+C) 0.2% per year.
+D) 1.3% per year.
+E) 5% per year.
+Answer:  D
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+47) In Canada, the labour-force participation rate is about
+A) 66%.
+B) 76%.
+C) 86%.
+D) 90%.
+E) 92%.
+Answer:  A
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+48) The utilization rate for physical capital is called the
+A) physical utilization rate.
+B) investment utilization rate.
+C) capacity utilization rate.
+D) stock of capital utilization rate.
+E) normal utilization rate.
+Answer:  C
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+ 
+49) In the short run, aggregate demand and aggregate supply shocks cause output gaps, which in turn, cause fluctuations in
+A) the factor utilization rate.
+B) the normal factor utilization rate.
+C) the natural rate of unemployment.
+D) factor supply.
+E) productivity.
+Answer:  A
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+50) Consider the equation GDP = F × (FE/F) × (GDP/FE). If the economy enters a recessionary gap because of a negative aggregate demand shock, the equation changes in which of the following ways?
+A) The value of F falls as the rate of unemployment rises.
+B) The value of FE/F rises as the rate of unemployment rises.
+C) The value of GDP/FE rises as workers are laid off and equipment is used less intensively.
+D) The value of FE/F falls as workers are laid off and equipment is used less intensively.
+E) There are no short-run changes in this case.
+Answer:  D
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+51) An economy's stock of capital increases directly because of
+A) an increase in interest rates.
+B) high levels of immigration.
+C) a positive flow of investment.
+D) a decrease in business cycles.
+E) low levels of saving.
+Answer:  C
+Diff: 1
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+
+ 
+52) Changes in any of the following variables contribute to changes in GDP. Which one typically changes most over short periods of time?
+A) the number of workers who are available to work
+B) the number of employed workers as a portion of the number of workers available to work
+C) the output produced per worker
+D) the number of workers who are available to work and the output produced per worker
+E) the labour-force participation rate
+Answer:  B
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Recall
+User2:  Qualitative
+53) An economy's current GDP is $100 billion, the labour force is composed of 2.2 million people, and 2 million people are employed. What is the economy's (approximate) labour productivity?
+A) 0.91
+B) 0.45
+C) $50
+D) $5000
+E) $50 000
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+54) An economy's current GDP is $100 billion, the labour force is composed of 2.2 million people, and 2 million people are employed. What is this economy's labour utilization rate?
+A) 0.2
+B) 0.22
+C) 0.45
+D) 0.91
+E) 4.4
+Answer:  D
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+ 
+55) For the economy as a whole, high rates of factor utilization are associated with 
+A) downward pressure on wage rates. 
+B) excess demand in factor markets. 
+C) increasing unemployment rates. 
+D) excess supply in factor markets. 
+E) downward shifts in the AS curve. 
+Answer:  B
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+
+56) For the economy as a whole, changes in the factor-utilization rate are associated with short-run fluctuations in output because 
+A) firms cannot change their prices in the short run. 
+B) potential output is affected by the factor-utilization rate in the short run. 
+C) factor prices can only fully adjust in the long run. 
+D) the short-run fluctuations in factor supplies and productivity cancel each other out. 
+E) it is cheaper for firms to let their inventories accumulate than to employ more workers. 
+Answer:  C
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+57) Suppose there are 7000 people in the labour force of an economy and the unemployment rate is 6%. If GDP per worker in this economy is $15, then GDP is equal to 
+A) $6300. 
+B) $12 800. 
+C) $35 000. 
+D) $98 700. 
+E) $105 000. 
+Answer:  D
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+ 
+58) Suppose GDP in an economy is $144 000, the unemployment rate is 10% and there are 8000 people in the labour force. Calculate the GDP per worker for this economy. 
+A) $10 
+B) $14.40 
+C) $18 
+D) $20 
+E) $80 
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+59) Suppose that real GDP in an economy is $750 000 and real GDP per worker is $250. If the employment rate in this economy is 80%, then there are 
+A) 3000 people in the labour force in this economy. 
+B) 3750 people in the labour force in this economy. 
+C) 33 000 people in the labour force in this economy. 
+D) 150 000 people in the labour force in this economy. 
+E) 600 000 people in the labour force in this economy. 
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Quantitative
+
+60) Inflationary gaps are typically associated with 
+A) excess demand for factors and higher-than normal factor-utilization rates. 
+B) excess demand for factors and lower-than-normal factor-utilization rates. 
+C) excess supply of factors and higher-than-normal factor-utilization rates. 
+D) excess supply of factors and lower-than-normal factor-utilization rates. 
+E) excess supply of factors and normal factor-utilization rates. 
+Answer:  A
+Diff: 2
+Topic:  25.2b. accounting for changes in GDP
+Skill:  Applied
+User2:  Qualitative
+ 
+61) On the basis of both theory and empirical evidence, most economists believe that changes in monetary policy have
+A) no long-run effect on real GDP but a substantial long-run effect on inflation.
+B) no effect on real GDP or inflation in the long run.
+C) no effect on real GDP or factor utilization in the short run.
+D) important long-run effects by changing real interest rates.
+E) powerful effects on real GDP and factor prices both in the short run and in the long run.
+Answer:  A
+Diff: 3
+Topic:  25.3. policy implications
+Skill:  Applied
+User2:  Qualitative
+
+62) On the basis of both theory and empirical evidence, most economists believe that changes in fiscal policy have
+A) long-run effects on potential GDP but have little impact on short-run real GDP.
+B) major effects on the incentive to save in the short run.
+C) important short-run effects on real GDP and factor utilization but are less effective in changing potential GDP in the long run.
+D) no effect on factor utilization in the short run or on factor prices in the long run.
+E) powerful effects on real GDP and factor prices both in the short run and in the long run.
+Answer:  C
+Diff: 3
+Topic:  25.3. policy implications
+Skill:  Applied
+User2:  Qualitative
+
+63) In the long run, many economists argue that fiscal policy is ineffective because it has little effect on
+A) nominal GDP.
+B) potential GDP.
+C) nominal interest rates.
+D) the price level.
+E) the inflation rate.
+Answer:  B
+Diff: 1
+Topic:  25.3. policy implications
+Skill:  Recall
+User2:  Qualitative
+
+ 
+64) Which of the following policies is most likely to have an effect on GDP in the long run?
+A) increase government purchases
+B) increase labour productivity
+C) change factor utilization rates
+D) increase consumption
+E) reduce unemployment rates
+Answer:  B
+Diff: 2
+Topic:  25.3. policy implications
+Skill:  Recall
+User2:  Qualitative
+65) Fiscal and monetary policies typically affect the short-run level of GDP because they cause shifts in the ________ but they will not generally have any long-run effects on real GDP unless they affect ________. 
+A) AS curve; factor-utilization rates 
+B) AS curve; factor supplies or factor productivity 
+C) AD curve; factor-utilization rates 
+D) AD curve; the unemployment rate 
+E) AD curve; the level of potential output 
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  25.3. policy implications
+Skill:  Recall
+User2:  Qualitative

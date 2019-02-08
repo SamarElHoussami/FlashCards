@@ -33,7 +33,7 @@ question_pattern = "([0-9]+[0-9]*[0-9]*\)(?:.|\n)*?)Answer: "
 answer_pattern = "Answer:..(.)"
 
 chapter = input("Which chapter would you like to study? : ")
-filename = "chap" + chapter + ".txt"
+filename = "testbanks/chap" + chapter + ".txt"
 
 f = open(filename, 'r')
 text = f.read()

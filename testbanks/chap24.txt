@@ -1,0 +1,1829 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 24   From the Short Run to the Long Run: The Adjustment of Factor Prices
+
+1) Which of the following are the defining assumptions of the short run in macroeconomics?
+A) Factor prices are exogenous, and technology and factor supplies are changing.
+B) Factor prices adjust to output gaps, and technology and factor supplies are constant.
+C) Factor prices are exogenous, and technology and factor supplies are constant.
+D) Factor prices adjust to output gaps, and technology and factor prices are changing.
+E) Factor prices are exogenous, technology and factor prices are endogenous.
+Answer:  C
+Diff: 2
+Topic:  24.1a. time spans in macroeconomics
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+2) Which of the following are the defining assumptions of the long run in macroeconomics?
+A) Factor prices are exogenous, and technology and factor supplies are changing.
+B) Factor prices adjust to output gaps, and technology and factor supplies are constant.
+C) Factor prices are exogenous, and technology and factor supplies are constant.
+D) Factor prices adjust to output gaps, and technology and factor supplies are changing.
+E) Factor prices are exogenous, technology and factor prices are exogenous.
+Answer:  D
+Diff: 2
+Topic:  24.1a. time spans in macroeconomics
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+3) In macroeconomic analysis, the assumption that potential output (Y*) is changing is a characteristic of
+A) the short run.
+B) the adjustment process.
+C) the national accounts model.
+D) the long run.
+E) the business cycle model.
+Answer:  D
+Diff: 2
+Topic:  24.1a. time spans in macroeconomics
+Skill:  Recall
+User2:  Qualitative
+ 
+4) Which of the following is a defining assumption of the AD/AS macro model in the short run? 
+A) factor supplies are assumed to be flexible 
+B) technology used in production is endogenous and variable 
+C) the level of potential output fluctuates with the price level 
+D) factor prices are assumed to be exogenous 
+E) firms cannot operate near their normal capacity 
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  24.1a. time spans in macroeconomics
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+5) In the basic AD/AS model, which of the following is a defining assumption of the adjustment process that takes the economy from the short run to the long run? 
+A) factor supplies are assumed to be varying 
+B) technology used in production is endogenous 
+C) the level of potential output fluctuates with the price level 
+D) factor prices are assumed to respond to output gaps
+E) firms cannot operate near their normal capacity 
+Answer:  D
+Diff: 2
+Topic:  24.1a. time spans in macroeconomics
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+6) Which of the following is a defining assumption of the AD/AS macro model in the long run? 
+A) factor supplies are assumed to be fixed 
+B) technology used in production is constant 
+C) the level of potential output is constant 
+D) factor prices are assumed to be fixed 
+E) changes in real GDP are determined by the changes in potential output
+Answer:  E
+Diff: 1
+Topic:  24.1a. time spans in macroeconomics
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+7) The economy's output gap is defined as the
+A) difference between actual GDP and potential GDP.
+B) level of total output that would be produced if capacity utilization is at its normal rate.
+C) difference between actual national income and desired aggregate expenditure.
+D) result of economic growth.
+E) difference between nominal GDP and real GDP.
+Answer:  A
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+8) Which of the following best describes the concept of potential output?
+A) The total output that can be produced when all factors of production (land, labour, and capital) are fully employed. 
+B) The total output that can be produced when the economy is in short-run economic equilibrium. 
+C) The total output that can be produced when all productive resources (land, labour, and capital) are used at their maximum capacity. 
+D) The total output that could be produced in the future when technological advances allow for a higher level of output. 
+E) The total output that could be produced if no productive resource (land, labour, and capital) was ever left idle.
+Answer:  A
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+9) An inflationary output gap occurs when
+A) actual GDP exceeds potential GDP.
+B) nominal GDP exceeds real GDP.
+C) demand for labour services is very low.
+D) equilibrium national income is below potential national income.
+E) potential GDP exceeds actual GDP.
+Answer:  A
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+ 
+10) An inflationary output gap implies that
+A) the demand for all factor services will be relatively low.
+B) the intersection of AD and AS occurs at real GDP below potential output.
+C) the economy's resources are being used beyond their normal capacity.
+D) there is a pressure for wages to decrease.
+E) there is excess supply of most factors of production.
+Answer:  C
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+11) A recessionary output gap implies that 
+A) the demand for all factor services will be relatively low.
+B) the intersection of AD and AS occurs where real GDP exceeds potential output.
+C) the economy's resources are being used at more than their normal capacity.
+D) there is upward pressure on wages.
+E) there is excess demand for most factors of production.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+12) An inflationary output gap would generate which of the following conditions in the economy?
+A) Firms are making low profits.
+B) Workers have a relatively large amount of bargaining power with employers.
+C) There is an unusually small demand for labour.
+D) There is downward pressure on wages.
+E) There is much idle capacity.
+Answer:  B
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+ 
+13) An inflationary output gap is characterized by
+A) falling prices.
+B) constant prices.
+C) real output that varies one-for-one with aggregate demand.
+D) real GDP exceeding potential output.
+E) real GDP falling below potential output.
+Answer:  D
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+14) A recessionary output gap is characterized by
+A) rising prices.
+B) constant prices.
+C) real output that varies one-for-one with aggregate demand.
+D) real GDP exceeding potential output.
+E) real GDP falling below potential output.
+Answer:  E
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+15) Which of the following will occur as part of the automatic adjustment process in an economy with an inflationary gap?
+A) falling prices
+B) increasing investment
+C) declining government purchases
+D) rising wages
+E) increasing tax rates
+Answer:  D
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+ 
+16) Which of the following would occur as part of the automatic adjustment process in an economy with a recessionary gap?
+A) rising prices
+B) decreasing investment
+C) increasing government purchases
+D) falling tax rates
+E) decreasing wages
+Answer:  E
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+17) If the short-run macroeconomic equilibrium occurs with real GDP less than Y*, the economy is
+A) at its full-employment level of output.
+B) experiencing a recessionary gap.
+C) experiencing an inflationary gap.
+D) threatened with an acceleration of inflation.
+E) operating at full capacity.
+Answer:  B
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+18) If the short-run macroeconomic equilibrium occurs with real GDP greater than potential output, the economy is
+A) at its full-employment level of output.
+B) experiencing a recessionary output gap.
+C) experiencing an inflationary output gap.
+D) threatened with a demand shock.
+E) operating at full capacity.
+Answer:  C
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+ 
+19) If wages rise faster than increases in labour productivity, then unit labour costs will
+A) fall and the AS curve will shift left.
+B) fall and the AS curve will shift right.
+C) rise and the AS curve will shift left.
+D) rise and the AS curve will shift right.
+E) not change because only total labour costs change.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+20) A common assumption among macroeconomists is that when real GDP exceeds potential output, factor prices adjust and the 
+A) AS curve shifts to the left fairly rapidly.
+B) AS curve shifts to the left only very slowly.
+C) AS curve shifts to the right very rapidly.
+D) AD curve shifts to the left rapidly.
+E) none of the above— the AS curve remains unchanged.
+Answer:  A
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+21) A common assumption among macroeconomists is that when real GDP is less than potential output, factor prices adjust and the 
+A) AS curve shifts to the left fairly rapidly.
+B) AS curve shifts to the right only very slowly.
+C) AS curve shifts to the right very rapidly.
+D) AD curve shifts to the left rapidly.
+E) None of the above - the AS curve remains unchanged.
+Answer:  B
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+ 
+22) If the economy is experiencing an inflationary output gap, the adjustment process operates as follows:
+A) wages do not adjust, but the AD curve shifts to the right.
+B) wages fall, unit costs fall, and the AD curve shifts rightward.
+C) wages rise, unit costs rise, and the AS curve shifts leftward.
+D) wages rise, unit costs rise, and the AS curve shifts rightward.
+E) wages fall, unit costs fall, and the AS curve shifts rightward.
+Answer:  C
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+23) If an economy is experiencing neither a recessionary gap nor an inflationary gap, the real output of the economy will be reflected by
+A) the aggregate supply curve shifting to the left.
+B) the aggregate demand curve shifting to the left.
+C) the aggregate expenditure curve shifting upward.
+D) the intersection of the AD and AS curves at potential output.
+E) a point to the right of the aggregate supply curve at potential GDP.
+Answer:  D
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+ 
+ 
+
+FIGURE 24-1
+
+24) Refer to Figure 24-1. If the economy is currently in a short-run equilibrium at Y0, the economy is experiencing
+A) a recessionary output gap.
+B) an inflationary output gap.
+C) a labour shortage.
+D) a long-run equilibrium.
+E) potential output growth.
+Answer:  A
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+25) Refer to Figure 24-1. If the economy is currently producing output of Y0, the economy's automatic adjustment process will have the 
+A) AS curve shifting to the right until point A is reached.
+B) vertical line at Y* shifting to the left until it gets to Y0.
+C) AD curve shifting to the right until point B is reached.
+D) economy remaining where it is.
+E) level of potential output falling.
+Answer:  A
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+26) Refer to Figure 24-1. If the economy is currently producing output of Y0 and wages are sticky downwards, then the 
+A) economy will eventually move to point B.
+B) economy will only move gradually toward point A as wages slowly adjust.
+C) economy will quickly move to point A.
+D) level of output will decrease below Y0.
+E) AD curve will eventually shift to the right and return the economy to its full-employment level of output.
+Answer:  B
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+ 
+
+FIGURE 24-2
+
+27) Refer to Figure 24-2. If the economy is currently in a short-run equilibrium at  , the economy is experiencing
+A) potential output growth.
+B) a long-run equilibrium.
+C) an excess supply of labour.
+D) an inflationary output gap.
+E) a recessionary output gap.
+Answer:  D
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+28) Refer to Figure 24-2. Suppose the economy is in equilibrium at Y1. The economy's automatic adjustment process will restore potential output, Y*, through
+A) wage increases and a leftward shift of the AS curve.
+B) wage increases and a rightward shift in the AS curve.
+C) wage decreases and a rightward shift of the AD curve.
+D) an increase in potential GDP to intersect both the AD and AS curves at B.
+E) a leftward shift of the AD to intersect both the AS and potential GDP at A.
+Answer:  A
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+29) The Phillips curve describes the relationship between
+A) aggregate expenditure and aggregate demand.
+B) the money supply and interest rates.
+C) unemployment and the rate of change of wages.
+D) inflation and interest rates.
+E) the output gap and potential GDP.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+30) The Phillips curve provides a theoretical link between
+A) the liquidity preference and investment demand schedules.
+B) labour markets and foreign-exchange markets.
+C) the goods market and productivity.
+D) the goods market and the labour market.
+E) inflation and the demand for money.
+Answer:  D
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+ 
+31) Which of the following describes the distinction between the Phillips curve and the AS curve?
+A) The AS curve has the price level on the vertical axis whereas the Phillips curve has the interest rate on the vertical axis.
+B) The AS curve has the price level on the vertical axis whereas the Phillips curve has the rate of change in the interest rate on the vertical axis.
+C) The AS curve has the price level on the vertical axis whereas the Phillips curve has the rate of wage changes on the vertical axis.
+D) The AS curve has the rate of price inflation on the vertical axis whereas the Phillips curve has the rate of wage changes on the vertical axis.
+E) There is no distinction: the two curves are essentially the same thing.
+Answer:  C
+Diff: 3
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+32) If the economy in the short run is experiencing a recessionary gap, we are likely to see
+A) severe and widespread labour shortages.
+B) quickly rising output prices.
+C) many workers receiving employment-insurance benefits.
+D) the number of employment-insurance recipients the lowest ever.
+E) consumers optimistic about the future.
+Answer:  C
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+33) Which of the following statements about output gaps is true?
+A) When actual GDP is below potential GDP, there is upward pressure on wages.
+B) When actual GDP is below potential GDP, there is upward pressure on output prices.
+C) When actual GDP is above potential GDP, there is downward pressure on wages.
+D) When actual GDP is above potential GDP, there is downward pressure on output prices.
+E) When actual GDP is above potential GDP, there is upward pressure on wages.
+Answer:  E
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+ 
+34) Consider the basic AD/AS diagram. The vertical line at Y* shows the relationship between the price level and the amount of output ________ have adjusted to output gaps.
+A) demanded by households after all factor prices
+B) supplied by firms after all factor prices
+C) demanded by households before all factor prices
+D) supplied by firms before all factor prices
+E) supplied by firms after all output prices
+Answer:  B
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+35) As the macro economy adjusts from the short run to the long run,
+A) wages and other factor prices adjust to close output gaps.
+B) potential output is adjusting to close inflationary or recessionary gaps.
+C) wages and other factor prices remain constant.
+D) aggregate demand shocks cause deviations from potential output.
+E) aggregate supply shocks cause deviations from potential output.
+Answer:  A
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+
+36) Following any AD or AS shock, economists typically assume that the adjustment process continues until
+A) the AD and AS curves intersect each other at the correct price level.
+B) real GDP returns to Y*.
+C) factor prices have returned to their levels previous to the shock.
+D) Y* adjusts to its long-run equilibrium level.
+E) the output gap is at a stable level.
+Answer:  B
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Recall
+User2:  Qualitative
+ 
+The table below shows data for five economies of similar size. Real GDP is measured in billions of dollars. Assume that potential output for each economy is $340 billion.
+
+	Real GDP	Rate of Wage Change
+Economy A	300	-1.0%
+Economy B	320	-0.5%
+Economy C	340	    0%
+Economy D	360	+3.5%
+Economy E	380	+6.0%
+
+TABLE 24-1
+
+37) Refer to Table 24-1. Which of the economies is operating at its long-run equilibrium?
+A) Economy A
+B) Economy B
+C) Economy C
+D) Economy D
+E) Economy E
+Answer:  C
+Diff: 1
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+38) Refer to Table 24-1. Which of the economies are experiencing an inflationary gap?
+A) Economies A and B
+B) Economies B and C
+C) Economies C and D
+D) Economies D and E
+E) none of the economies
+Answer:  D
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+ 
+39) Refer to Table 24-1. Which of the following statements best describes the situation facing Economy B?
+A) There is a recessionary gap of $40 billion and wages are falling slowly.
+B) There is an inflationary gap of $40 billion and wages are rising.
+C) There is a recessionary gap of $20 billion and wages are falling slowly.
+D) There is no output gap and wages are stable.
+E) There is an output gap of $20 billion and wages are rapidly adjusting.
+Answer:  C
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+40) Refer to Table 24-1. Consider Economy E. Which of the following best describes the positions of the aggregate demand and aggregate supply curves in this economy?
+A) The AD curve has shifted to the right and the economy is in a short-run disequilibrium position.
+B) The AS curve has shifted to the left and the economy is in a short-run disequilibrium position.
+C) The intersection of the AD and AS curves is to the right of Y*.
+D) The intersection of the AD and AS curves is to the left of Y*.
+E) The intersection of the AD and AS curves coincide with the long-run aggregate supply curve.
+Answer:  C
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+41) Refer to Table 24-1. How is the adjustment asymmetry demonstrated when comparing Economy A to Economy E?
+A) The size of the output gap is the same in Economies A and E, but wages are rising in A and falling in E.
+B) The output gap is larger in Economy A, yet wages are changing more slowly.
+C) The output gap is much larger in Economy E, so wages are changing at a faster rate.
+D) The size of the output gap is the same in Economies A and E but wages are falling more slowly in A than they are rising in E.
+E) There is insufficient data with which to observe the adjustment asymmetry.
+Answer:  D
+Diff: 3
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+ 
+42) Refer to Table 24-1. Which of the following statements explains why wages are rising in Economy E?
+A) The inflationary gap generates lower profits for firms because workers are demanding higher wages.
+B) The inflationary gap generates excess demand for labour, which causes wages to rise.
+C) The aggregate supply curve is shifting to the right, which is causing wages to rise.
+D) The aggregate demand curve is shifting to the right, causing wages to rise.
+E) Potential output is rising, putting upward pressure on wages.
+Answer:  B
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+43) Refer to Table 24-1. In which economy is there the most unused capacity?
+A) Economy A
+B) Economy B
+C) Economy C
+D) Economy D
+E) Economy E
+Answer:  A
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User1:  Table
+User2:  Qualitative
+
+44) Suppose that the economy is initially in a long-run macroeconomic equilibrium. A shock then hits the economy and we observe that the unemployment rate decreases and the price level increases. We can conclude that ________ has increased and there is now a(n) ________ gap.
+A) aggregate supply; inflationary
+B) aggregate demand; recessionary
+C) aggregate supply; recessionary
+D) aggregate demand; inflationary
+Answer:  D
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+User2:  Qualitative
+
+ 
+45) Suppose the following conditions are present in the economy:
+	- firms are increasing output to meet strong demand for their goods
+	- workers are able to demand higher wages as firms try to bid workers away from other firms
+Which of the following statements describes the adjustment that will happen in the AD/AS macro model? 
+A) There is an inflationary output gap; aggregate demand will continue to increase, causing the AD curve to shift to the right. The price level will rise until equilibrium is restored at  .
+B) The economy is in equilibrium at  , but wages are rising. The AS curve will shift to the left until a new equilibrium is reached at a higher price level. 
+C) There is a recessionary output gap; wages and other factor prices will rise; the AS curve will shift to the left until equilibrium is restored at  .
+D) There is an inflationary output gap; wages and other factor prices will rise; the AS curve will shift to the left until equilibrium is restored at  .
+E) There is a recessionary output gap; aggregate demand will rise, causing the AD curve to shift to the right until equilibrium is restored at  .
+Answer:  D
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+46) Suppose the following conditions are present in the economy:
+	- firms are facing lower-than normal sales and have reduced output
+	-there is an excess supply of labour and firms are starting to reduce their workforces
+Which of the following statements describes the adjustment that will happen in the AD/AS macro model? 
+A) Output is below potential; aggregate demand will fall, causing the AD curve to shift to the left. The price level will fall until equilibrium is restored at  .
+B) The economy is in equilibrium at  , but wages are falling. The AS curve will shift to the right until a new equilibrium is reached at a lower price level. 
+C) Output is below potential; wages will eventually fall; the AS curve will slowly shift to the right until equilibrium is restored at  .
+D) Output is above potential; wages will fall, causing the AS curve to shift to the right until equilibrium is restored at  .
+E) Output is above potential; aggregate demand will fall, causing the AD curve to shift to the left until equilibrium is restored at  .
+Answer:  C
+Diff: 2
+Topic:  24.1b. output gaps and the adjustment of factor prices
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+47) Consider the adjustment of factor prices to output gaps in the basic AD/AS macro model. The experience of many economies suggests that
+A) downward pressure on wages during slumps results in sharply increased labour costs.
+B) upward pressures on wages are largely ineffective in booms.
+C) downward pressure on wages during slumps is not as intense as upward pressure on wages during booms.
+D) unit labour costs fall quickly during booms.
+E) slumps and booms are not common; the economy is usually in equilibrium at potential output.
+Answer:  C
+Diff: 2
+Topic:  24.1c. adjustment asymmetry
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+48) An important asymmetry in the behaviour of the AS curve is that
+A) prices are sticky but wages are not.
+B) positive output gaps can persist for a long time without causing increases in wages and prices, whereas negative output gaps lead to immediate reductions in wages and prices.
+C) negative output gaps can persist for a while without causing large decreases in wages and prices, whereas positive output gaps lead more quickly to increases in wages and prices.
+D) wages are very flexible in the downward direction, but not in the upward direction.
+E) wages and prices are equally sticky in both directions.
+Answer:  C
+Diff: 2
+Topic:  24.1c. adjustment asymmetry
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+49) The wage-adjustment process is asymmetrical because
+A) factor prices fluctuate more frequently than goods prices.
+B) goods prices rise more quickly than factor prices.
+C) employers delay wage increases in a boom but lay off workers quickly during a slump.
+D) taxes rise quickly in a boom but do not fall during a slump.
+E) wages rise quickly in a boom but fall slowly during a slump.
+Answer:  E
+Diff: 1
+Topic:  24.1c. adjustment asymmetry
+Skill:  Recall
+User2:  Qualitative
+
+ 
+50) An important asymmetry in the behaviour of aggregate supply is the
+A) changing slope of the aggregate demand curve.
+B) difference between actual and potential output.
+C) different relative sizes of inflationary versus recessionary gaps.
+D) economy's path of potential output as a result of labour force growth.
+E) different speeds at which factor prices adjust to positive and negative output gaps.
+Answer:  E
+Diff: 2
+Topic:  24.1c. adjustment asymmetry
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+51) An economy may not quickly and automatically eliminate a recessionary output gap because wages 
+A) never change in response to changes in the demand for labour.
+B) have a tendency to be sticky downward.
+C) have a tendency to fall too quickly.
+D) have a tendency to rise too quickly.
+E) are flexible but prices have a tendency to be sticky downward.
+Answer:  B
+Diff: 1
+Topic:  24.1c. adjustment asymmetry
+Skill:  Applied
+User2:  Qualitative
+52) An adjustment "asymmetry" in aggregate supply is 
+A) the concave shape of the AS curve.
+B) the convex shape of the AS curve.
+C) the difference in speed of a rightward shift versus a leftward shift (when wages adjust to output gaps).
+D) the difference in speed of increases in factor prices versus wage rates.
+E) the difference in speed of decreases in output levels.
+Answer:  C
+Diff: 2
+Topic:  24.1c. adjustment asymmetry
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+53) Consider the AD/AS macro model. A permanent demand shock that causes equilibrium output to rise above potential output will 
+A) allow a stable expansion of real income over time.
+B) always reverse itself.
+C) be negated in the long run, through the economy's adjustment process.
+D) result in a price level lower than that preceding the demand shock.
+E) set off an endless cycle of price rises and increases in unemployment.
+Answer:  C
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+User2:  Qualitative
+
+54) Consider an AD/AS model in long-run equilibrium. An output gap, caused by a leftward shift of the AD curve, will be eliminated if
+A) wages rise quickly.
+B) the AS curve shifts upward.
+C) wages and other factor prices fall sufficiently.
+D) real national income decreases.
+E) prices rise quickly.
+Answer:  C
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+55) Consider an economy with a relatively steep AS curve. If there is a shift to the right in the AD curve, there will be a ________ in the price level and ________ in national output.
+A) small increase; a large increase 
+B) small increase; a large decrease
+C) large increase; a small increase
+D) large increase; a small decrease
+E) large increase; no change
+Answer:  C
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+User2:  Qualitative
+ 
+56) Consider an economy with a relatively steep AS curve. If the AD curve shifts to the left, then the price level will ________ and national output will ________.
+A) increase slightly; significantly increase
+B) increase slightly; significantly decrease
+C) increase sharply; increase slightly
+D) fall sharply; will not change.
+E) fall sharply; decrease slightly.
+Answer:  E
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+User2:  Qualitative
+
+57) Suppose Canada's economy is in a long-run equilibrium with real GDP equal to potential output. Now suppose there is an increase in world demand for Canada's goods. In the short run, ________. In the long run, ________.
+A) real GDP and the price level both fall; real GDP is below its original level with a lower price level
+B) real GDP and the price level both rise; real GDP is above its original level with a higher price level
+C) real GDP and the price level both rise; real GDP returns to its original level with a higher price level
+D) real GDP rises and the price level falls; real GDP returns to its original level with a lower price level
+E) real GDP falls and the price level rises; real GDP is below its original level with a higher price level
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+58) Suppose Canada's economy is in a long-run equilibrium with real GDP equal to potential output. Now suppose there is an unexpected and sharp reduction in desired business investment expenditure. In the short run, ________. In the long run, ________.
+A) real GDP and the price level both fall; real GDP is at its original level with a lower price level
+B) real GDP and the price level both fall; real GDP is above its original level with a higher price level
+C) real GDP and the price level both rise; real GDP returns to its original level with a higher price level
+D) real GDP rises and the price level falls; real GDP returns to its original level with a lower price level
+E) real GDP falls and the price level rises; real GDP is below its original level with a higher price level
+Answer:  A
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+59) Consider the basic AD/AS macro model in long-run equilibrium. An expansionary AD shock will ________ the price level and ________ output in the short run. In the long run, the price level will ________ and output will ________. 
+A) decrease; decrease; decrease further; decrease further 
+B) decrease; decrease; decrease further; be restored to potential output 
+C) increase; decrease; increase further; increase further 
+D) increase; decrease; increase further; be restored to potential output 
+E) increase; increase; increase further; be restored to potential output 
+Answer:  E
+Diff: 3
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+60) Consider the basic AD/AS macro model in long-run equilibrium. An expansionary AD shock would have ________ output effect in the short run and ________ output effect in the long run. 
+A) a positive; no 
+B) a positive; a positive
+C) no; a positive
+D) no; no
+E) not enough information to know
+Answer:  A
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Recall
+User2:  Qualitative
+
+61) Consider the basic AD/AS macro model in long-run equilibrium. A permanent expansionary AD shock has ________ price-level effect in the short run and ________ price-level effect in the long run. 
+A) a positive; no 
+B) a negative; no 
+C) a positive; an even larger 
+D) a positive; a smaller 
+E) a negative; a positive 
+Answer:  C
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+62) Suppose Canada's economy is in a long-run equilibrium with real GDP equal to potential output. Now suppose there is an increase in the Canadian-dollar price of all imported raw materials. In the short run, ________. In the long run, ________.
+A) real GDP and the price level both fall; real GDP is below its original level with a lower price level
+B) real GDP and the price level both rise; real GDP is above its original level with a higher price level
+C) real GDP and the price level both rise; real GDP returns to its original level with a higher price level
+D) real GDP rises and the price level falls; real GDP returns to its original level with a lower price level
+E) real GDP falls and the price level rises; real GDP and the price level return to their original levels
+Answer:  E
+Diff: 3
+Topic:  24.2a. AD shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+63) Suppose Canada's economy is in a long-run equilibrium with real GDP equal to potential output. Now suppose there is a decrease in the Canadian price of all imported raw materials. In the short run, ________. In the long run, ________.
+A) real GDP and the price level both fall; real GDP is below its original level with a lower price level
+B) real GDP and the price level both rise; real GDP is above its original level with a higher price level
+C) real GDP and the price level both rise; real GDP returns to its original level with a higher price level
+D) real GDP rises and the price level falls; real GDP and the price level return to their original levels
+E) real GDP falls and the price level rises; real GDP is below its original level with a higher price level
+Answer:  D
+Diff: 3
+Topic:  24.2a. AD shocks
+Skill:  Applied
+User2:  Qualitative
+The diagram below shows an AD/AS model for a hypothetical economy. The economy begins in long-run equilibrium at point A.
+
+ 
+ 
+
+FIGURE 24-3
+
+64) Refer to Figure 24-3. A negative shock to the economy shifts the AD curve from   to  . The initial effect is 
+A) a recessionary output gap of 100.
+B) a recessionary output gap of 300.
+C) a recessionary output gap of 550.
+D) an inflationary output gap of 200.
+E) an inflationary output gap of 100.
+Answer:  A
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+ 
+65) Refer to Figure 24-3. A negative shock to the economy shifts the AD curve from   to  . At the new short-run equilibrium, the price level is ________ and real GDP is ________. 
+A) 90; 900
+B) 110; 800
+C) 60; 1000
+D) 60; 700
+E) 90; 1250
+Answer:  A
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+
+66) Refer to Figure 24-3. Which of the following events could have shifted the AD curve from   to  ?
+A) an increase in net exports
+B) an increase in government purchases
+C) an increase in desired investment
+D) an increase in autonomous household saving
+E) an increase in autonomous consumption
+Answer:  D
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Qualitative
+
+ 
+67) Refer to Figure 24-3. After the negative aggregate demand shock shown in the diagram (from   to  ), which of the following describes the adjustment process that would return the economy to its long-run equilibrium? 
+A) Wages would eventually fall, causing the AD curve to shift to the right, returning to the original equilibrium at point A. 
+B) Wages would eventually fall, causing the AS curve to shift slowly to the right, reaching a new equilibrium at point E. 
+C) Wages would increase, causing the AS curve to shift to the right, reaching a new equilibrium at point E. 
+D) Wages would increase, causing the AD curve to shift to the right, returning to the original equilibrium at point A. 
+E) Potential output would decrease from 1000 to 900 and a new long-run equilibrium would be established at point D. 
+Answer:  B
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Qualitative
+68) Refer to Figure 24-3. Following the negative AD shock shown in the diagram (from   to  ), the adjustment process will take the economy to a long-run equilibrium where the price level is ________ and real GDP is ________. 
+A) 110; 1000
+B) 60; 1000
+C) 90; 900
+D) 110; 800
+E) 90; 1250
+Answer:  B
+Diff: 2
+Topic:  24.2a. AD shocks
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+
+ 
+69) Consider the AD/AS model, and suppose that the economy begins at potential output. The effect of a positive AS shock on real GDP will be reversed in the long run with a ________ shift in ________.
+A) rightward; AS
+B) rightward; AD
+C) leftward; AS
+D) leftward; AD
+E) leftward; Y*
+Answer:  C
+Diff: 2
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+70) Consider the AD/AS model and suppose the economy begins at potential output. The effect of a negative AS shock on real GDP will be reversed in the long run with a ________ shift in ________.
+A) rightward; AS
+B) rightward; AD
+C) leftward; AS
+D) leftward; AD
+E) leftward; Y*
+Answer:  A
+Diff: 2
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User2:  Qualitative
+71) In the basic AD/AS macro model, which of the following events would cause stagflation? 
+A) a large decrease in wages 
+B) a large increase in business confidence 
+C) a large increase in the net tax rate 
+D) a large increase in the price of raw materials 
+E) a large increase in labour productivity 
+Answer:  D
+Diff: 3
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User2:  Qualitative
+
+ 
+72) Consider the basic AD/AS macro model in long-run equilibrium. A negative AS shock will ________ the price level and ________ output in the short run. In the long run, the price level will ________ and output ________. 
+A) decrease; decrease; decrease further; will decrease further 
+B) decrease; decrease; decrease further; will be restored to potential output 
+C) increase; decrease; decrease; will be restored to potential output 
+D) increase; decrease; increase further; will be restored to potential output 
+E) increase; increase; increase further; will be restored to potential output 
+Answer:  C
+Diff: 3
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User2:  Qualitative
+The diagram below shows an AD/AS model for a hypothetical economy. The economy begins in long-run equilibrium at point A.
+
+ 
+
+FIGURE 24-4
+
+73) Refer to Figure 24-4. The initial effect of a positive AS shock results in 
+A) a recessionary output gap of 250.
+B) a recessionary output gap of 450.
+C) an inflationary output gap of 200.
+D) an inflationary output gap of 300.
+E) an inflationary output gap of 550.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+74) Refer to Figure 24-4. The positive aggregate supply shock results in a new short-run equilibrium where the price level is ________ and real GDP is ________. 
+A) 60; 1000 
+B) 60; 1300 
+C) 90; 750 
+D) 90; 1200 
+E) 110; 1300 
+Answer:  D
+Diff: 2
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+75) Refer to Figure 24-4. After the positive aggregate supply shock shown in the diagram, which of the following would shift the AS curve leftward during the economy's adjustment process? 
+A) an increase in factor supplies 
+B) an increase in the unemployment rate 
+C) a decrease in wages and other factor prices 
+D) an increase in labour productivity 
+E) an increase in wages and other factor prices 
+Answer:  E
+Diff: 2
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+76) Refer to Figure 24-4. Following the positive AS shock shown in the diagram, the adjustment process will take the economy to a long-run equilibrium where the price level is ________ and real GDP is ________. 
+A) 60; 1000 
+B) 60; 1300 
+C) 90; 750 
+D) 90; 1200 
+E) 110; 1000 
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+ 
+77) Consider the basic AD/AS macro model, initially in a long-run equilibrium. A positive AS shock will ________ the price level and ________ output in the short run. In the long run, the price level will ________ and output ________. 
+A) decrease; decrease; decrease further; will decrease further 
+B) decrease; increase; decrease further; will be restored to potential output 
+C) decrease; increase; return to its initial level; will be restored to potential output 
+D) increase; increase; decrease; will be restored to potential output 
+E) increase; increase; return to its initial level; will be restored to potential output 
+Answer:  C
+Diff: 3
+Topic:  24.2b. AS shocks
+Skill:  Applied
+User2:  Qualitative
+78) The curve that is sometimes called the "long-run aggregate supply curve" (vertical Y*) relates the aggregate price level to real GDP
+A) in the short run.
+B) when wages are in adjustment but prices are unstable.
+C) when national income is at less than potential income.
+D) when technology is allowed to change.
+E) after factor prices have fully adjusted to eliminate output gaps.
+Answer:  E
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+79) What economists sometimes call the "long-run aggregate supply curve" is 
+A) vertical.
+B) horizontal.
+C) nonlinear.
+D) negatively sloped.
+E) positively sloped.
+Answer:  A
+Diff: 1
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+User2:  Qualitative
+
+ 
+80) What is sometimes called the "long-run aggregate supply curve" shows the relationship between the price level and aggregate supply over a time period long enough to permit
+A) changes in the capital stock.
+B) wages and other factor prices to adjust.
+C) changes in technology to occur.
+D) changes in the size of the resource base to occur.
+E) population to increase.
+Answer:  B
+Diff: 1
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+User2:  Qualitative
+
+81) The "long-run aggregate supply curve," vertical at Y*, shows that
+A) potential output will rise as prices rise.
+B) potential output will fall as prices rise.
+C) potential output is compatible with any price level.
+D) potential output is compatible with one particular price level.
+E) prices will always rise in the long run.
+Answer:  C
+Diff: 1
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+User2:  Qualitative
+82) Consider the AD/AS model. In the long run, after factor prices have fully adjusted to any output gaps, real GDP
+A) and the price level are determined by aggregate demand.
+B) and the price level are determined by "long-run aggregate supply."
+C) is determined by aggregate demand and the price level by potential output.
+D) is determined by potential output and the price level by aggregate demand.
+E) is determined by AD and the price level is determined by the AS curve.
+Answer:  D
+Diff: 3
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+User2:  Qualitative
+
+ 
+83) Consider the AD/AS model. Since output in the long run is determined by Y*, the only role of the AD curve is to determine the price level. This is true because the
+A) Y* is independent of the price level.
+B) aggregate demand curve is vertical.
+C) aggregate demand curve is horizontal.
+D) Y* depends on the price level.
+E) AS curve is upward sloping.
+Answer:  A
+Diff: 3
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+User2:  Qualitative
+
+84) Consider the AD/AS model after factor prices have fully adjusted to output gaps. A reduction in the level of potential output, with aggregate demand constant, will
+A) leave real output unaffected and increase the price level.
+B) decrease real output and decrease the price level.
+C) decrease real output and leave the price level unchanged.
+D) decrease real output and increase the price level.
+E) increase real output and decrease the price level.
+Answer:  D
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+User2:  Qualitative
+
+85) Consider the AD/AS model after factor prices have fully adjusted to output gaps. An increase in the level of potential output, with aggregate demand constant, will
+A) affect only the price level.
+B) decrease real GDP and the price level.
+C) affect only the level of real GDP.
+D) increase real GDP and lower the price level.
+E) decrease real GDP and raise the price level.
+Answer:  D
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+User2:  Qualitative
+ 
+
+FIGURE 24-5
+
+86) Refer to Figure 24-5. The economy is not in long-run equilibrium at E1 because the
+A) AD1 curve will shift back to AD0 due to an increase in the price level.
+B) AD1 curve will shift back to the left due to a fall in current consumption.
+C) AS will shift to the left due to an increase in wages.
+D) AS will shift to the left due to an increase in the price level.
+E) AS will shift to the right due to a decrease in the price level.
+Answer:  C
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+87) Refer to Figure 24-5. Following a positive demand shock that takes the economy from E0 to E1, the movement of the economy from E1 to E2 indicates that
+A) a demand shock can keep real GDP above potential output permanently.
+B) an increase in the price level causes the AS curve to shift to the left.
+C) an increase in the price level causes the AD curve to shift to the left.
+D) the economy cannot return to potential output without government intervention.
+E) the output effect of a demand shock will be reversed in the long run when wages and prices are fully adjusted.
+Answer:  E
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+88) Refer to Figure 24-5. If the economy is currently in equilibrium at E3, the concept of asymmetrical adjustment of the AS curve suggests that
+A) the economy will attain potential output faster if there is no intervention by the government.
+B) a decrease in the price level will induce a rightward shift of AS.
+C) the return of the economy to potential output may be very slow without government intervention.
+D) the economy will never return to potential output.
+E) the price level is constant regardless of the level of equilibrium income.
+Answer:  C
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+89) Consider the AD/AS macro model. The study of short-run cyclical fluctuations usually assumes, for simplicity, that there are no changes in 
+A) the AS curve.
+B) potential GDP.
+C) either the AS curve or potential GDP.
+D) either the AD or AS curves.
+E) the intersection of the AD and AS curves.
+Answer:  B
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+90) In the long run in the AD/AS macro model we can say that
+A) both real GDP and the price level are determined by aggregate demand.
+B) both real GDP and the price level are determined by Y*.
+C) long-run real GDP is determined by Y* and the long-run price level by the AD curve.
+D) real GDP is determined by aggregate demand and the price level by Y*.
+E) long-run real GDP is determined by aggregate demand and the price level is determined solely by the AS curve.
+Answer:  C
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+User2:  Qualitative
+91) Suppose the economy begins in a long-run equilibrium with Y = Y*. A permanent increase in aggregate demand will have its short-run effect on real GDP reversed in the long run with a ________ shift of ________.
+A) rightward; the aggregate supply curve
+B) rightward; the aggregate demand curve
+C) leftward; the aggregate supply curve
+D) leftward; the aggregate demand curve
+E) rightward; Y*
+Answer:  C
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Applied
+User2:  Qualitative
+
+92) Consider the AD/AS macro model. The main source of increases in material living standards over the long term is the
+A) maintenance of a continuous inflationary gap.
+B) continual avoidance of recessionary gaps.
+C) continuous outward shift of aggregate demand.
+D) continual increase in potential national income.
+E) positive slope of the aggregate supply curve.
+Answer:  D
+Diff: 1
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+93) In the basic AD/AS macro model, permanent increases in real GDP are possible only if
+A) potential output is increasing.
+B) the correct fiscal policy is implemented.
+C) the economy's automatic stabilizers are allowed to operate.
+D) the aggregate supply curve is vertical.
+E) aggregate demand responds positively to demand shocks.
+Answer:  A
+Diff: 2
+Topic:  24.2c. long-run equilibrium and potential output
+Skill:  Recall
+User2:  Qualitative
+
+94) Fiscal policy refers to the
+A) government's attempts to maintain a vertical AS curve so as to stabilize output. 
+B) government's use of spending and taxing policies to influence equilibrium real GDP.
+C) government's use of trade-related policy tools to influence the net export function, thereby influencing GDP.
+D) business sector's influence on investment and GDP.
+E) households' attempts to change saving to encourage growth.
+Answer:  B
+Diff: 1
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Recall
+User2:  Qualitative
+ 
+ 
+
+FIGURE 24-1
+
+95) Refer to Figure 24-1. If the economy is currently producing output of Y0 and the government initiates an expansionary fiscal policy adequate to close the output gap, the result will likely be
+A) the vertical line at Y* will shift to the left, intersecting the AS and AD curves at Y0. 
+B) no change in either price level or output, since expansionary fiscal policy is ineffective.
+C) that the AS curve will shift to the right until point A is reached.
+D) that the AS curve and the AD curve will shift left simultaneously.
+E) that the AD curve will shift to the right until point B is reached.
+Answer:  E
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+96) Refer to Figure 24-1. Suppose the economy is currently in a short-run equilibrium with output of Y0. An appropriate fiscal policy response, to attain potential output (Y*), is
+A) an increase in personal income taxes.
+B) a reduction in government purchases of goods and services.
+C) an increase in corporate income taxes.
+D) an increase in government purchases.
+E) an increase in interest rates to encourage increased saving.
+Answer:  D
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+ 
+
+FIGURE 24-2
+
+97) Refer to Figure 24-2. Suppose the economy is in a short-run equilibrium at Y1. An appropriate fiscal policy for closing the output gap is
+A) a decrease in personal income taxes.
+B) a decrease in government purchases.
+C) an increase in current interest rates.
+D) an increase in government purchases.
+E) a decrease in corporate income-tax rates.
+Answer:  B
+Diff: 3
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+98) Refer to Figure 24-2. Suppose the economy is in a short-run equilibrium at Y1. An appropriate fiscal policy for attaining potential output (Y*) is a(n)
+A) increase in personal and corporate tax rates.
+B) increase in government spending.
+C) increase in current consumption.
+D) decrease in personal and corporate taxes.
+E) decrease in current imports.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+99) Refer to Figure 24-2. Suppose the economy is in a short-run equilibrium at Y1. A contractionary fiscal policy would restore the economy to potential output (Y*) by shifting the 
+A) AS curve to the left to intersect AD at C.
+B) AS curve to the right.
+C) potential GDP and the AS curve to the left.
+D) AD curve to the right.
+E) AD to the left to intersect AS at point A.
+Answer:  E
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+100) One advantage of using expansionary fiscal policy rather than relying on automatic adjustment to recover from a recessionary gap is that 
+A) the economy will overshoot potential GDP and a boom will be underway.
+B) inflation will not be as stimulated.
+C) price level will rise higher than otherwise.
+D) the recovery may be more rapid.
+E) the recovery will be slower, thereby causing less disruption.
+Answer:  D
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Recall
+User2:  Qualitative
+
+ 
+101) Consider the basic AD/AS model, and suppose there is a negative output gap. If an expansionary fiscal policy is pursued and the AS curve shifts right unexpectedly, the fiscal policy may be ________, and real GDP may ________ potential GDP.
+A) too weak; stay below
+B) too weak; rise above
+C) too strong; stay below
+D) too strong; rise above
+E) appropriate; equal
+Answer:  D
+Diff: 3
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User2:  Qualitative
+102) Consider the basic AD/AS model, and suppose there is a negative output gap. If an expansionary fiscal policy is pursued and the AS curve shifts leftward unexpectedly, the fiscal policy may be ________, and real GDP may ________ potential GDP.
+A) too weak; stay below
+B) too weak; rise above
+C) too strong; stay below
+D) too strong; rise above
+E) appropriate; equal
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User2:  Qualitative
+
+103) Suppose the economy has a high level of unemployment and a low level of aggregate output. Which of the following policies could the government implement to alleviate these conditions?
+A) an expansionary fiscal policy that increases tax rates
+B) a contractionary fiscal policy that increases government purchases
+C) automatic fiscal stabilizers
+D) a contractionary fiscal policy that increases tax rates
+E) an expansionary fiscal policy that increases government purchases
+Answer:  E
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User2:  Qualitative
+ 
+The diagram below shows an AD/AS model for a hypothetical economy which is initially in a short-run equilibrium at point A.
+
+ 
+
+FIGURE 24-6
+
+104) Refer to Figure 24-6. In the initial short-run equilibrium, there is ________ output gap of ________ but this gap could be closed by a ________. 
+A) a recessionary; 100; fiscal contraction 
+B) a recessionary; 200; fiscal expansion 
+C) a recessionary; 200; fiscal contraction 
+D) an inflationary; 100; fiscal contraction 
+E) an inflationary; 200; fiscal expansion 
+Answer:  B
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+ 
+105) Refer to Figure 24-6. If the government takes no action to change the short-run macro equilibrium, then 
+A) the AD curve will shift downward until it intersects with the AS curve at point E. 
+B) the AD curve will shift upward until it intersects with the AS curve at point C. 
+C) the AS curve will shift to the left until it intersects with the AD curve at point D. 
+D) the AS curve will shift to the right until it intersects with the AD curve at point B. 
+E) the AS curve can either shift to the right or left depending on the fiscal policy. 
+Answer:  D
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+106) Refer to Figure 24-6. The government could close the existing output gap by 
+A) increasing the net tax rate. 
+B) decreasing the net tax rate. 
+C) decreasing government purchases. 
+D) decreasing government transfer payments. 
+E) implementing a contractionary fiscal policy. 
+Answer:  B
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+The diagram below shows an AD/AS model for a hypothetical economy which is initially in a short-run equilibrium at point A.
+
+ 
+ 
+
+FIGURE 24-7
+
+107) Consider Figure 24-7. At the initial short-run equilibrium, there is ________ output gap of ________. This gap could be closed by a ________. 
+A) a recessionary; 100; fiscal contraction 
+B) a recessionary; 200; fiscal expansion 
+C) an inflationary; 100; fiscal contraction 
+D) an inflationary; 200; fiscal contraction 
+E) an inflationary; 350; fiscal expansion 
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+108) Refer to Figure 24-7. If the government takes no action to close the existing output gap, then 
+A) the AD curve will shift down until it intersects with the AS curve at point D. 
+B) the AD curve will shift up until it intersects with the AS curve at point B. 
+C) the AS curve will shift to the left until it intersects with the AD curve at point C. 
+D) the AS curve will shift to the right until it intersects with the AD curve at point E. 
+E) the AS curve can either shift to the right or left depending on the fiscal policy. 
+Answer:  C
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+109) Refer to Figure 24-7. The government could close the existing output gap by 
+A) increasing the net tax rate. 
+B) decreasing the net tax rate. 
+C) increasing government purchases. 
+D) decreasing government transfer payments. 
+E) implementing an expansionary fiscal policy. 
+Answer:  A
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+110) Suppose the economy is experiencing an inflationary gap in the short run. The advantage of using a contractionary fiscal policy rather than allowing the economy's natural adjustment process to operate is that
+A) it will reduce the upward pressure on the price level that would otherwise occur.
+B) if private-sector expenditures increase on their own, the policy will stabilize real GDP.
+C) it will shorten what might otherwise be a long recession.
+D) it will reduce the downward pressure on the price level that would otherwise occur.
+E) it will close the output gap.
+Answer:  A
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User2:  Qualitative
+
+111) As a global recession began in late 2008, the governments of all major economies searched for policy responses to dampen the effects of the recession. In general, governments were aiming to
+A) shift the AD curve to the left by decreasing tax rates.
+B) increase potential GDP.
+C) shift the AS curve to the right through large increases in government spending.
+D) shift the AD curve to the right through large increases in government spending.
+E) shift the AS curve to the left by increasing wage rates.
+Answer:  D
+Diff: 2
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User2:  Qualitative
+ 
+112) Consider the global recession that began in late 2008. In terms of the AD/AS model, which of the following statements best describes the macroeconomic effect on Canada's economy?
+A) The AD curve shifted to the right due to reduced demand for Canadian exports, which created a recessionary gap.
+B) The AD curve shifted to the left due to reduced demand for Canadian exports, which created a recessionary output gap.
+C) The AS curve shifted to the right due to increased factor prices, which created a recessionary gap.
+D) The AS curve shifted to the left due to increased factor prices, which created a recessionary gap.
+E) Potential GDP fell, which reduced actual national income.
+Answer:  B
+Diff: 3
+Topic:  24.3a. discretionary fiscal stabilization policy
+Skill:  Applied
+User2:  Qualitative
+
+113) Income taxes in Canada can be considered to be automatic stabilizers because tax
+A) revenues increase when income increases, thereby offsetting some of the increase in aggregate demand.
+B) revenues decrease when income increases, thereby intensifying the increase in aggregate demand.
+C) structures can be changed when the Minister of Finance brings down a budget.
+D) revenues are changed through discretionary fiscal policy to keep the budget balanced.
+E) revenues are changed through discretionary fiscal policy to create surpluses in recessions.
+Answer:  A
+Diff: 3
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Applied
+User2:  Qualitative
+
+114) An important automatic fiscal stabilizer in Canada is 
+A) the exchange rate.
+B) the marginal propensity to consume.
+C) the marginal propensity to import.
+D) the income-tax system.
+E) government purchases of goods and services.
+Answer:  D
+Diff: 2
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Recall
+User2:  Qualitative
+ 
+115) Automatic fiscal stabilizers are most helpful in
+A) making discretionary fiscal policy effective.
+B) removing persistent output gaps.
+C) promoting economic growth.
+D) eliminating price fluctuations in the economy.
+E) reducing the intensity of business cycles.
+Answer:  E
+Diff: 1
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Recall
+User2:  Qualitative
+
+116) "Automatic fiscal stabilization" in the economy refers to
+A) the properties of government spending and taxation that cause the simple multiplier to be increased.
+B) the discretionary fiscal policies that are automatically undertaken by the government when there is a recessionary gap.
+C) the properties of government spending and taxation that cause the simple multiplier to be reduced.
+D) the discretionary fiscal policies that are automatically undertaken by the government when there is an inflationary gap.
+E) all discretionary fiscal policies.
+Answer:  C
+Diff: 2
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Recall
+User2:  Qualitative
+
+117) Net tax revenues that rise with national income act as an automatic stabilizer by ________ the marginal propensity to spend and thereby causing the simple multiplier to ________.
+A) increasing; increase
+B) increasing; decrease
+C) decreasing; equal one
+D) decreasing; decrease
+E) decreasing; increase
+Answer:  D
+Diff: 3
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Recall
+User2:  Qualitative
+ 
+118) Consider the simplest macro model with demand-determined output. Other things being equal, the ________ the value of the simple multiplier, the ________ stable is real GDP in response to shocks to autonomous spending.
+A) larger; more
+B) larger; less
+C) smaller; more
+D) smaller; less
+E) both B and C are correct
+Answer:  E
+Diff: 2
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Recall
+User2:  Qualitative
+
+119) Consider a simple macro model with demand-determined output. Which of the following parameters will produce the strongest automatic stabilizer?
+A) MPC = 0.8, t = 0.2, m = 0.3
+B) MPC = 0.7, t = 0.3, m = 0.2
+C) MPC = 0.7, t = 0.1, m = 0.4
+D) MPC = 0.9, t = 0.2, m = 0.4
+E) MPC = 0.8, t = 0.1, m = 0.2
+Answer:  C
+Diff: 3
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Applied
+User2:  Quantitative
+
+120) Consider a simple macro model with demand-determined output. Which of the following parameters will produce the largest fluctuations in real GDP from autonomous expenditure shocks?
+A) MPC = 0.8, t = 0.2, m = 0.3
+B) MPC = 0.7, t = 0.3, m = 0.2
+C) MPC = 0.7, t = 0.1, m = 0.4
+D) MPC = 0.9, t = 0.2, m = 0.4
+E) MPC = 0.8, t = 0.1, m = 0.2
+Answer:  E
+Diff: 3
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Applied
+User2:  Quantitative
+
+ 
+121) Automatic fiscal stabilizers ________ the impact of demand or supply shocks on the economy since government's net tax revenues ________ during booms and ________ during recessions. 
+A) magnify; increase; decrease 
+B) magnify; decrease; increase 
+C) dampen; increase; decrease 
+D) dampen; decrease; increase 
+E) does not affect; are constant; are constant 
+Answer:  C
+Diff: 3
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Applied
+User2:  Qualitative
+122) Suppose the government implements a permanent reduction in the net tax rate in an effort to increase real GDP. One disadvantage of this policy is that
+A) the effect of economic shocks on government revenues becomes more volatile, while the economy becomes more stable. 
+B) further reductions in the net tax rate will be required to maintain the effectiveness of the tax rate as an automatic stabilizer. 
+C) private investment is crowded out, which may reduce the future growth rate of potential output.
+D) the effect of the automatic stabilizer is reduced and the economy will be more unstable. 
+E) —both C and D are correct.
+Answer:  E
+Diff: 2
+Topic:  24.3b. automatic fiscal stabilizers
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+123) The "paradox of thrift" refers to the understandable tendency of people who are worried about their economic situation to ________ their saving, but in aggregate this behaviour causes a ________ recession.
+A) decrease,  more severe
+B) decrease; less severe
+C) increase; more severe
+D) increase; less severe
+E) increase; shorter
+Answer:  C
+Diff: 2
+Topic:  24.3c. paradox of thrift
+Skill:  Applied
+User2:  Qualitative
+
+ 
+124) In the long run, aggregate demand is ________ for determining real GDP, and the paradox of thrift ________.
+A) not important; applies
+B) not important; does not apply
+C) the only influence; applies
+D) the most important influence; does not apply
+E) stable and important; applies
+Answer:  B
+Diff: 2
+Topic:  24.3c. paradox of thrift
+Skill:  Applied
+User2:  Qualitative
+125) The paradox of thrift does not exist in the long run because
+A) not everyone increases saving in the long run.
+B) aggregate supply has an impact on real GDP only in the short run.
+C) everyone increases consumption in the long run.
+D) changes in aggregate demand have no impact on real GDP in the long run.
+E) potential output is determined by changes in the price level.
+Answer:  D
+Diff: 3
+Topic:  24.3c. paradox of thrift
+Skill:  Recall
+User2:  Qualitative
+
+126) In the basic AD/AS macro model, the "paradox of thrift" is only a short-run phenomenon because 
+A) consumers exhibit cyclical consumption behaviour. 
+B) in the long run output is determined by potential output. 
+C) savings are transformed into expenditures in the long run. 
+D) the marginal propensity to consume is fixed in the long run. 
+E) consumers base their consumption expenditures only on their lifetime income. 
+Answer:  B
+Diff: 2
+Topic:  24.3c. paradox of thrift
+Skill:  Applied
+User2:  Qualitative
+
+ 
+127) Many economists think discretionary fiscal policy is of limited effectiveness in stabilizing the economy because 
+1) the multiplier effects associated with fiscal policy take a long time;
+2) government deficits tend to reduce the value of the multiplier;
+3) there are long and uncertain lags in implementing fiscal policy.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 3
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+128) Given current limitations, fiscal policy as a macroeconomic stabilizer is more defensible the ________ the output gap being suffered, an argument supporting ________.
+A) larger; fine tuning
+B) larger; gross tuning
+C) smaller; fine tuning
+D) smaller; crowding out
+E) larger; crowding out
+Answer:  B
+Diff: 3
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+129) Suppose the economy is experiencing a significant recessionary gap, but it has taken the government six months to determine that it will change fiscal policy. This is an example of
+A) an execution lag.
+B) fine tuning.
+C) gross tuning.
+D) a decision lag.
+E) automatic fiscal stabilizers.
+Answer:  D
+Diff: 1
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+ 
+130) Which of the following statements about fiscal policy is the best description of "fine tuning"?
+A) The government continuously alters its spending and taxing plans to hold real GDP at potential.
+B) The government cuts taxes to remove a large and persistent recessionary gap.
+C) The government increases its spending to reduce an inflationary gap.
+D) The government decreases tax rates to decrease an inflationary gap.
+E) The government uses automatic stabilizers to reduce any output gaps.
+Answer:  A
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+131) Which of the following statements about fiscal policy is the best example of "gross tuning"?
+A) The government continuously alters its spending and taxing plans to hold real GDP at potential. 
+B) The government cuts taxes to remove a large and persistent recessionary gap.
+C) The government increases its spending to reduce an inflationary gap.
+D) The government decreases tax rates to decrease an inflationary gap.
+E) The government uses automatic stabilizers to reduce any output gaps.
+Answer:  B
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+132) Suppose the government had made a decision to change fiscal policy, but it then took nine months to implement a tax reduction. This is an example of
+A) a decision lag.
+B) fine tuning.
+C) gross tuning.
+D) automatic fiscal stabilizers.
+E) an execution lag.
+Answer:  E
+Diff: 1
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+ 
+133) An expansionary fiscal policy that takes the form of an increase in government purchases carries the possibility that private investment ________ and, as a result, the future growth rate of ________.
+A) rises to an unsustainable level; real GDP is reduced
+B) is crowded out; corporate tax revenue is reduced
+C) increases; aggregate demand increases
+D) increases; net exports increases
+E) is crowded out; potential output is reduced
+Answer:  E
+Diff: 3
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Recall
+User2:  Qualitative
+
+134) Suppose the economy is in macroeconomic equilibrium with real GDP equal to Y*. If the government then implements an expansionary fiscal policy by increasing government purchases, what are the long-run effects on potential output?
+A) The growth rate of potential output may be reduced due to the crowding out of investment.
+B) Potential output will adjust to the new higher level achieved with the expansionary fiscal policy.
+C) Potential output will drop below its starting point because of the crowding out of investment.
+D) The growth rate of potential output will rise due to the higher level of aggregate demand.
+E) The level of potential output is fixed and will not be affected by fiscal policy.
+Answer:  A
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+135) In any decision about stimulating the economy with a fiscal expansion (increasing government purchases), the government must weigh the short-run benefits of ________ against the long-run costs of ________.
+A) a higher price level; unemployment
+B) increased potential output; a higher price level
+C) a higher price level; lower real GDP
+D) increased real GDP; higher economic growth
+E) increased economic activity; lower economic growth
+Answer:  E
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Recall
+User2:  Qualitative
+
+ 
+136) Suppose that the government announces temporary tax cuts to stimulate consumers' consumption expenditures but the impact of this tax change on consumption is observed to be very small. This outcome might be explained by the fact that 
+A) this economy is already at its long-run equilibrium. 
+B) this economy is suffering from the paradox of thrift. 
+C) the impact of the policy is dampened by the automatic fiscal stabilizers. 
+D) the government has little credibility. 
+E) the consumers anticipate that the tax change is only temporary and thus is unlikely to affect their "lifetime" income. 
+Answer:  E
+Diff: 3
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+137) The ________ associated with fiscal policy make(s)________ tuning difficult to implement successfully. 
+A) execution lag; gross 
+B) execution lag; fine 
+C) decision lag; gross 
+D) decision lag; fine 
+E) execution and decision lags; fine 
+Answer:  E
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+138) The growth rate of potential output might be decreased by an expansionary fiscal policy if 
+A) the budget deficits are persistent. 
+B) the simple multiplier is small. 
+C) the policy crowds out private investment. 
+D) public investment has high productivity. 
+E) the composition of output is not altered. 
+Answer:  C
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+ 
+139) A reduction in the net tax rate might lead to an increase in the growth rate of potential output if 
+A) the simple multiplier is large. 
+B) the tax cuts stimulate private investment. 
+C) firms are operating at their normal capacity. 
+D) households are not forward looking. 
+E) the marginal propensity to consume is large. 
+Answer:  B
+Diff: 2
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+User2:  Qualitative
+
+140) The use of government purchases (G) as a fiscal policy tool can have an effect on long-run growth in the economy. Under what circumstances might an increase in G cause the level of potential output ( ) to increase? 
+A) If the increase in G crowds out private investment. 
+B) If the increase in G causes a permanent increase in the marginal propensity to consume, which causes a permanent rightward shift of the AD curve. 
+C) If the increase in G is spent on public infrastructure that increases the productivity of private-sector production. 
+D) If the increase in G leads to a permanent increase in the level of autonomous saving in the economy. 
+E) If the increase in G is offset by an equal decrease in C, I, and NX. 
+Answer:  C
+Diff: 3
+Topic:  24.3d. limitations of fiscal policy
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative

@@ -1,0 +1,1650 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 28   Money, Interest Rates, and Economic Activity
+
+1) Other things being equal, bond prices 
+A) are unaffected by changes in the demand for money.
+B) are unaffected by interest-rate changes.
+C) vary directly with interest rates.
+D) vary inversely with interest rates.
+E) vary proportionally with interest rates.
+Answer:  D
+Diff: 1
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+2) The present value of an asset is 
+A) the most someone would be willing to pay upon maturity of the asset.
+B) the most someone would be willing to pay today for the asset.
+C) equivalent to the face value of the asset.
+D) the amount someone would pay in the future to have the asset today.
+E) the amount someone would pay in the future for the current stream of payments from the asset.
+Answer:  B
+Diff: 1
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+3) The present value of a bond is determined by the
+A) face value and the date of maturity.
+B) rate of inflation.
+C) market rate of interest only.
+D) market rate of interest, the date of maturity, and the face value.
+E) marginal rate of income tax.
+Answer:  D
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+ 
+4) If Robert expects interest rates to fall in the near future, he will probably be willing to
+A) buy bonds now, and hold less money.
+B) buy bonds now, but only if their price falls.
+C) sell bonds now, and hold less money.
+D) put his money under his mattress rather than buy bonds.
+E) maintain only the current holding of bonds.
+Answer:  A
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+5) When Janet expects interest rates to rise in the near future, she will probably be willing to
+A) buy bonds now, and hold less money.
+B) buy bonds now, but only if their price falls.
+C) sell bonds now, and hold more money.
+D) put her money under her mattress rather than in a bank account.
+E) maintain only the current holding of bonds.
+Answer:  C
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+6) What is the present value of a bond that pays $121.00 one year from today if the interest rate is 10% per year?
+A) $100.00
+B) $110.00
+C) $121.00
+D) $133.10
+E) $221.00
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+
+ 
+7) When i is the annual interest rate, the formula for calculating the present value of a bond with a face value of R dollars, receivable in one year is
+A) PV = (1+i)/R.
+B) PV = i(R+i).
+C) PV = R (1+i).
+D) PV = R/i.
+E) PV = R/(1+i).
+Answer:  E
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+8) If the annual market rate of interest is 5%, an asset that promises to pay $100 after each of the next two years has a present value of
+A) $ 90.70.
+B) $ 95.24.
+C) $ 181.40.
+D) $ 185.94.
+E) $ 200.00.
+Answer:  D
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+9) If the annual interest rate is 8%, an asset that promises to pay $160 after each of the next two years has a present value of
+A) $ 178.32.
+B) $ 285.32.
+C) $ 296.30.
+D) $ 300.00.
+E) $ 320.00.
+Answer:  B
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+
+ 
+10) If the annual interest rate is 10%, $5.00 received today has the same present value as 
+A) $4.00 received one year from now.
+B) $4.50 received one year from now.
+C) $5.00 received one year from now.
+D) $5.50 received one year from now.
+E) $6.00 received one year form now.
+Answer:  D
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+
+11) If the annual interest rate is 3%, $10 000 received today has the same present value as ________ received one year from now. 
+A) $10 000
+B) $13 000
+C) $300
+D) $9707.74
+E) $10 300
+Answer:  E
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+12) Consider a bond with a face value of $10 000, a three-year term and a coupon payment of 6% made at the end of each year. The face value of the bond is repaid at the end of the term. Which of the following equations will correctly calculate the present value of the bond? 
+A) PV =   +   +  
+B) PV =   +   +  
+C) PV =   +   +  
+D) PV =   +   +  
+E) PV =   +   +  
+Answer:  A
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+ 
+13) In a competitive financial market, the equilibrium price of an asset will equal the
+A) present value of the asset.
+B) future value of the asset.
+C) sum of present value of the asset multiplied by the interest rate.
+D) future value of the asset multiplied by the interest rate.
+E) issue price of the asset.
+Answer:  A
+Diff: 1
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+14) Consider a bond that promises to make coupon payments of $100 each year for three years (beginning in one year's time) and also repays the face value of $2000 at the end of the third year. If the market interest rate is 6%, what is the present value of this bond? 
+A) $267.30
+B) $283.02
+C) $1763.22
+D) $1854.67
+E) $1946.53
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+15) Consider a bond that promises to make coupon payments of $100 each year for three years (beginning in one year's time) and also repays the face value of $2000 at the end of the third year. If the market interest rate is 4%, what is the present value of this bond? 
+A) $288.45
+B) $1866.67
+C) $1941.57
+D) $1966.39
+E) $2055.50
+Answer:  E
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+
+ 
+16) When considering the present value of any financial asset that makes a stream of payments in the future, we know that if the market interest rate falls, 
+A) the present value of the asset will rise.
+B) the future value of the asset will rise.
+C) the current value of the asset will fall.
+D) the present value of the asset will fall.
+E) the present value of the asset is unaffected.
+Answer:  A
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+17) Consider a Government of Canada bond with a face value of $1000, and a present value of $925. If this bond is offered for sale at $960, then
+A) the excess demand for the bond at $960 will drive the price up to the face value of the bond.
+B) individuals will purchase the bond at the offer price which will drive the market rate of interest up.
+C) individuals will purchase the bond at the offer price which will drive the market rate of interest down.
+D) the equilibrium market price of this bond has been achieved.
+E) the lack of demand for this bond will drive the price down until it reaches its equilibrium market price of $925.
+Answer:  E
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Qualitative
+18) Consider a Hydro Quebec bond with a face value of $1000, and a present value of $1175. If this bond is offered for sale at $1025, then
+A) excess supply of this bond will drive the price down until it reaches its face value.
+B) individuals will purchase the bond at the offer price which will drive down the price further.
+C) excess demand for this bond will drive the price up until it reaches its equilibrium market price of $1175.
+D) the equilibrium market price of this bond has been achieved.
+E) Hydro Quebec will be forced to change the face value of the bond.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Qualitative
+
+ 
+19) If the current market price of a bond is less than the present value of the income stream the bond will produce, the price will ________ due to excess ________ of/for the bond.
+A) rise; supply
+B) fall; supply
+C) rise; demand
+D) fall; demand
+Answer:  C
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+20) An analyst is considering the purchase of a Government of Canada bond that will pay its face value of $10 000 in one year's time, but pay no direct interest. The market interest rate is 4% and the bond is being offered for sale at a price of $9800. The analyst should recommend
+A) purchasing the bond because the buyer will earn a profit of $185.
+B) purchasing the bond because the bond price is equal to its present value.
+C) not purchasing the bond because the price is lower than its present value.
+D) not purchasing the bond because the buyer could earn an additional $192 by investing the $9800 elsewhere.
+E) not purchasing the bond because the buyer could earn an additional $392 by investing the $9800 elsewhere.
+Answer:  D
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+21) An analyst is considering the purchase of a Government of Canada bond that will pay its face value of $10 000 in one year's time, but pay no direct interest. The market interest rate is 4% and the bond is being offered for sale at a price of $9400. The analyst should recommend
+A) purchasing the bond because the purchase price is more than its present value and is therefore profitable.
+B) purchasing the bond because the purchase price is less than its present value and is therefore profitable.
+C) not purchasing the bond because the buyer could earn an additional $224 by investing the $9400 elsewhere.
+D) not purchasing the bond because the buyer could earn an additional $376 by investing the $9400 elsewhere.
+E) not purchasing the bond because the purchase price is less than its present value.
+Answer:  B
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Quantitative
+
+22) In order to calculate the present value of the sum of future payments due from a bond, we use the interest rate to ________ those future payments.
+A) adjust
+B) correct
+C) discount
+D) inflate
+E) maximize
+Answer:  C
+Diff: 1
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+
+23) When the market price of a bond falls, ceteris paribus, then
+A) the term to maturity of the bond increases.
+B) the term to maturity of the bond decreases.
+C) the yield on that bond rises.
+D) the yield on that bond also falls.
+E) the market interest rate rises.
+Answer:  C
+Diff: 1
+Topic:  28.1. bonds and present value
+Skill:  Recall
+User2:  Qualitative
+24) Suppose the market interest rate rises from 3% to 4%. This will lead to ________ in bond prices and ________ in bond yields.
+A) a fall; a fall
+B) a fall; a rise
+C) a rise; a fall
+D) a rise; a rise
+E) no change; no change
+Answer:  B
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Qualitative
+
+ 
+25) Suppose the market interest rate falls from 3% to 2%. This will lead to ________ in bond prices and ________ in bond yields.
+A) a fall; a fall
+B) a fall; a rise
+C) a rise; a fall
+D) a rise; a rise
+E) no change; no change
+Answer:  C
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Qualitative
+
+26) Suppose the market interest rate is stable at 4% and we see a decline in bond prices (and thus a rise in bond yields). One explanation for this is that
+A) bond issuers are facing an excess demand for their bonds.
+B) bond purchasers perceive a reduction in riskiness and thus a higher expected present value from those bonds.
+C) there is no causal relationship between market interest rates and bond prices.
+D) bond purchasers perceive an increase in riskiness and thus a lower expected present value from those bonds.
+E) there is a positive relationship between interest rates and bond prices.
+Answer:  D
+Diff: 3
+Topic:  28.1. bonds and present value
+Skill:  Applied
+User2:  Qualitative
+27) Suppose a Government of Canada bond is being offered in financial markets at a price that is higher than its present value. We can expect that
+A) the price of the bond will rise further.
+B) the face value of the bond will be adjusted to a lower value.
+C) the relatively high demand for the bond will cause its present value to rise. 
+D) the lack of demand for this bond will cause its price to fall. 
+E) the face value of the bond will be adjusted to a lower value. 
+Answer:  D
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+28) Suppose a Government of Canada bond is being offered in financial markets at a price that is lower than its present value. We can expect that
+A) the lack of demand for this bond will cause its present value to fall.
+B) the price of the bond will fall further.
+C) the relatively high demand for this bond will cause its price to rise. 
+D) the face value of the bond will be adjusted to a lower value. 
+E) the face value of the bond will be adjusted to a higher value. 
+Answer:  C
+Diff: 2
+Topic:  28.1. bonds and present value
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+29) The term "demand for money" usually refers to the
+A) aggregate demand for money balances in the economy.
+B) average person's desire to hold cash.
+C) cash and deposits actually held by firms.
+D) sum of all desired holdings of cash.
+E) sum of all desired assets, including cash, bonds, and real property.
+Answer:  A
+Diff: 1
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+
+30) The opportunity cost of holding money rather than bonds is
+A) the rate of interest earned on bonds.
+B) the price level.
+C) forgone consumption.
+D) forgone liquidity.
+E) zero — there is no opportunity cost of holding money.
+Answer:  A
+Diff: 2
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+ 
+31) If a person is holding money for the purchase of goods and services, this demand for money is known as 
+A) speculative demand.
+B) precautionary demand.
+C) transactions demand.
+D) real balance demand.
+E) nominal balance demand.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+
+32) The "transactions demand" for money arises from the fact that
+A) there is uncertainty in the receipts of income.
+B) there is uncertainty about the movement of interest rates.
+C) households wish to have all their wealth in the form of money.
+D) households decide to hold money in order to make purchases of goods and services.
+E) households want to keep cash on had to buy bonds if bond prices drop.
+Answer:  D
+Diff: 1
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+
+33) The "precautionary demand" for money arises from the
+A) fear that interest rates will fall.
+B) fear that interest rates will rise.
+C) need to make predictable purchases of goods and services.
+D) uncertainty about when some expenditures will be necessary.
+E) desire to avoid paying interest on credit purchases.
+Answer:  D
+Diff: 2
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+
+ 
+34) Other things being equal, the transactions demand for money tends to increase when 
+A) interest rates rise.
+B) interest rates stop rising.
+C) national income rises.
+D) national income falls.
+E) the price level falls.
+Answer:  C
+Diff: 1
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+35) Consider the demand for money. If real GDP falls, other things being equal, we can expect
+A) an increase in the speculative demand for money.
+B) an increase in the total demand for money.
+C) a decrease in transactions demand for money.
+D) an increase in transactions demand for money.
+E) an increase in precautionary demand for money.
+Answer:  C
+Diff: 2
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+36) Suppose an economic analyst suggests that investors should now hold cash instead of stocks or bonds. The analyst is probably encouraging an increase in money balances for which reason?
+A) transaction demand
+B) precautionary demand
+C) speculative demand
+D) present value demand
+E) portfolio demand
+Answer:  C
+Diff: 2
+Topic:  28.2a. reasons for holding money
+Skill:  Applied
+User2:  Qualitative
+
+ 
+37) A firm that holds cash to avoid penalties associated with the late payment of bills is demonstrating which type of demand for money?
+A) transactions demand
+B) precautionary demand
+C) speculative demand
+D) present value demand
+E) risk-return demand
+Answer:  B
+Diff: 1
+Topic:  28.2a. reasons for holding money
+Skill:  Applied
+User2:  Qualitative
+
+38) Among other things, people hold cash balances for which of the following reasons?
+1) to meet unforeseen emergencies
+2) to maximize their returns on interest-earning assets
+3) to guard against the uncertainty of the timing of receipts and payments
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 1 and 3
+Answer:  E
+Diff: 2
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+39) Speculative demand for money arises from the desire by individuals and firms to hold cash balances
+A) for speculative equity purchases.
+B) in anticipation of changes in interest rates and bond prices.
+C) to meet unforeseen business expenses.
+D) in anticipation of investing in capital purchases for the firm.
+E) to maintain adequate cash flow in case of inflation.
+Answer:  B
+Diff: 2
+Topic:  28.2a. reasons for holding money
+Skill:  Recall
+User2:  Qualitative
+
+ 
+40) In the basic AD/AS macro model, it is assumed that, for any given interest rate, the demand for money depends on the 
+A) aggregate demand for goods and services.
+B) level of government spending.
+C) rate of growth of real GDP.
+D) level of taxes.
+E) level of real GDP and the price level.
+Answer:  E
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User2:  Qualitative
+
+41) The demand for money (MD) function defines the relationship between
+A) interest rates and bond prices.
+B) inflation and bond prices.
+C) interest rates and financial assets.
+D) the quantity of money demanded and the price level.
+E) the quantity of money demanded and the rate of interest.
+Answer:  E
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User2:  Qualitative
+ 
+ 
+
+FIGURE 28-1
+
+42) Refer to Figure 28-1. A rightward shift of the money demand curve can be caused by
+A) an increase in the price level.
+B) a decrease in the price level.
+C) a decrease in real GDP.
+D) an increase in the rate of interest.
+E) a decrease in the rate of interest.
+Answer:  A
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+43) Refer to Figure 28-1. A leftward shift in the money demand curve can be caused by by
+A) an increase in the rate of interest.
+B) a decrease in the rate of interest.
+C) an increase in the price level.
+D) a decrease in real GDP.
+E) an increase in real GDP.
+Answer:  D
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User1:  Graph
+User2:  Qualitative
+ 
+44) Refer to Figure 28-1. Given the money demand curve,  , an increase in the quantity of money demanded from   to   can be caused by
+A) an increase in the price level.
+B) a decrease in the price level.
+C) an increase in real GDP.
+D) an increase in the rate of interest.
+E) a decrease in the rate of interest.
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+45) Refer to Figure 28-1. Given the money demand curve,  , a decrease in the quantity of money demanded from   can be caused by
+A) an increase in the price level.
+B) a decrease in the price level.
+C) an increase in real GDP.
+D) an increase in the rate of interest.
+E) a decrease in the rate of interest.
+Answer:  D
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+46) If there are just two assets, bonds and money, then an excess demand for money implies
+A) an excess supply of bonds.
+B) an excess demand for bonds.
+C) equilibrium in the bond market.
+D) an indeterminate equilibrium in the bond market.
+E) nothing about conditions of demand for the other financial asset.
+Answer:  A
+Diff: 1
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User2:  Qualitative
+ 
+47) Assume there are just two assets, money and bonds. We can expect that an individual with a given level of wealth will 
+A) hold less money when bond prices rise.
+B) hold more money when the current interest rate is very low.
+C) not hold money as long as bonds pay a positive rate of interest.
+D) hold lots of money even at very high interest rates.
+E) hold less money when the current interest rate is very low.
+Answer:  B
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Applied
+User2:  Qualitative
+
+48) According to the "liquidity preference" theory of the rate of interest, if the supply of money increases, then, ceteris paribus, bond prices will
+A) fall as the rate of interest rises.
+B) rise as the rate of interest rises.
+C) fall as the rate of interest falls.
+D) rise as the rate of interest falls.
+E) stay the same.
+Answer:  D
+Diff: 3
+Topic:  28.2b. the money demand function
+Skill:  Applied
+User2:  Qualitative
+
+49) If the general price level were to increase, other things being equal, the money demand function would
+A) not be affected.
+B) shift to the left.
+C) shift to the right.
+D) shift, but the direction of the shift cannot be predicted.
+E) become steeper but not shift.
+Answer:  C
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User2:  Qualitative
+
+ 
+50) If the annual market interest rate is 20%, the annual opportunity cost of having $50 cash in your pocket is
+A) $0.
+B) $2.
+C) $10.
+D) $50.
+E) $1000.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.2b. the money demand function
+Skill:  Applied
+User2:  Quantitative
+51) Suppose that at a given interest rate and money supply, all firms and households simultaneously try to add to their money balances. They do this by trying to ________, which causes an excess ________, which causes a(n) ________, and finally a(n) ________ in the interest rate.
+A) sell bonds; supply of bonds; increase in the price of bonds; decrease
+B) buy bonds; supply of bonds; decrease in the price of bonds; increase
+C) sell bonds; demand for bonds; increase in the price of bonds; decrease
+D) buy bonds; demand for bonds; increase in the price of bonds; decrease
+E) sell bonds; supply of bonds; decrease in the price of bonds; increase
+Answer:  E
+Diff: 3
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User2:  Qualitative
+
+52) Suppose that at a given interest rate and money supply, all firms and households simultaneously try to reduce their money balances. They do this by trying to ________, which causes an excess ________, which causes a(n) ________, and finally a(n) ________ in the interest rate.
+A) sell bonds; supply of bonds; increase in the price of bonds; decrease
+B) buy bonds; supply of bonds; decrease in the price of bonds; increase
+C) sell bonds; demand for bonds; increase in the price of bonds; decrease
+D) buy bonds; demand for bonds; increase in the price of bonds; decrease
+E) sell bonds; supply of bonds; decrease in the price of bonds; increase
+Answer:  D
+Diff: 3
+Topic:  28.2b. the money demand function
+Skill:  Recall
+User2:  Qualitative
+
+ 
+53) When there is an excess demand for money balances, monetary equilibrium is established by a process that involves
+1) movement down the money demand function;
+2) interest rates falling;
+3) the price of bonds falling.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 and 2
+E) 2 and 3
+Answer:  C
+Diff: 3
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User2:  Qualitative
+54) Consider a money market in which there is an excess supply of money at the prevailing interest rate. The likely response is:
+A) the corresponding excess supply for bonds will cause the price of bonds to increase, and the interest rate to fall, until the demand for money equals the supply. 
+B) the corresponding excess demand for bonds will cause the price of bonds to increase, and the interest rate to fall, until the demand for money equals the supply. 
+C) the money supply curve will shift to the left until the demand for money equals the supply.
+D) the money supply curve will shift to the right until the demand for money equals the supply. 
+E) the money demand curve will shift to the right, causing the price of bonds to increase, and the interest rate to fall, until the demand for money equals the supply. 
+Answer:  B
+Diff: 3
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+55) Consider a money market in which there is an excess demand for money at the prevailing interest rate. The likely response is:
+A) the corresponding excess demand of bonds will cause the price of bonds to decrease and the interest rate to rise, until the demand for money equals the supply. 
+B) the money supply curve will shift to the left until the demand for money equals the supply.
+C) the money supply curve will shift to the right until the demand for money equals the supply. 
+D) the money demand curve will shift to the right, causing the price of bonds to increase, and the interest rate to fall, until the demand for money equals the supply. 
+E) the corresponding excess supply of bonds will cause the price of bonds to decrease and the interest rate to rise, until the demand for money equals the supply. 
+Answer:  E
+Diff: 3
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+56) When there is an excess supply of money, monetary equilibrium is restored through 
+A) interest rates rising.
+B) individuals attempting to sell bonds.
+C) the price of bonds falling.
+D) the price of bonds increasing.
+E) the price level falling.
+Answer:  D
+Diff: 3
+Topic:  28.3a. monetary equilibrium
+Skill:  Recall
+User2:  Qualitative
+57) Monetary equilibrium occurs when the
+A) growth in the money supply is zero.
+B) existing supply of money is willingly held by households and firms in the economy at the current rate of interest.
+C) nominal rate of interest equals the real rate of interest.
+D) the money supply is growing at a constant rate.
+E) supply and demand for all goods in the economy are equal at the current rate of interest.
+Answer:  B
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Recall
+User2:  Qualitative
+
+ 
+58) If the economy is currently in monetary equilibrium, an increase in the money supply will
+A) not change the equilibrium conditions.
+B) cause a reduction in the demand for money, leading to a higher rate of interest.
+C) cause an excess demand for money and a decrease in the rate of interest.
+D) cause an increase in the demand for money, leading to a lower rate of interest.
+E) lead to a movement down the money demand curve to a lower rate of interest.
+Answer:  E
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Recall
+User2:  Qualitative
+ 
+
+FIGURE 28-2
+
+59) Refer to Figure 28-2. Starting at equilibrium E0, an increase in real GDP will lead to a
+A) shift of the MS curve to the left and an increase in the interest rate.
+B) shift of the MS curve to the right and a fall in the interest rate.
+C) downward movement along the MD curve and a lower interest rate.
+D) shift of the MD curve to the left and a fall in the interest rate.
+E) shift of the MD curve to the right and an increase in the interest rate.
+Answer:  E
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+60) Refer to Figure 28-2. Starting at equilibrium E0, an increase in the supply of money will result in the
+A) shift of the MS curve to the left and an increase in the interest rate.
+B) shift of the MS curve to the right and a fall in the interest rate.
+C) downward movement along the MD curve and a higher interest rate.
+D) shift of the MD curve to the left and a fall in the interest rate.
+E) upward movement along the   curve and a lower interest rate.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+61) Refer to Figure 28-2. If the interest rate is i2, the subsequent adjustment in the money market is as follows: 
+A) excess demand for money leads to a sale of bonds, which in turn causes the interest rate to rise.
+B) MS curve will shift to the left as to maintain the interest rate at i2.
+C) the interest rate will remain at i2, because the money market is in equilibrium at this interest rate.
+D) excess supply of money leads to the purchase of bonds, which in turn causes the interest rate to fall to i0.
+E) excess supply of money leads to the sale of bonds, which in turn causes the interest rate to fall.
+Answer:  D
+Diff: 3
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+62) Refer to Figure 28-2. If the interest rate is i1, the subsequent adjustment in the money market is as follows:
+A) excess demand for money leads to a sale of bonds, which in turn causes the interest rate to rise.
+B) the MS curve will shift to the left so as to maintain the interest rate at i2.
+C) the interest rate will remain at i1 because the money market is in equilibrium at this interest rate.
+D) excess supply of money leads to the purchase of bonds, which in turn causes the interest rate to fall.
+E) excess demand for money leads to a purchase of bonds, which in turn causes the interest rate to rise.
+Answer:  A
+Diff: 3
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+63) Refer to Figure 28-2. Suppose the market interest rate is  . The situation in this market is as follows: 
+A) firms and households are attempting to increase their money holdings by selling bonds.
+B) firms and households are attempting to decrease their money holdings by selling bonds. 
+C) firms and households are attempting to increase their money holdings by buying bonds. 
+D) firms and households are attempting to decrease their money holdings by buying bonds.
+E) the market is in equilibrium and no change will occur. 
+Answer:  A
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+ 
+64) Refer to Figure 28-2. Suppose the market interest rate is  . The situation in this market is as follows:
+A) firms and households are attempting to increase their money holdings by selling bonds.
+B) firms and households are attempting to decrease their money holdings by selling bonds. 
+C) firms and households are attempting to increase their money holdings by buying bonds. 
+D) firms and households are attempting to decrease their money holdings by buying bonds.
+E) the market is in equilibrium and no change will occur. 
+Answer:  D
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+
+65) When the price level increases, ceteris paribus, it causes households and firms to try to
+A) reduce money balances, which drives interest rates down.
+B) reduce money balances, which drives interest rates up.
+C) reduce money balances, which drives national income up.
+D) increase money balances, which drives interest rates down.
+E) increase money balances, which drives interest rates up.
+Answer:  E
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User2:  Qualitative
+
+66) If there are just two assets, bonds and money, then an equilibrium between the supply and demand for money implies
+A) an excess supply of bonds.
+B) an excess demand for bonds.
+C) equilibrium in the bond market.
+D) an indeterminant equilibrium in the bond market.
+E) nothing about conditions of demand for the other financial asset.
+Answer:  C
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Applied
+User2:  Qualitative
+
+ 
+67) How does monetary equilibrium re-establish itself when there is an excess supply of money balances? 
+A) the interest rate rises 
+B) individuals attempt to sell bonds 
+C) the price of bonds falls 
+D) the price of bonds increases 
+E) the price level falls 
+Answer:  D
+Diff: 2
+Topic:  28.3a. monetary equilibrium
+Skill:  Recall
+User2:  Qualitative
+68) The linkage between changes in monetary equilibrium and changes in aggregate demand is called the
+A) monetary transmission mechanism.
+B) simple multiplier.
+C) equilibrium mechanism.
+D) transactions mechanism.
+E) liquidity preference function.
+Answer:  A
+Diff: 1
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+69) Other things being equal, a reduction in the money supply will lead to a
+A) fall in the rate of interest and an increase in investment expenditure.
+B) rise in the rate of interest and in increase in investment expenditure.
+C) fall in the rate of interest and a decrease in investment expenditure.
+D) rise in the rate of interest and a decrease in investment expenditure.
+E) rise in the rate of interest and no change in investment expenditure.
+Answer:  D
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+ 
+70) The economy's investment demand function describes the
+A) positive relationship between desired investment, the rate of interest, and aggregate expenditure.
+B) positive relationship between desired investment and the rate of interest.
+C) negative relationship between the demand for money and the interest rate.
+D) negative relationship between desired investment and aggregate expenditure.
+E) negative relationship between the interest rate and desired investment.
+Answer:  E
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+ 
+ 
+
+FIGURE 28-3
+
+71) Refer to Figure 28-3. The increase in the money supply from MS0 to MS1 shifts the monetary equilibrium from E0 to E1. The result is 
+A) a decrease in the interest rate and an increase in desired investment.
+B) an increase in the interest rate and a decrease in desired investment.
+C) sustained monetary disequilibrium.
+D) a shift of the investment demand curve to the right.
+E) a shift of the investment demand curve to the left.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+72) Refer to Figure 28-3. This figure illustrates 
+A) only the first step of the monetary transmission mechanism.
+B) the entire monetary transmission mechanism.
+C) the first two steps of the monetary transmission mechanism.
+D) the effect of a change in the money supply on money demand.
+E) the ultimate effect of a change in the money supply on real GDP.
+Answer:  C
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+73) Refer to Figure 28-3. The increase in desired investment expenditure, as shown by the movement from point A to point B, occurs because of 
+A) a fiscal policy designed to encourage investment.
+B) an increase in the money supply.
+C) a change in sales, which increases inventory investment.
+D) an improvement in business confidence.
+E) a tax-rate induced change in desired investment.
+Answer:  B
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+74) Refer to Figure 28-3. Part (i) of the figure shows the money market and the effect of an increase in the supply of money. The corresponding sequence of events in the bond market is as follows: The ________ of money at   leads firms and households to ________ bonds, which leads to a(n) ________ in the price of bonds and a decrease in the interest rate.
+A) excess demand; buy; increase
+B) excess demand; sell; decrease
+C) excess supply; buy; decrease
+D) excess supply; sell; decrease
+E) excess supply; buy; increase
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+75) The monetary transmission mechanism can be set in motion when a rise in the price level causes
+A) an increased demand for money balances, leading people to sell bonds, which in turn raises the interest rate.
+B) an increased demand for money balances, leading people to sell bonds, which in turn decreases the interest rate.
+C) an increased demand for money balances, leading people to buy bonds, which in turn decreases the interest rate.
+D) a decreased demand for money balances, leading people to buy bonds, which in turn decreases the interest rate.
+E) a decreased demand for money balances, leading people to sell bonds, which in turn raises the interest rate.
+Answer:  A
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+76) The monetary transmission mechanism describes the process by which changes in
+A) personal consumption affect real GDP.
+B) business investment influence real GDP.
+C) monetary equilibrium influence real GDP through changes in desired investment.
+D) monetary equilibrium influence the interest rate.
+E) interest rate affect the demand for money.
+Answer:  C
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+77) Which one of the following statements best describes the monetary transmission mechanism?
+A) An increase in personal consumption leads to an upward shift in the AE curve and thereby increases real GDP.
+B) An increase in government spending causes the AE curve to shift upwards, leading to a higher GDP.
+C) A decrease in imports causes the AE curve to shift upwards, leading to a higher interest rate.
+D) An increase in the money supply leads to a lower interest rate, higher investment, an upward shift in the AE curve and a higher GDP.
+E) A decrease in the money supply leads to a lower interest rate, higher investment, an upward shift in the AE curve and a higher GDP.
+Answer:  D
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+ 
+78) Consider monetary equilibrium and the monetary transmission mechanism. An exogenous fall in the price level will lead to 
+A) an excess demand for money resulting in a rise in the rate of interest, which shifts the AE function downward and decreases the equilibrium level of income.
+B) an excess supply of money resulting in a fall in the rate of interest, which shifts the AE function upward and increases the equilibrium level of income.
+C) people being able to buy more with their increased wealth, which will shift the AE function downward and decrease the equilibrium level of income.
+D) a movement to the right along the AE function.
+E) a movement to the left along the AE function.
+Answer:  B
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+79) An increase in the money supply sets the monetary transmission mechanism in motion which results in 
+A) a rise in the rate of interest, a rise in the level of desired investment, a downward shift in the AE curve, and a leftward shift in the AD curve.
+B) a fall in the rate of interest, a fall in the level of desired investment, a downward shift in the AE curve, and a leftward shift in the AD curve.
+C) a fall in the rate of interest, a rise in the level of desired investment, an upward shift in the AE curve, and a rightward shift in the AD curve.
+D) a rise in the rate of interest, a fall in the level of desired investment, an upward shift in the AE curve, and a rightward shift in the AD curve.
+E) a rise in the rate of interest, a fall in the level of desired investment, a downward shift in the AE curve, and a leftward shift in the AD curve.
+Answer:  C
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+ 
+80) A decrease in the money supply sets the monetary transmission mechanism in motion which results in 
+A) a rise in the rate of interest, a rise in the level of desired investment, a downward shift in the AE curve, and a leftward shift in the AD curve.
+B) a fall in the rate of interest, a fall in the level of desired investment, a downward shift in the AE curve, and a leftward shift in the AD curve.
+C) a fall in the rate of interest, a rise in the level of desired investment, an upward shift in the AE curve, and a rightward shift in the AD curve.
+D) a rise in the rate of interest, a fall in the level of desired investment, an upward shift in the AE curve, and a rightward shift in the AD curve.
+E) a rise in the rate of interest, a fall in the level of desired investment, a downward shift in the AE curve, and a leftward shift in the AD curve.
+Answer:  E
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+81) Consider monetary equilibrium and the monetary transmission mechanism. An exogenous rise in the price level, with no change in the supply of money, will
+A) increase the demand for money and increase desired aggregate expenditure.
+B) increase the demand for money and decrease desired aggregate expenditure.
+C) decrease the demand for money and increase aggregate demand.
+D) decrease the demand for money and decrease aggregate demand.
+E) decrease aggregate demand but not affect the demand for money.
+Answer:  B
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+82) Consider monetary equilibrium and the monetary transmission mechanism. An exogenous decrease in the price level, with no change in the supply of money, will
+A) increase the demand for money and increase aggregate expenditure.
+B) increase the demand for money and decrease aggregate expenditure.
+C) decrease the demand for money and increase real GDP along the aggregate demand curve.
+D) decrease the demand for money and decrease real GDP along the aggregate demand curve.
+E) decrease the demand for money and leave aggregate demand unchanged.
+Answer:  C
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+83) Consider the monetary transmission mechanism. A disturbance to monetary equilibrium which changes the interest rate will affect aggregate demand through
+A) a shift of the investment demand function and a movement along the aggregate expenditure curve.
+B) a movement along the investment demand function and a shift of the aggregate expenditure curve.
+C) a shift of both the investment demand function and the aggregate expenditure curve.
+D) movements along the investment demand function and the aggregate expenditure curve.
+E) a movement along the aggregate expenditure curve.
+Answer:  B
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+84) A decrease in the money supply is most likely to
+A) raise interest rates, investment, and aggregate expenditures.
+B) raise interest rates, lower investment, and lower aggregate expenditures.
+C) lower interest rates, raise investment, and raise aggregate expenditures.
+D) lower interest rates, investment, and aggregate expenditures.
+E) raise interest rates and investment, and lower aggregate expenditures.
+Answer:  B
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+85) If the Bank of Canada were to increase the money supply, other things being equal, we would expect the aggregate expenditure curve to shift
+A) upward and the aggregate demand curve to shift to the right.
+B) upward and the aggregate demand curve to shift to the left.
+C) downward and the aggregate demand curve to shift to the right.
+D) downward and the aggregate demand curve to shift to the left.
+E) downward but the aggregate demand curve will remain unchanged.
+Answer:  A
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+ 
+86) If the Bank of Canada were to reduce the money supply, other things being equal, we would expect the aggregate expenditure curve to shift
+A) upward and the aggregate demand curve to shift to the right.
+B) upward and the aggregate demand curve to shift to the left.
+C) downward and the aggregate demand curve to shift to the right.
+D) downward and the aggregate demand curve to shift to the left.
+E) downward but the aggregate demand curve will remain unchanged.
+Answer:  D
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+87) If real GDP is greater than potential GDP, the output gap could be eliminated by 
+1) an increase in government purchases;
+2) an upward shift in the AE curve;
+3) a reduction in the money supply.
+A) 1 only
+B) 2 only
+C) 3 only
+D) 1 or 2
+E) 1 or 2 or 3
+Answer:  C
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+88) Which of the following explanations for the negative slope of the AD curve is correct? A fall in the price level, with an unchanged money supply, causes the transactions demand for money to 
+A) decrease, shifting the MD curve downward, lowering the interest rate and increasing desired investment, causing the AE curve to shift upward.
+B) decrease, shifting the MD curve upward, raising the interest rate and increasing desired investment, causing the AE curve to shift upward.
+C) increase, shifting the MD curve upward, raising the interest rate and decreasing desired investment, causing the AE curve to shift upward.
+D) increase, shifting the MD curve downward, lowering the interest rate and decreasing desired investment, causing the AE curve to shift downward.
+E) increase, shifting the MD curve upward, raising the interest rate and decreasing desired investment, causing the AE curve to shift downward.
+Answer:  A
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+89) The monetary transmission mechanism in an OPEN economy is more complicated than it is in a closed economy because the effects of domestic monetary contraction or expansion are
+A) strengthened because domestic interest rates must be equal to those in the rest of the world.
+B) weakened because changes in autonomous expenditure cause monetary effects that influence interest rates in the rest of the world.
+C) strengthened because changes in autonomous expenditure cause monetary effects that influence interest rates in the rest of the world.
+D) strengthened because changes in the domestic money supply cause changes in the exchange rate, which then reinforce the changes in desired investment.
+E) weakened because changes in the domestic money supply cause changes in the exchange rate which then offset the changes in desired investment.
+Answer:  D
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+90) Consider the monetary transmission mechanism in an open economy. Other things being equal, an increase in the domestic money supply leads to
+A) an appreciation of the domestic currency, thereby inhibiting net exports and raising aggregate demand.
+B) a depreciation of the domestic currency, thereby inhibiting net exports and raising aggregate demand.
+C) a depreciation of the domestic currency, thereby stimulating net exports and raising aggregate demand.
+D) an appreciation of the domestic currency, thereby stimulating net exports and raising aggregate demand.
+E) an appreciation of the domestic currency, thereby stimulating net exports and reducing aggregate demand.
+Answer:  C
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+ 
+91) Consider the monetary transmission mechanism in an open economy. Other things being equal, a decrease in the domestic money supply leads to
+A) an appreciation of the domestic currency, thereby inhibiting net exports and reducing aggregate demand.
+B) a depreciation of the domestic currency, thereby inhibiting net exports and raising aggregate demand.
+C) a depreciation of the domestic currency, thereby stimulating net exports and raising aggregate demand.
+D) an appreciation of the domestic currency, thereby stimulating net exports and raising aggregate demand.
+E) an appreciation of the domestic currency, thereby stimulating net exports and reducing aggregate demand.
+Answer:  A
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+92) Which of the following correctly describes the way in which a change in the money supply affects aggregate demand?
+A) a shift of the ID curve and a movement along the aggregate demand curve
+B) a movement along the ID curve and a shift of the aggregate demand curve
+C) a shift of both the ID curve and the aggregate demand curve
+D) movements along the ID curve and the aggregate demand curve
+E) a movement along the aggregate demand curve
+Answer:  B
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+93) Changes in the money supply in an open economy, as compared to a closed economy,
+A) are likely to have a greater effect on AD because of the secondary effect that exchange rates have on exports.
+B) are likely to have a smaller effect on AD because the secondary effect of exchange rates will offset the changes created by monetary disturbances.
+C) are the same in either situation.
+D) affect investment to a greater degree because foreign investors can create new investment in an open economy.
+E) cannot be determined with the available information.
+Answer:  A
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+94) Which of the following phenomena add a second channel to the monetary transmission mechanism?
+A) inflation
+B) diminishing marginal returns
+C) rising productivity
+D) open-market operations
+E) international capital mobility
+Answer:  E
+Diff: 1
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+95) Consider the monetary transmission mechanism. In an open economy, such as Canada's, an increase in the money supply leads to a fall in the interest rate. This is followed by
+A) an outflow of financial capital and an appreciation of the Canadian dollar.
+B) an inflow of financial capital and a depreciation of the Canadian dollar. 
+C) an outflow of financial capital and a depreciation of the Canadian dollar.
+D) an inflow of financial capital and an appreciation of the Canadian dollar. 
+Answer:  C
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+96) Consider the monetary transmission mechanism. In an open economy, such as Canada's, a decrease in the money supply leads to a rise in the interest rate. This is followed by
+A) an outflow of financial capital and an appreciation of the Canadian dollar.
+B) an inflow of financial capital and a depreciation of the Canadian dollar. 
+C) an outflow of financial capital and a depreciation of the Canadian dollar.
+D) an inflow of financial capital and an appreciation of the Canadian dollar. 
+Answer:  D
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+97) Other things being equal, a decrease in the money supply will lead to ________ in real interest rates and, in the short run, ________ in real GDP because ________.
+A) an increase; an increase; more money is available for investing in bonds from abroad
+B) an increase; a decrease; of the decline in domestic investment
+C) a decrease; an increase; of the increase in domestic investment
+D) a decrease; a decrease; of the decrease in domestic investment
+E) a decrease; a decrease, of the decrease in net exports
+Answer:  B
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+
+98) If the economy is experiencing an undesired inflationary gap, the Bank of Canada could
+A) increase the supply of money, lowering interest rates, which would shift the AD curve inward.
+B) decrease the demand for money, lowering interest rates, which would shift the AD curve outward.
+C) decrease the supply of money, raising interest rates, which would shift the AD curve inward.
+D) increase the supply of money, lowering interest rates, which would shift the AD curve outward.
+E) shift the investment demand curve to the right by lowering interest rates, which would shift the AD curve outward.
+Answer:  C
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+99) The monetary transmission mechanism provides a partial explanation for the downward slope of the AD curve. For a given vertical MS curve, the explanation for the negative relationship between the price level and aggregate demand is as follows: A rise in the price level shifts the   curve
+A) to the right, the interest rate rises and desired investment expenditure rises.
+B) to the left, the interest rate falls, and desired investment expenditure rises.
+C) to the right, the interest rate rises and desired investment expenditure falls.
+D) to the left, the interest rate rises and desired investment expenditure falls.
+E) to the right, the interest rate falls and desired investment expenditure falls.
+Answer:  C
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Recall
+User2:  Qualitative
+
+ 
+100) Which of the following is partly responsible for the negative slope of the aggregate demand (AD) curve?
+A) open-market operations of the Bank of Canada
+B) the monetary transmission mechanism
+C) the multiplier effect
+D) the speculative demand for money
+E) the precautionary demand for money
+Answer:  B
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User2:  Qualitative
+ 
+
+FIGURE 28-4
+
+101) Refer to Figure 28-4. The economy begins in equilibrium at E0. Now consider an expansion of the money supply. The initial effect is
+A) a shift of the AD curve to AD1 and an increase in real GDP to Y1.
+B) a shift of the AS curve to AS1 and a decrease in real GDP to Y2.
+C) a shift of the AD curve to AD1, and then a shift back to AD0 to restore equilibrium at E0.
+D) a simultaneous shift of AD to AD1 and AS to AS1, resulting in a new equilibrium at E2.
+E) no change in the short-run equilibrium or level of real GDP.
+Answer:  A
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+102) Refer to Figure 28-4. The economy begins in equilibrium at E0. Now consider an expansion of the money supply. What is the adjustment toward the new long-run equilibrium?
+A) The AD curve shifts to AD1. The inflationary gap causes prices to rise, AS shifts to AS1 and equilibrium is restored at E3.
+B) The AD curve shifts to AD1. The inflationary gap causes wages to rise, AS shifts to AS1 and equilibrium is restored at E2.
+C) The AS curve shifts to AS1 which causes the AD curve to shift to AD1, resulting in a new equilibrium at E2. 
+D) The AD curve shifts to AD1. The increased money supply causes an increase in potential output and a new long-run equilibrium at E1.
+E) The AD and AS curves shift to AD1 and AS1 simultaneously. The increased price level pushes them back to AD0 and AS0 and equilibrium is restored at E0.
+Answer:  B
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+103) Refer to Figure 28-4. The economy begins in equilibrium at E0. Now consider an expansion of the money supply. What is the long-run effect of this change?
+A) a higher price level
+B) a higher price level and higher real GDP
+C) higher real GDP
+D) lower real GDP
+E) no change in price level or real GDP
+Answer:  A
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+FIGURE 28-5
+
+104) Refer to Figure 28-5. This economy begins in equilibrium with  ,  and real GDP equal to potential GDP (with   and  ). At this initial equilibrium, the money supply is ________, the interest rate is ________, the price level is ________, and real GDP is ________.
+A) $500 billion; 2%; 104; $800 billion
+B) $500 billion; 2%; 102; $805 billion
+C) $500 billion; 4%; 100; $800 billion
+D) $540 billion; 3%; 100; $800 billion
+E) $540 billion; 4%; 104; $805 billion
+Answer:  C
+Diff: 1
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+105) Refer to Figure 28-5. This economy begins in equilibrium with  ,  and real GDP equal to potential GDP (with   and  ). Now suppose there is an increase in the money supply to $540 billion. The initial response in this economy is
+A) an increase in the demand for money, causing a shift of the money demand curve to  , and a fall in interest rate to 3%.
+B) an increase in the demand for money, causing a shift of the money demand curve to  , and a fall in the interest rate to 2%.
+C) the AD and AS curves shift up simultaneously.
+D) a movement down along the money demand curve to a lower interest rate at 2%.
+E) an increase in the demand for money, causing a shift of the money demand curve to  and the interest rate remains at 4%. 
+Answer:  D
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+106) Refer to Figure 28-5. This economy begins in equilibrium with  ,  and real GDP equal to potential GDP (with   and  ). Now suppose there is an increase in the money supply to $540 billion. After the initial effect on the interest rate, the next response in this economy is as follows:
+A) the lower interest rate stimulates investment demand, which causes the AD curve to shift to  . Real GDP rises to $805 billion and the price level rises to 102.
+B) the lower interest rate stimulates an increase in the demand for money, which causes the MD curve to shift to  . The interest rate rises to 3%.
+C) the lower interest rate causes wages and other factor prices to rise, which causes the AS curve to shift to  . Real GDP falls to $795 billion and the price level rises to 102.
+D) the higher interest rate causes wages and other factor prices to rise, which causes the AS curve to shift to  . Real GDP falls to $795 billion and the price level rises to 102.
+Answer:  A
+Diff: 3
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+107) Refer to Figure 28-5. This economy begins in equilibrium with  ,  and real GDP equal to potential GDP (with   and  ). Now suppose there is an increase in the money supply to $540 billion. The short-run effects of this increase lead to the opening of a(n) ________ gap of ________.
+A) recessionary; $5 billion
+B) recessionary; $10 billion
+C) inflationary; $5 billion
+D) inflationary; $10 billion
+E) There is no output gap.
+Answer:  C
+Diff: 2
+Topic:  28.3b. the monetary transmission mechanism
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+ 
+ 
+FIGURE 28-6
+
+108) Refer to Figure 28-6. The famous debate from the the 1950s and 1960s between Keynesians and Monetarists centred around the slopes of the money demand and investment demand curves. The Keynesians believed
+A) the diagrams in part (ii) were more realistic than those in part (i), and therefore fiscal policy was a more effective method of stimulating aggregate demand than monetary policy.
+B) the diagrams in part (ii) were more realistic than those in part (i), and therefore monetary policy was a more effective method of stimulating aggregate demand than fiscal policy.
+C) the diagrams in part (i) were more realistic than those in part (ii), and therefore fiscal policy was a more effective method of stimulating aggregate demand than monetary policy.
+D) the diagrams in part (i) were more realistic than those in part (ii), and therefore monetary policy was a more effective method of stimulating aggregate demand than fiscal policy.
+Answer:  C
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User1:  Graph
+User2:  Qualitative
+
+ 
+109) Refer to Figure 28-6. The famous debate from the 1950s and 1960s between Keynesians and Monetarists centred around the slopes of the money demand and investment demand curves. The Monetarists believed
+A) the diagrams in part (ii) were more realistic than those in part (i), and therefore fiscal policy was a more effective method of stimulating aggregate demand than monetary policy.
+B) the diagrams in part (ii) were more realistic than those in part (i), and therefore monetary policy was a more effective method of stimulating aggregate demand than fiscal policy.
+C) the diagrams in part (i) were more realistic than those in part (ii), and therefore fiscal policy was a more effective method of stimulating aggregate demand than monetary policy.
+D) the diagrams in part (i) were more realistic than those in part (ii), and therefore monetary policy was a more effective method of stimulating aggregate demand than fiscal policy.
+Answer:  B
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User1:  Graph
+User2:  Qualitative
+
+110) The view of the Classical economists regarding the "neutrality of money" was that 
+A) the allocation of resources is independent of the distribution of income.
+B) the distribution of income is independent of the allocation of resources.
+C) the real part of the economy cannot affect the level of money prices.
+D) the quantity of money has no effect on any real variables in the economy.
+E) money is neutral in its effect on absolute prices in the economy.
+Answer:  D
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+111) Which of the following best represents the view of the Classical economists regarding money?
+A) Relative prices are determined by the money supply.
+B) The monetary sector influences consumers' preferences and relative prices.
+C) The economy is composed of the real sector and the monetary sector, and the latter does not affect the former.
+D) The distribution of income is affected by the money supply.
+E) The allocation of resources is affected by the money supply.
+Answer:  C
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+ 
+112) According to the views of the Classical economists, if the money supply doubles,
+A) money prices will double.
+B) money prices will be halved.
+C) relative prices will double.
+D) real income will double.
+E) there will be no effect on money prices.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+113) Classical economists' belief in the "neutrality of money" led them to argue that
+A) absolute prices were determined in the real part of the economy.
+B) the allocation of resources was determined by the quantity of money and not by the forces of supply and demand.
+C) relative prices have no role in the real allocation of resources.
+D) a change in the quantity of money would not affect money prices or relative prices.
+E) a change in the quantity of money would change the price level but would not change relative prices.
+Answer:  E
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+114) Which of the following statements best describes the difference between the Classical and modern views regarding the role of money in the economy?
+A) Both schools of thought accept the neutrality of money within the economy.
+B) Unlike modern economists, Classical economists believed that the neutrality of money existed only in the long run.
+C) Classical economists argued that relative prices are determined by the supply of money, while modern economists believe that the money supply will never affect relative prices.
+D) Both Classical and modern economists accept the neutrality of money in the long run, but modern economists question neutrality in the short run.
+E) Both Classical and modern economists accept the neutrality of money in the short run, but modern economists question neutrality in the long run.
+Answer:  D
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+ 
+115) The long-run neutrality of money implies that
+A) changes to the money supply have no effect on either the price level or real GDP.
+B) changes to the money supply never have any effect on real GDP.
+C) in response to any change in the money supply, the economy's adjustment process will bring Y back to Y*, which is unaffected by the change in the money supply.
+D) the economy's level of potential output will adjust to accommodate any change in the money supply.
+E) in response to any change in the money supply, the demand for money will adjust to cancel out its effects on all macroeconomic variables.
+Answer:  C
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+116) The hypothesis in economics known as hysteresis is that
+A) the economy's adjustment process operates in response to an expansion of the money supply, but not a contraction.
+B) changes in the money supply have a stronger influence on investment demand than do changes in fiscal policy.
+C) the monetary transmission mechanism does not apply in an open-economy setting. 
+D) the role of money in the long run is neutral.
+E) the path of real GDP in an economy can influence that economy's level of potential output.
+Answer:  E
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+117) Suppose changes in the money supply only affected the price level and never affected real GDP. If this were the case, it could be viewed as evidence
+A) that the modern view of the neutrality of money is correct.
+B) supporting both the Classical and modern views of the neutrality of money.
+C) that both the Classical and modern views of the neutrality of money are incorrect.
+D) that the Classical view of the neutrality of money is correct.
+E) that has no bearing on the theories of either Classical or modern economists.
+Answer:  D
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+
+ 
+FIGURE 28-5
+
+118) Refer to Figure 28-5. This economy begins in equilibrium with  ,   and real GDP equal to potential GDP (with   and  ). Now suppose there is an increase in the money supply to $540 billion. In the long run, after all adjustments have taken place, the money supply is ________, the interest rate is ________, the price level is ________, and real GDP is ________.
+A) $500 billion; 2%; 100; $800 billion
+B) $540 billion; 2%; 102; $805 billion
+C) $500 billion; 4%; 104; $800 billion
+D) $540 billion; 4%; 102; $795 billion
+E) $540 billion; 4%; 104; $800 billion
+Answer:  E
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+119) Refer to Figure 28-5. This economy begins in equilibrium with  ,   and real GDP equal to potential GDP (with   and  ). Now suppose there is an increase in the money supply to $540 billion. In the long run, after all adjustments have taken place, what is the effect of the increase in the money supply? 
+A) an increase in the price level to 102, and no change to any real economic variables
+B) an increase in the price level to 104, and no change to any real economic variables
+C) a decrease in the interest rate to 2% and an increase in the price level to 104
+D) a decrease in the interest rate to 2%, an increase in potential GDP to $805 billion, and an increase in the price level to 102
+E) a decrease in the interest rate to 2%, an increase in real GDP to $805 billion and an increase in the price level to 102
+Answer:  B
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+120) Refer to Figure 28-5. This economy begins in equilibrium with  ,   and real GDP equal to potential GDP (with   and  ). Now suppose there is an increase in the money supply to $540 billion. According to the Classical economists of the eighteenth and nineteenth centuries,
+A) the neutrality of money holds in the long run, but in the short run changes in the money supply cause significant fluctuations of real GDP.
+B) the neutrality of money holds in the long run, but in the short run changes in the money supply cause significant fluctuations in employment but not real GDP.
+C) there is no connection between the "money" and "real" sides of the economy, and the only effect is a decrease in the interest rate.
+D) there is no connection between the "money" and "real" sides of the economy, and the only effect is a rise in the price level.
+E) such increases in the money supply cause long-run disequilibriums in the economy.
+Answer:  D
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+121) The proposition of long-run neutrality of money is supported by evidence over more than fifty years and many countries that there is a positive relationship between
+A) money supply growth and real GDP.
+B) money supply growth and interest rates.
+C) potential GDP and money supply growth.
+D) inflation rates and interest rates.
+E) inflation rates and money supply growth.
+Answer:  E
+Diff: 1
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+122) Other things being equal, the steeper the AS curve for the economy, the 
+A) larger the impact on real output from any given increase in the money supply.
+B) more sensitive the aggregate expenditure function to changes in the interest rate.
+C) larger the impact on the price level from any given increase in the money supply.
+D) less sensitive the aggregate expenditure function to changes in the interest rate.
+E) smaller the impact on the price level from any given increase in the money supply.
+Answer:  C
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+123) Other things being equal, the flatter the AS curve for the economy, the 
+A) smaller the impact on real output from any given increase in the money supply.
+B) more sensitive the aggregate expenditure function to changes in the interest rate.
+C) larger the impact on the price level from any given increase in the money supply.
+D) less sensitive the aggregate expenditure function to changes in the interest rate.
+E) smaller the impact on the price level from any given increase in the money supply.
+Answer:  E
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+
+ 
+124) Consider the monetary transmission mechanism. Other things being equal, the steeper is the investment demand function, the
+A) more responsive is desired investment to a change in the interest rate.
+B) less responsive is desired investment to a change in the interest rate.
+C) less responsive is the interest rate to a change in the money supply.
+D) more responsive is the demand for money to a change in the interest rate.
+E) less responsive is the demand for money to a change in the interest rate.
+Answer:  B
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+125) Consider the monetary transmission mechanism. Other things being equal, the flatter is the investment demand function, the 
+A) more responsive is desired investment to a change in interest rates.
+B) less responsive is desired investment to a change in interest rates.
+C) less responsive is the interest rate to a change in the money supply.
+D) more responsive is the demand for money to a change in interest rates.
+E) less responsive is the demand for money to a change in interest rates.
+Answer:  A
+Diff: 2
+Topic:  28.4. strength of monetary forces
+Skill:  Recall
+User2:  Qualitative
+
+126) Consider the monetary transmission mechanism. If the Bank of Canada were to increase the money supply, we would expect a large increase in aggregate demand if the money demand function
+A) and the investment demand function are relatively flat.
+B) and the investment demand function are relatively steep.
+C) is relatively flat and the investment demand function is relatively steep.
+D) is relatively steep and the investment demand function is relatively flat.
+E) remains the same and the investment demand function is steep.
+Answer:  D
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+ 
+127) The effectiveness of monetary policy in bringing about changes in real GDP is enhanced when the
+A) investment demand curve and money demand function are both relatively flat.
+B) investment demand curve and money demand function are both relatively steep.
+C) investment demand curve is relatively steep and the money demand function is relatively flat.
+D) investment demand curve is relatively flat and the money demand function is relatively steep.
+E) None of the above - monetary policy is always equally effective.
+Answer:  D
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+
+128) Monetary policy can have the largest impact on desired aggregate expenditures when the 
+A) investment demand curve and money demand function are both relatively flat.
+B) investment demand curve and money demand function are both relatively steep.
+C) investment demand curve is relatively steep and the money demand function is relatively flat.
+D) investment demand curve is relatively flat and the money demand function is relatively steep.
+E) None of the above - monetary policy is always equally effective.
+Answer:  D
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+
+129) Monetary policy will be least effective in changing aggregate demand when the 
+A) investment demand curve and money demand function are both relatively flat.
+B) investment demand curve and money demand function are both relatively steep.
+C) investment demand curve is relatively steep and the money demand function is relatively flat.
+D) investment demand curve is relatively flat and the money demand function is relatively steep.
+E) None of the above - monetary policy is always equally effective.
+Answer:  C
+Diff: 3
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative
+ 
+130) Consider the monetary transmission mechanism. A relatively steep investment demand curve and a relatively flat money demand curve 
+A) make it impossible for the Bank of Canada to change the money supply.
+B) increase the effectiveness of expansionary monetary policy.
+C) imply that large increases in the money supply have little effect on aggregate expenditure.
+D) make the money supply a particularly powerful policy instrument.
+E) are believed by many monetarists to be realistic descriptions of the economy.
+Answer:  C
+Diff: 3	
+Topic:  28.4. strength of monetary forces
+Skill:  Applied
+User2:  Qualitative

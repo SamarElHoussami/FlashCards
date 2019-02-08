@@ -1,0 +1,1576 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 22   Adding Government and Trade to the Simple Macro Model
+
+1) Government's transfer payments to individuals affect desired aggregate expenditure 
+A) directly.
+B) through the consumption function.
+C) through the investment function.
+D) through net exports.
+E) through the government's budget deficit.
+Answer:  B
+Diff: 1
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Recall
+User2:  Qualitative
+
+2) Why are government expenditures such as Old Age Security payments, employment insurance payments, or welfare benefits paid to individuals not considered part of G, the government component of aggregate expenditure? 
+A) These are transfer payments and place no direct demand on Canada's total output. 
+B) These payments are directly included as part of C, consumption, because they become consumption expenditure for the recipient. 
+C) Since the revenues from which these payments are made did not originate from tax collection, they are not considered part of G. 
+D) Since these expenditures are transfers from recipients to taxpayers, they are not included in G. 
+E) These payments are included in G only when the payments are made directly by the federal government. 
+Answer:  A
+Diff: 1
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+3) The G and T components in the national-income accounts measure purchases and net taxes collected by
+A) all levels of government.
+B) only provincial governments and the federal government.
+C) only the federal government.
+D) only provincial governments.
+E) only local governments.
+Answer:  A
+Diff: 1
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Recall
+User2:  Qualitative
+ 
+4) When economists use the term "budget surplus" they are referring to 
+A) net tax revenues minus government purchases.
+B) national income minus transfer payments.
+C) national income minus consumption.
+D) disposable income minus consumption.
+E) net tax revenues minus transfer payments.
+Answer:  A
+Diff: 1
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Recall
+User2:  Quantitative
+
+5) Consider the government's budget balance. Suppose G = 300 and the government's net tax revenue is equal to 0.14Y. When Y = 2000, the government is running a budget 
+A) deficit of 20.
+B) surplus of 20.
+C) balance.
+D) deficit of -20.
+E) surplus of 40.
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+
+6) Consider the government's budget balance. Suppose G = 300 and the government's net tax revenue is equal to 0.12Y. The government budget is balanced when Y equals 
+A) 350.
+B) 1000.
+C) 2000.
+D) 2500.
+E) 3600.
+Answer:  D
+Diff: 2
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+7) Consider the government's budget balance. Suppose G = 400 and the government's net tax revenue is 20% of national income (Y). Government saving is negative for all values of Y
+A) above 10 000.
+B) above 8000.
+C) above 2000.
+D) below 8000.
+E) below 2000.
+Answer:  E
+Diff: 3
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+8) Consider the government's budget balance. Suppose G = 600 and the government's net tax revenue is 10% of Y. The government budget is balanced when Y equals 
+A) 660.
+B) 1320.
+C) 3000.
+D) 4500.
+E) 6000.
+Answer:  E
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+
+9) Consider the government's budget balance. Suppose G = 300 and the government's net tax revenue is 0.3Y. The government budget is in surplus only when Y is 
+A) less than 350.
+B) less than 1000.
+C) greater than 1000.
+D) greater than 2500.
+E) greater than 3000.
+Answer:  C
+Diff: 2
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+10) Transfer payments made by the government affect its net tax revenues 
+A) directly. 
+B) indirectly through government purchases. 
+C) indirectly through net exports. 
+D) indirectly through the investment function. 
+E) indirectly through the consumption function. 
+Answer:  A
+Diff: 1
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Recall
+User2:  Qualitative
+
+11) Suppose that real national income (Y) is equal to 800 and that government purchases are equal to 200. If the government's net tax revenues are equal to tY, where t is the net tax rate, then what is the value of t necessary for the government to have a balanced budget? 
+A) 20% 
+B) 25% 
+C) 30% 
+D) 35% 
+E) 40% 
+Answer:  B
+Diff: 3
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+12) Suppose Y=400 and the government's net tax rate is 10%. If we are told that the government has a budget surplus, then government purchases must be 
+A) greater than 30. 
+B) less than 30. 
+C) greater than 40. 
+D) less than 40. 
+E) Not enough information to know.
+Answer:  D
+Diff: 3
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+13) If the government's net tax rate increases, then for a given level of national income disposable income will ________ and net tax revenue will ________. 
+A) decrease; decrease 
+B) decrease; increase 
+C) increase; increase 
+D) increase; decrease 
+E) not change; increase 
+Answer:  B
+Diff: 3
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Applied
+User2:  Qualitative
+
+14) Consider a simple macro model with a constant price level and demand-determined output. The inclusion of government in such a model affects desired aggregate expenditure directly through ________ and indirectly through ________. 
+A) the net taxes; the government purchases of goods and services 
+B) the net taxes; its affect on disposable income 
+C) the government purchases of goods and services; its effect on net exports 
+D) the government purchases of goods and services; its effect on disposable income 
+E) the government purchases of goods and services; its effect on investment
+Answer:  D
+Diff: 3
+Topic:  22.1. government expenditure (G) and tax revenue (T)
+Skill:  Recall
+User2:  Qualitative
+
+15) In a simple macro model, it is generally assumed that a country's exports
+A) and imports are autonomous.
+B) and imports are induced.
+C) are autonomous whereas imports are induced.
+D) are induced whereas imports are autonomous.
+E) are always equal to investment.
+Answer:  C
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Recall
+User2:  Qualitative
+ 
+16) When determining the AE function for an open economy with government, it is generally assumed that as real national income
+A) increases, exports will decrease.
+B) increases, net exports will decrease.
+C) increases, imports will decrease.
+D) decreases, net exports will decrease.
+E) decreases, exports will decrease.
+Answer:  B
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Recall
+User2:  Qualitative
+
+17) In a simple macro model, the net export (NX) function indicates a ________ relationship between ________ and domestic national income.
+A) positive; exports
+B) positive; net exports
+C) negative; imports
+D) negative; net exports
+E) negative; exports
+Answer:  D
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+18) A movement along the net export (NX) function can be caused by a change in
+A) domestic national income.
+B) foreign national income.
+C) domestic prices.
+D) the exchange rate.
+E) foreign prices.
+Answer:  A
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+ 
+19) A parallel upward shift in the net export (NX) function can be caused by
+A) an increase in domestic national income.
+B) an increase in foreign national income.
+C) an increase in domestic prices relative to foreign prices.
+D) a decrease in the Canadian-dollar price of foreign currency.
+E) a decrease in foreign prices relative to domestic prices.
+Answer:  B
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+20) A parallel downward shift in the net export (NX) function can be caused by
+A) an increase in domestic national income.
+B) a decrease in foreign national income.
+C) a decrease in domestic prices.
+D) an increase in the Canadian-dollar price of foreign currency.
+E) a decrease in foreign prices.
+Answer:  B
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+21) An upward shift and flattening of the net export (NX) function can be caused by
+A) an increase in domestic national income.
+B) a decrease in foreign national income.
+C) a decrease in domestic prices relative to foreign prices.
+D) an increase in the Canadian-dollar price of foreign currency.
+E) both C and D are correct
+Answer:  E
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+22) A downward shift and steepening of the net export (NX) function can be caused by
+A) an increase in domestic national income.
+B) a decrease in foreign national income.
+C) an increase in domestic prices relative to foreign prices.
+D) a decrease in the Canadian-dollar price of foreign currency.
+E) both C and D are correct.
+Answer:  E
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+23) The net export (NX) function crosses the horizontal axis at a level of national income where the
+A) X and IM curves intersect.
+B) X curve reaches the horizontal axis.
+C) IM curve reaches the horizontal axis.
+D) X and IM curves are at their farthest distance apart.
+E) X curve reaches its maximum.
+Answer:  A
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Recall
+User2:  Qualitative
+24) A rise in domestic prices relative to foreign prices, other things being equal, causes the net export (NX) function to shift ________ and ________.
+A) upward; become flatter
+B) upward; become steeper
+C) downward; become flatter
+D) downward; keep the same slope
+E) downward; become steeper
+Answer:  E
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Quantitative
+
+ 
+25) A fall in domestic prices relative to foreign prices, other things being equal, causes the net export (NX) function to shift ________ and ________.
+A) upward; become flatter
+B) upward; become steeper
+C) downward; become flatter
+D) downward; keep the same slope
+E) downward; become steeper
+Answer:  A
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+26) A rise in the Canadian-dollar price of foreign currency, other things being equal, causes Canada's net export (NX) function to shift ________ and ________.
+A) upward; become flatter
+B) upward; become steeper
+C) downward; become flatter
+D) downward; keep the same slope
+E) downward; become steeper
+Answer:  A
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+27) A fall in the Canadian-dollar price of foreign currency, other things being equal, causes Canada's net export (NX) function to shift ________ and ________.
+A) upward; become flatter
+B) upward; become steeper
+C) downward; become flatter
+D) downward; keep the same slope
+E) downward; become steeper
+Answer:  E
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+ 
+28) A decrease in domestic national income will cause a ________ the net exports (NX) function.
+A) movement to the left along
+B) parallel downward shift of
+C) parallel upward shift of
+D) rotation upward in 
+E) rotation downward in
+Answer:  A
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Qualitative
+
+29) An increase in foreign income, other things being equal, is assumed to cause the net export (NX) function to
+A) shift parallel upward.
+B) shift parallel downward.
+C) pivot downward.
+D) pivot upward.
+E) remain stationary.
+Answer:  A
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Recall
+User2:  Qualitative
+
+30) Consider the net export function. An increase in domestic national income, other things being equal, is assumed to cause
+A) the net export function to shift upward.
+B) the net export function to pivot upward.
+C) movement to the right along the net export function.
+D) the net export function to pivot downward.
+E) no effect on net exports.
+Answer:  C
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Recall
+User2:  Qualitative
+
+ 
+31) Suppose exports are $200 and imports are given by IM = 0.2Y. At what level of national income will net exports equal zero?
+A) $0
+B) $200
+C) $250
+D) $1000
+E) $1250
+Answer:  D
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Quantitative
+ 
+The diagrams below show the import, export, and net export functions for an economy.
+
+ 
+
+FIGURE 22-1
+
+32) Refer to Figure 22-1. The function for desired imports for this economy can be expressed as 
+A) NX = 450 - Y
+B) IM = 450 - 0.5(Y)
+C) NX = 0.5(Y)
+D) IM = 0.5(Y)
+E) IM = 0.2(Y)
+Answer:  E
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+ 
+33) Refer to Figure 22-1. The net export function for this economy can be expressed as
+A) NX = 2250 - 450(Y)
+B) NX = 450 - 0.2(Y)
+C) NX = 2250 - 450
+D) NX = 0.2Y
+E) NX = 2250 - .2(IM)
+Answer:  B
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+34) Refer to Figure 22-1. If actual national income in this economy is equal to $1000, then net exports are equal to 
+A) $90.
+B) $200.
+C) $250.
+D) $375.
+E) $400.
+Answer:  C
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+35) Refer to Figure 22-1. If actual national income is equal to $2000, then imports are equal to 
+A) $0
+B) $200
+C) $400
+D) $450
+E) $1000
+Answer:  C
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+ 
+The table below shows national income and imports. The level of exports is fixed at $300.  All figures (in table and questions) are in millions of dollars.
+
+Income (Y)	Imports (IM)	Net Exports (NX)
+2000	150	a
+3000	250	b
+4000	350	c
+5000	450	d
+
+TABLE 22-1
+
+36) Refer to Table 22-1. What are the correct values for the level of net exports (a, b, c, and d) at each level of national income?
+A) a = $150, b = $50, c = -$50, d = -$150
+B) a = -$150, b = -$50, c = $50, d = $150
+C) a = $150, b = $250, c = $350, d = $450
+D) a = $300, b = $300, c = $300, d = $300
+E) not enough data to determine
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+37) Refer to Table 22-1. What is the marginal propensity to import?
+A) 0.01
+B) 0.10
+C) 1.0
+D) 10.0
+E) not enough data to determine
+Answer:  B
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+38) Refer to Table 22-1. The net export function can be expressed as 
+A) NX = 300 - 0.1Y
+B) NX = 350 - 0.1Y
+C) 0 = 300 - IM
+D) 0 = 300 - 0.5Y
+E) NX = 350 - 0.5Y
+Answer:  B
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+39) Refer to Table 22-1. On a graph of the net export function for this economy, at what level of Y would the NX function intersect the horizontal axis?
+A) at $0
+B) at $2000
+C) at $3500
+D) at $4000
+E) at $5000
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+40) Refer to Table 22-1. In this economy, if actual national income increases by $600, the level of imports will
+A) rise by $30.
+B) rise by $60.
+C) rise by $100.
+D) fall by $100.
+E) not change.
+Answer:  B
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+41) Consider an open economy that has a marginal propensity to import equal to 0.30. If national income rises by $2500, imports will rise by
+A) $30.
+B) $300.
+C) $750.
+D) $7500.
+E) $8333.
+Answer:  C
+Diff: 2
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Quantitative
+42) Suppose exports (X)=100, Y=500, and imports are equal to mY, where m is the marginal propensity to import. Net exports would be equal to zero if the marginal propensity to import were 
+A) 1%. 
+B) 5%. 
+C) 10%. 
+D) 20%. 
+E) 50%. 
+Answer:  D
+Diff: 3
+Topic:  22.2. net export function
+Skill:  Applied
+User2:  Quantitative
+
+43) When compared to a simple macroeconomic model (with only consumption and investment), adding government and foreign trade to the AE function causes 
+A) the autonomous component of AE to increase.
+B) the autonomous component of AE to fall.
+C) the AE function to become downward sloping.
+D) the AE function to become perfectly horizontal.
+E) no change in the AE function.
+Answer:  A
+Diff: 1
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Qualitative
+
+ 
+44) The AE function for an open economy with government can be written as 
+A) AE = C + I - G + (X-IM).
+B) AE = C + I + G - (X-IM).
+C) AE = C + I - G - (X+IM).
+D) AE = C + I + S + (X+IM).
+E) AE = C + I + G + (X-IM).
+Answer:  E
+Diff: 1
+Topic:  22.3a. the AE function
+Skill:  Recall
+User2:  Qualitative
+45) Consider the general form of the consumption function in a simple macro model. Once government and taxes are included in the model, desired consumption can be expressed as ________, where a = autonomous consumption, t = net tax rate, Y = national income,   = disposable income, and MPC = marginal propensity to consume. 
+A) C = a + MPC(1 - t) 
+B) C = a - (1 - t) 
+C) C = a + MPC ∙ Y
+D) C = a + MPC ∙ t ∙  
+E) C = a + MPC(1 - t)Y
+Answer:  E
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+46) In our simple macro model with government, which statement is correct regarding the following equation:	T = (0.2)Y?
+A) Total tax revenues are equal to 20% of disposable income. 
+B) Total tax revenues are equal to 20% of real GDP.
+C) Net tax revenues are equal to 20% of disposable income. 
+D) If national income increases by $1.00, then net tax revenue increases by $0.20.
+E) If total tax revenue increases by $0.20, then national income increases by $1.00.
+Answer:  D
+Diff: 1
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+ 
+47) In our simple macro model with government, which statement is correct regarding the following equation: 	  = (0.75)Y?
+A) If disposable income increases by $0.75, then national income increases by $1.00 and total tax revenue rises by $0.75.
+B) Net tax revenue is equal to 75% of national income. 
+C) If national income increases by $1.00, then disposable income increases by $0.75 and net tax revenue increases by $0.25. 
+D) Net tax revenue is equal to 25% of disposable income. 
+E) If national income increases by $1.00, then disposable income increases by $0.25 and net tax revenue increases by $0.75.
+Answer:  C
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+48) In our simple macro model with government and foreign trade, the marginal propensity to consume out of disposable income is ________ whereas the marginal propensity to consume out of national income is ________. 
+A) MPC; MPC(1 - t)
+B) MPC(1 - t); MPC
+C) MPC(1 - t) - m; MPC(1 - t)
+D) MPC; MPC(1 - t) - m
+E) MPC(1 - t); MPC(1 - t) - m
+Answer:  A
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+49) Consider a consumption function in a simple macro model with government and taxes. Given a marginal propensity to consume out of disposable income of 0.9 and a net tax rate of 10% of national income, the marginal propensity to consume out of national income is 
+A) 0.09.
+B) 0.72.
+C) 0.81.
+D) 0.90.
+E) 1.00.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+50) Consider a consumption function in a simple macro model with government and taxes. Given a marginal propensity to consume out of disposable income of 0.8 and a net tax rate of 20% of national income, the marginal propensity to consume out of national income is 
+A) 0.36.
+B) 0.64.
+C) 0.80.
+D) 0.90.
+E) 1.00.
+Answer:  B
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+51) Consider a consumption function in a simple macro model with government and taxes. Given a marginal propensity to consume out of disposable income of 0.7 and a net tax rate of 30% of national income, the marginal propensity to consume out of national income is 
+A) 0.49.
+B) 0.58.
+C) 0.70.
+D) 0.90.
+E) 1.00.
+Answer:  A
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+52) Consider a simple macro model with a constant price level and demand-determined output. The marginal propensity to spend out of national income, z, can be expressed as ________ (where t = net tax rate and m = marginal propensity to import). 
+A) z = MPC(1 - t - m)
+B) z = tY - mY
+C) z = MPC - (1 - t- m)Y
+D) z = MPC - (1 - t - m)
+E) z = MPC(1 - t) - m
+Answer:  E
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Recall
+Objective:  NEW
+User2:  Quantitative
+
+ 
+53) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 150 + 0.84Y, I = 400, G = 700, T = 0, X = 130, IM = 0.08Y. The marginal propensity to spend on national income, z, is
+A) 0.655.
+B) 0.760.
+C) 0.773.
+D) 0.840.
+E) 0.920.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+54) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 120 + 0.86Y, I = 300, G = 520, T = 0, X = 180, IM = 0.12Y. Total autonomous spending in this model is
+A) 120.0.
+B) 1120.0.
+C) 420.0.
+D) 600.0.
+E) 828.8.
+Answer:  B
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+55) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 120 + 0.86Y, I = 300, G = 520, T = 0, X = 180, IM = 0.12Y. The vertical intercept of the AE function is
+A) 120.0.
+B) 420.0.
+C) 600.0.
+D) 828.8.
+E) 1120.0.
+Answer:  E
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+
+ 
+56) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 120 + 0.86Y, I = 300, G = 520, T = 0, X = 180, IM = 0.12Y. A national income of 2400 results in desired aggregate expenditure of 
+A) 1120
+B) 1776
+C) 2896
+D) 3184
+E) 3472
+Answer:  C
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+57) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 60 + 0.43Y, I = 150, G = 260, T = 0, X = 90, IM = 0.06Y. The vertical intercept of the AE function is 
+A) 60.0.
+B) 210.0.
+C) 300.0.
+D) 414.4.
+E) 560.0.
+Answer:  E
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+
+58) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 60 + 0.43Y, I = 150, G = 260, T = 0, X = 90, IM = 0.06Y. A national income of 1200 results in desired aggregate expenditure of 
+A) 560.
+B) 926.
+C) 1004.
+D) 1016.
+E) 1148.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+ 
+59) Consider the simplest macro model with a constant price level and demand-determined output. The equations of the model are: C = 60 + 0.43Y, I = 150, G = 260, T = 0, X = 90, IM = 0.06Y. The marginal propensity to spend on national income, z, is 
+A) 0.06.
+B) 0.37.
+C) 0.43.
+D) 0.49.
+E) 0.63.
+Answer:  B
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+60) Consider the simplest macro model with demand-determined output. The equations are: C = 150 + 0.8Yd, Yd = Y-T, I = 400, G = 700, T = .2Y, X = 130, and IM = 0.14Y. Autonomous expenditures in this model are 
+A) 1120.
+B) 1350.
+C) 1380.
+D) 2700.
+E) 5400.
+Answer:  C
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+
+61) Consider the simplest macro model with demand-determined output. The equations are: C = 150 + 0.8Yd, Yd = Y -T, I = 400, G = 700, T = .2Y, X = 130, and IM = 0.14Y. The marginal propensity to spend on national income in this model is 
+A) 0.50.
+B) 0.54.
+C) 0.64.
+D) 0.84.
+E) 0.86.
+Answer:  A
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+
+ 
+The diagram below shows desired aggregate expenditure for a hypothetical economy. Assume the following features of this economy:
+	∙	marginal propensity to consume (mpc) = 0.75
+	∙	net tax rate (t) = 0.20
+	∙	no foreign trade
+	∙	fixed price level
+	∙	all expenditure and income figures are in billions of dollars.
+
+
+ 
+
+FIGURE 22-2
+
+
+62) Refer to Figure 22-2. What is the level of autonomous consumption?
+A) $0
+B) $75
+C) $100
+D) $175
+E) $250
+Answer:  B
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+63) Refer to Figure 22-2. What is total autonomous expenditure?
+A) $0
+B) $75
+C) $100
+D) $175
+E) $250
+Answer:  E
+Diff: 1
+Topic:  22.3a. the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+64) Refer to Figure 22-2. Which of the following correctly describes the consumption function for this economy?
+A) C = (0.75)YD
+B) Y = 250 + (0.75)YD
+C) C = 75 + (0.75)YD
+D) Y = 250 + (0.75)Y
+E) C = 250 + (0.75)Y
+Answer:  C
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+65) Refer to Figure 22-2. Which of the following equations describes the aggregate expenditure function for this economy?
+A) AE = 250 + (0.6)Y
+B) AE = 225 + (0.75)Y
+C) AE = 250 +(0.15)Y
+D) AE = 75 + (0.75)Y + (0.2)YD
+E) AE = 250 +(0.75)Y + (0.2)YD
+Answer:  A
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+66) Refer to Figure 22-2. What is the marginal propensity to spend (z) in this economy?
+A) 0.15
+B) 0.20
+C) 0.40
+D) 0.60
+E) 0.75
+Answer:  D
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+ 
+ 
+
+FIGURE 22-3
+
+67) Refer to Figure 22-3. The rotation from AE0 to AE1 could be caused by
+A) a higher net tax rate.
+B) a lower net tax rate.
+C) a balanced budget.
+D) lower government purchases.
+E) higher government purchases.
+Answer:  B
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+68) Refer to Figure 22-3. The rotation from   to   could be caused by
+A) an increase in the marginal propensity to consume out of disposable income.
+B) a decrease in the marginal propensity to import. 
+C) an increase in the marginal propensity to import.
+D) a decrease in the net tax rate. 
+E) a decrease in government purchases. 
+Answer:  C
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+Objective:  NEW
+User1:  Graph
+User2:  Quantitative
+69) Refer to Figure 22-3. Autonomous expenditures ________ as the AE curve rotates from AE1 to AE0 and equilibrium national income ________.
+A) decrease; decreases
+B) increase; decreases
+C) remain constant; increases
+D) remain constant; decreases
+E) remain constant; remains constant
+Answer:  D
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+70) In a simple macro model with a constant price level, an increase in the net tax rate causes the AE curve to
+A) shift parallel downward.
+B) shift parallel upward.
+C) rotate downward.
+D) rotate upward.
+E) remain stationary.
+Answer:  C
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Qualitative
+
+ 
+71) In a simple macro model with a constant price level, a decrease in the net tax rate causes the AE curve to
+A) shift parallel downward.
+B) shift parallel upward.
+C) rotate downward.
+D) rotate upward.
+E) remain stationary.
+Answer:  D
+Diff: 2
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Qualitative
+
+72) Suppose that the marginal propensity to consume out of disposable income is 0.6 and the marginal propensity to import is 0.14. If the net tax rate is 0.1, then what is the marginal propensity to spend in this economy? 
+A) 0.30 
+B) 0.40 
+C) 0.46 
+D) 0.50 
+E) 0.60 
+Answer:  B
+Diff: 3
+Topic:  22.3a. the AE function
+Skill:  Applied
+User2:  Quantitative
+73) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 150 + 0.84Y, I = 400, G = 700, T = 0, X = 130, IM = 0.08Y. Equilibrium national income is
+A) 1816.
+B) 5750.
+C) 7307.
+D) 7935.
+E) 17 250.
+Answer:  B
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+ 
+74) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 150 + 0.84Y, I = 400, G = 700, T = 0, X = 130, IM = 0.08Y. Desired consumption expenditure at equilibrium national income is 
+A) 1675.44.
+B) 4060.04.
+C) 4830.00.
+D) 4980.00.
+E) 6815.40.
+Answer:  D
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+75) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 150 + 0.84Y, I = 400, G = 700, T = 0, X = 130, IM = 0.08Y. The trade balance at equilibrium national income is a
+A) deficit of 504.8.
+B) deficit of 460.0.
+C) deficit of 330.0.
+D) surplus of 125.0.
+E) surplus of 15.3.
+Answer:  C
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+76) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 150 + 0.84Y, I = 400, X = 130, IM = 0.08Y, T = 0. Equilibrium national income is 5000 when G is equal to 
+A) -40.
+B) 520.
+C) 580.
+D) 740.
+E) 812.
+Answer:  B
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+ 
+77) Consider a simple macro model with a constant price level and demand-determined output. When national income falls short of desired aggregate expenditures, unplanned inventory ________ will induce firms to ________ the rate of output production.
+A) depletion; lower
+B) depletion; raise
+C) buildup; lower
+D) buildup; raise
+E) at zero; maintain the current
+Answer:  B
+Diff: 2
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+78) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 120 + 0.86Y, I = 300, G = 520, T = 0, X = 180, IM = 0.12Y. Equilibrium national income is 
+A) 2037.48.
+B) 3615.24.
+C) 4000.00.
+D) 4307.70.
+E) 8000.00.
+Answer:  D
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+79) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 60 + 0.43Y, I = 150, G = 260, T = 0, X = 90, IM = 0.06Y. Equilibrium national income is 
+A) 560.00.
+B) 888.89.
+C) 1142.85.
+D) 1302.33.
+E) 1513.50.
+Answer:  B
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+ 
+80) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 60 + 0.43Y, I = 150, G = 260, T = 0, X = 90, IM = 0.06Y. The trade balance at equilibrium national income is 
+A) a deficit of 36.67.
+B) a deficit of 21.43.
+C) zero.
+D) a surplus of 21.43.
+E) a surplus of 36.67.
+Answer:  E
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+81) Consider a macro model with demand-determined output. The equations are: C = 150 + 0.8Yd, Yd = Y-T, I = 400, G = 700, T = 0.2Y, X = 130, and IM = 0.14Y. Equilibrium national income in this model is 
+A) 1120.
+B) 1350.
+C) 2240.
+D) 2760.
+E) 5400.
+Answer:  D
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+82) Consider the following macro model with demand-determined output: C = 150 + 0.9 ,  = 0.8Y, I = 400, G = 700, T = (0.2)Y, X = 130, IM = (0.08)Y. Equilibrium national income is
+A) 1380.00.
+B) 1916.67.
+C) 2156.25.
+D) 3833.33.
+E) 4928.57.
+Answer:  D
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User2:  Quantitative
+
+ 
+The diagram below shows desired aggregate expenditure for a hypothetical economy. Assume the following features of this economy:
+	∙	marginal propensity to consume (mpc) = 0.75
+	∙	net tax rate (t) = 0.20
+	∙	no foreign trade
+	∙	fixed price level
+	∙	all expenditure and income figures are in billions of dollars.
+
+
+ 
+
+FIGURE 22-2
+
+83) Refer to Figure 22-2. What is the equilibrium national income in this economy?
+A) $187.50
+B) $294
+C) $333.34
+D) $625
+E) $1666.67
+Answer:  D
+Diff: 3
+Topic:  22.3b. equilibrium national income
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+ 
+84) In an open economy with government and demand-determined output, an increase in the equilibrium level of national income could be caused by
+A) an increase in taxes at all levels of income.
+B) an increase in the desired level of imports at all levels of income.
+C) a decrease in desired consumption at all levels of income.
+D) a decrease in the desired level of saving at all levels of income.
+E) a decrease in government purchases.
+Answer:  D
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+85) In an open economy with government and demand-determined output, a decrease in the equilibrium level of national income could be caused by
+A) a decrease in taxes at all levels of income.
+B) a decrease in the desired level of imports at all levels of income.
+C) a decrease in desired consumption at all levels of income.
+D) a decrease in the desired level of saving at all levels of income.
+E) an increase in government purchases.
+Answer:  C
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+86) In an open economy with government and demand-determined output in the short run, a specific "target" level of national income
+A) cannot be achieved by any of the government's fiscal policy tools.
+B) can be achieved by changing G, but not T.
+C) can be achieved by changing T, but not G.
+D) can be achieved by changes in G, T, or both.
+E) can be achieved only by changing both G and T at the same time.
+Answer:  D
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+ 
+87) Consider the following news headline: "Minister of Defence announces $2 billion purchase of military helicopters." Assuming that aggregate output is demand-determined, and that the helicopters are purchased domestically, what will be the effect of this action, all other things equal, on the AE function and equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  D
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+88) Consider the following news headline: "Finance minister announces that the federal income-tax rate will rise by three percentage points." Assuming that aggregate output is demand-determined, what will be the effect of this action, all other things equal, on the AE function and equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  C
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+ 
+89) Consider the following news headline: "Business community gloomy about the economy—investment plans axed." Assuming that aggregate output is demand-determined, what effect will this have, all other things equal, on the AE function and on equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  A
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+90) Consider the following news headline: "Canadian exporters hurt by foreign recession." Assuming that aggregate output is demand-determined, what effect will this have, all other things equal, on the AE function and on equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  A
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+91) Consider the following news headline: "Canadians develop a greater taste for foreign vacations." Assuming that aggregate output is demand-determined, what effect will this have, all other things equal, on the AE function and on equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  C
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+ 
+92) Consider the following news headline: "Government follows through on election promise—cuts income-tax rate by 5 percentage points." Assuming that aggregate output is demand-determined, what will be the effect of this action, all other things equal, on the AE function and on equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  B
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+93) Consider the following news headline: "China signs deal to buy more Canadian wheat." Assuming that aggregate output is demand-determined, what effect will this have, all other things equal, on the AE function and on equilibrium national income?
+A) The AE function will shift down parallel to itself and equilibrium national income will fall.
+B) The AE function will rotate upward (become steeper) and equilibrium national income will rise.
+C) The AE function will rotate downward (become flatter) and national income will fall.
+D) The AE function will shift up parallel to itself and equilibrium national income will rise.
+E) There will be no change in the AE function or in equilibrium national income.
+Answer:  D
+Diff: 2
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+User2:  Qualitative
+
+94) Consider a simple macro model with demand-determined output. Suppose the level of exports decreases unexpectedly by $6 billion. If the government wants to restore the initial equilibrium level of output it could, all other things equal, ________ by ________.
+A) increase its purchases; more than $6 billion 
+B) increase its net tax revenues; $6 billion
+C) increase its net tax revenues; less than $6 billion
+D) increase its purchases; $6 billion 
+E) decrease its purchases; $6 billion
+Answer:  D
+Diff: 1
+Topic:  22.4a. changes in equilibrium national income
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+ 
+The diagram below shows desired aggregate expenditure for a hypothetical economy. Assume the following features of this economy:
+	∙	marginal propensity to consume (mpc) = 0.75
+	∙	net tax rate (t) = 0.20
+	∙	no foreign trade
+	∙	fixed price level
+	∙	all expenditure and income figures are in billions of dollars.
+
+
+ 
+
+FIGURE 22-2
+
+95) Refer to Figure 22-2. What is the value of the multiplier in this economy?
+A) 1.33
+B) 1.67
+C) 2.0
+D) 2.5
+E) 6.67
+Answer:  D
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+ 
+96) A decrease in the value of the simple multiplier can be caused by
+A) a decrease in the net tax rate.
+B) a decrease in the marginal propensity to import.
+C) an increase in the marginal propensity to consume.
+D) an increase in the marginal propensity to save.
+E) an increase in the marginal propensity to spend.
+Answer:  D
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Qualitative
+97) An increase in the value of the simple multiplier can be caused by
+A) a decrease in the marginal propensity to consume.
+B) an increase in the marginal propensity to import.
+C) an increase in the net tax rate.
+D) an increase in the marginal propensity to save.
+E) a decrease in the net tax rate.
+Answer:  E
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Qualitative
+
+98) In a macro model where the marginal propensity to consume out of disposable income is 0.8, the net tax rate is 0.25, and the marginal propensity to import is 0.12, the simple multiplier will be 
+A) 0.480.
+B) 1.471.
+C) 1.923.
+D) 2.083.
+E) 2.110.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+99) Consider a simple macro model with a constant price level and demand-determined output. The equations of the model are: C = 60 + 0.43Y, I = 150, G = 260, T = 0, X = 90, IM = 0.06Y. The value of the simple multiplier in this model is 
+A) 0.37.
+B) 1.59.
+C) 2.04.
+D) 2.32.
+E) 2.70.
+Answer:  B
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Quantitative
+100) Consider a model in which output is demand-determined. If the marginal propensity to spend out of national income is 0.4, then a $0.6 billion decrease in government purchases will cause equilibrium national income to ________ by approximately ________.
+A) decrease; $1.50 billion
+B) decrease; $1.00 billion
+C) decrease; $0.24 billion
+D) increase; $1.00 billion
+E) increase; $1.50 billion
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Quantitative
+
+101) Consider a model with demand-determined output and a constant price level. A decrease in the net tax rate causes ________ in autonomous spending and a ________ in the simple multiplier.
+A) a rise; rise
+B) a rise; fall
+C) no change; rise
+D) no change; fall
+E) a fall; fall
+Answer:  C
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Qualitative
+
+ 
+102) Suppose output is demand determined. An increase in the net tax rate ________ the marginal propensity to spend and thus ________ the simple multiplier.
+A) raises; raises
+B) raises; lowers
+C) causes no change in; raises
+D) lowers; lowers
+E) lowers; raises
+Answer:  D
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Qualitative
+103) Suppose aggregate output is demand determined. If the marginal propensity to spend is 0.5, and the MPC is 0.7, a $1 billion reduction in government purchases will cause equilibrium national income to ________ by ________.
+A) decrease; $3.33 billion
+B) decrease; $2.00 billion
+C) decrease; $1.50 billion
+D) increase; $2.00 billion
+E) increase; $3.33 billion
+Answer:  B
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Quantitative
+
+104) In a simple macro model with government and demand-determined output, to raise equilibrium national income by $100 billion, G must be
+A) raised by $100 billion.
+B) raised by $100 billion times the simple multiplier.
+C) raised by $100 billion divided by the simple multiplier.
+D) lowered by $100 billion times the simple multiplier.
+E) lowered by $100 billion divided by the simple multiplier.
+Answer:  C
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+105) Consider a simple macro model with government and demand-determined output. If the government wants to reduce equilibrium national income by $20 billion, G must be
+A) raised by $20 billion times the simple multiplier.
+B) raised by $20 billion divided by the simple multiplier.
+C) lowered by $20 billion times the simple multiplier.
+D) lowered by $20 billion divided by the simple multiplier.
+E) lowered by $20 billion.
+Answer:  D
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+ 
+ 
+
+FIGURE 22-3
+
+106) Refer to Figure 22-3. The rotation from AE0 to AE1 implies that the marginal propensity to spend ________ and the value of the simple multiplier ________.
+A) increases; decreases
+B) increases; increases
+C) remains the same; increases
+D) decreases; increases
+E) decreases, decreases
+Answer:  B
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+107) Consider a macro model with a constant price level and demand-determined output. A rise in the net tax rate ________ the simple multiplier and ________ equilibrium national income.
+A) lowers; has no effect on
+B) lowers; lowers
+C) lowers; raises
+D) raises; raises
+E) raises; has no effect on
+Answer:  B
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Qualitative
+108) Consider a simple macro model with government and foreign trade and where the price level is taken as given. The simple multiplier is equal to 
+A) 1/(1-MPC).
+B) 1/MPC.
+C) 1/(1- MPS - t).
+D) 1/(1 - (MPC(1 - t)- m )).
+E) 1/(1- (MPS(1 - t)- m )).
+Answer:  D
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Recall
+User2:  Qualitative
+
+109) Consider a simple macro model with demand-determined output and the following specific parameter values: 
+	a) Marginal propensity to consume out of disposable income = 0.6 
+	b) Marginal propensity to consume out of national income = 0.48
+	c) Marginal propensity to import = 0.23 
+The simple multiplier without government and foreign trade in this economy is ________ and the simple multiplier with government and foreign trade in this economy is ________. 
+A) 1.67; 1.33 
+B) 1.67; 4 
+C) 2.5; 1.33 
+D) 2.5; 2.5 
+E) 2.5; 4 
+Answer:  C
+Diff: 3
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Quantitative
+
+ 
+110) Consider the simplest macro with demand-determined output. If the marginal propensity to consume out of disposable income (MPC) is equal to the marginal propensity to spend out of national income (z), then
+A) the marginal propensity to import (m) is larger than the tax rate (t).
+B) the marginal propensity to import (m) is smaller than the tax rate (t).
+C) the simple multiplier is smaller in a closed economy with no government.
+D) the simple multiplier is larger in a closed economy with no government.
+E) there is no effect on the simple multiplier from imports or tax rates. 
+Answer:  E
+Diff: 2
+Topic:  22.4b. the simple multiplier with taxes (t) and imports (m)
+Skill:  Applied
+User2:  Qualitative
+111) Fiscal policy involves the government's use of ________ to affect economic outcomes.
+A) exchange rate changes
+B) interest rate changes
+C) price level changes
+D) private investment expenditures
+E) expenditures and taxation
+Answer:  E
+Diff: 1
+Topic:  22.4c. fiscal policy
+Skill:  Recall
+User2:  Qualitative
+ 
+ 
+
+FIGURE 22-4
+
+112) Refer to Figure 22-4. Diagram 1 illustrates an economy that is experiencing a(n) ________ gap. The goal of stabilization policy would be to ________ national income until it is equal to ________.
+A) recessionary; increase; actual national income
+B) inflationary; reduce; potential GDP
+C) inflationary; reduce; actual national income
+D) inflationary; increase; potential GDP
+E) recessionary; increase; potential GDP
+Answer:  B
+Diff: 2
+Topic:  22.4c. fiscal policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+113) Refer to Figure 22-4. Diagram 2 illustrates an economy that is experiencing a(n) ________ gap. The goal of stabilization policy would be to ________ national income until it is equal to ________.
+A) recessionary; increase; actual national income
+B) inflationary; reduce; potential GDP
+C) inflationary; reduce; actual national income
+D) inflationary; increase; potential GDP
+E) recessionary; increase; potential GDP
+Answer:  E
+Diff: 2
+Topic:  22.4c. fiscal policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+114) Refer to Figure 22-4, Diagram 1. Which of the following fiscal policy measures could the government implement to return national income to the full-employment level of GDP (potential output, Y*)?
+A) reduce government spending
+B) increase transfer payments
+C) reduce taxes
+D) increase government spending
+E) increase disposable income
+Answer:  A
+Diff: 2
+Topic:  22.4c. fiscal policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+115) Refer to Figure 22-4, Diagram 2. Which of the following fiscal policy measures could the government implement to return national income to the full-employment level of GDP (potential output, Y*)?
+A) reduce government spending
+B) reduce transfer payments
+C) increase taxes
+D) increase government spending
+E) decrease disposable income
+Answer:  D
+Diff: 2
+Topic:  22.4c. fiscal policy
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+116) If the price level is taken as given in a simple macro model with demand-determined output, it is implicitly being assumed that 
+A) net exports are positive.
+B) net exports are negative.
+C) the marginal propensity to consume out of disposable income is equal to the marginal propensity to spend out of national income.
+D) all resources in the economy are fully employed.
+E) producers can provide whatever output is demanded of them without requiring higher prices to offset any higher costs.
+Answer:  E
+Diff: 2
+Topic:  22.5. demand-determined output
+Skill:  Recall
+User2:  Qualitative
+
+117) Consider a macro model in which output is assumed to be demand-determined. One situation which may justify this assumption is when 
+A) net exports are positive.
+B) net exports are negative.
+C) the marginal propensity to consume out of disposable income is equal to the marginal propensity to spend out of national income.
+D) all resources in the economy are fully employed.
+E) the economy is operating with some unemployed resources.
+Answer:  E
+Diff: 2
+Topic:  22.5. demand-determined output
+Skill:  Recall
+User2:  Qualitative
+
+118) We would expect real national income to be "demand determined" when
+1) there is large-scale unemployment of resources in the economy;
+2) firms are price setters;
+3) firms have excess capacity.
+A) 1, 2, and 3
+B) 1 and 2
+C) 2 and 3 
+D) 1 only
+E) 3 only
+Answer:  A
+Diff: 2
+Topic:  22.5. demand-determined output
+Skill:  Recall
+User2:  Qualitative
+ 
+119) The simple macro model that is considered in Chapters 21 and 22 of the textbook is characterized by
+A) a given (constant) price level, and equilibrium national income determined by demand and supply.
+B) an endogenous price level, and national income that is solely demand determined.
+C) a given (constant) price level, and national income that is solely demand determined.
+D) an endogenous price level, and equilibrium national income determined by demand and supply.
+E) an open economy with an endogenous exchange rate.
+Answer:  C
+Diff: 2
+Topic:  22.5. demand-determined output
+Skill:  Recall
+User2:  Qualitative
+
+120) In the simple macro model that is considered in Chapters 21 and 22 of the textbook, 
+A) the economy is always in equilibrium.
+B) there is no government or foreign trade.
+C) the price level is determined within the model.
+D) there are no supply-side influences on national income.
+E) the simple multiplier is always equal to 1.
+Answer:  D
+Diff: 2
+Topic:  22.5. demand-determined output
+Skill:  Recall
+User2:  Qualitative

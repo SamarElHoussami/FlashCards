@@ -1,0 +1,1615 @@
+Economics - Canadian Edition, 14e (Ragan)
+Chapter 26   Long-Run Economic Growth
+
+1) Over a long period of time, perhaps many years, changes in real GDP come primarily from 
+A) upward shifts of the AS curve.
+B) upward shifts of the AE curve.
+C) rightward shifts of the AD curve.
+D) continuous increases in potential GDP.
+E) leftward shifts of the AD curve.
+Answer:  D
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+2) Between the years 1960 and 2011, the Canadian economy experienced growth in real GDP at an average annual rate of ________%.
+A) 0.7
+B) 1.2
+C) 1.9
+D) 3.3
+E) 6.3
+Answer:  D
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+Objective:  NEW
+User2:  Qualitative
+
+3) In the long run, changes in average material living standards are best shown by 
+A) growth in real GDP.
+B) population growth.
+C) growth in real per capita GDP.
+D) improvements in fiscal policy.
+E) improvements in monetary policy.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+ 
+4) The compounding of economic growth rates means that
+A) a large increase in investment today has little effect on national income over the long run.
+B) small changes in sustained growth rates can have a significant impact on national income over several decades.
+C) consumers should not save, given the low real returns that compounding produces.
+D) a 10% annual rate of return will double an investment in less than 6 years.
+E) a 2% annual growth rate of GDP will double national income in 27 years.
+Answer:  B
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+5) If per capita GDP in a richer country grows at a faster annual rate than in a poorer country, 
+A) the gap between their standards of living will widen over time.
+B) the gap between their standards of living will close over time.
+C) the gap between their standards of living will close over time as long as the rate of population growth is higher in the poorer country.
+D) whether the gap in living standards widens or closes over time depends on the absolute size of the relative growth rates.
+E) the difference in their living standards will not change over time.
+Answer:  A
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Applied
+User2:  Qualitative
+
+6) If GDP in a richer country grows at the same annual rate as in a poorer country, the 
+A) gap between their standards of living will widen over time.
+B) gap between their standards of living will close over time.
+C) gap between their standards of living will close over time as long as the rate of population growth is lower in the poorer country.
+D) gap between their standards of living will close over time as long as the rate of population growth is lower in the richer country.
+E) difference in their living standards will not change over time.
+Answer:  C
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Applied
+User2:  Qualitative
+
+ 
+7) A common measure of a country's level of productivity is 
+A) the average efficiency of capital.
+B) the capital-output ratio.
+C) output per capita.
+D) output per unit of labour input.
+E) per capita GDP.
+Answer:  D
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+8) A common measure of a country's rate of economic growth is 
+A) the marginal efficiency of capital.
+B) the capital-output ratio.
+C) the level of output per capita.
+D) the change in output per capita.
+E) the level of real gross domestic product.
+Answer:  D
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+9) Over the long term, by far the most potent force for raising average material living standards is
+A) economic growth.
+B) reducing inefficiencies.
+C) redistributing income.
+D) increasing the money supply.
+E) appropriate fiscal policies.
+Answer:  A
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+ 
+10) If real income grows at approximately 2% per year, the number of years it will take for real income to double is approximately 
+A) 5.
+B) 12.
+C) 24.
+D) 36.
+E) 72.
+Answer:  D
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Applied
+User2:  Quantitative
+
+11) If real income grows at approximately 4% per year, the number of years it will take for real income to double is approximately 
+A) 5.
+B) 12.
+C) 18.
+D) 36.
+E) 72.
+Answer:  C
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Applied
+User2:  Quantitative
+12) Of the variables listed below, the best measure of a nation's average material standard of living is
+A) nominal GDP.
+B) percent change in nominal GDP.
+C) per capita real GDP.
+D) per capita nominal GDP.
+E) real GDP.
+Answer:  C
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+ 
+13) The theory of economic growth concentrates on the ________ over the long run, not on ________.
+A) growth of investment in capital goods; short-run fluctuations of investment
+B) growth of real GDP; growth of potential GDP
+C) factor utilization rates; growth of the supplies of factors
+D) factor utilization rates; growth of real GDP
+E) growth of potential output; fluctuations of output around potential
+Answer:  E
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+14) Which of the following is the best example of the acquisition of human capital?
+A) A worker takes a training course that increases his/her productivity.
+B) A worker receives new machinery enabling him/her to do the amount of work that was formerly done by two workers.
+C) A worker communicates more quickly and accurately with suppliers because of upgrades to communications software.
+D) A government-sponsored program increases the amount of investment available per worker. 
+E) A computer chip manufacturer introduces a faster processor for micro-computing.
+Answer:  A
+Diff: 2
+Topic:  26.1a. the nature of economic growth
+Skill:  Applied
+User2:  Qualitative
+
+15) The four major determinants of economic growth include all of the following EXCEPT
+A) technological improvement.
+B) growth in physical capital.
+C) growth in human capital.
+D) growth in financial capital.
+E) growth in the labour force.
+Answer:  D
+Diff: 1
+Topic:  26.1a. the nature of economic growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+ 
+The diagram below shows alternate paths for two hypothetical economies, each starting with GDP of $1 billion.  Assume that Area 1 is equal to Area 2.
+
+ 
+
+FIGURE 26-1
+
+16) Refer to Figure 26-1. Which of the following statements best describes what we know about the difference between the two economies at Year 0?
+A) Economy A has a higher level of real GDP at Year 0 than Economy B.
+B) Economy B's households are consuming a larger percentage of GDP than Economy A's households.
+C) There is no opportunity cost for economic growth for Economy B at Year 0.
+D) There is no opportunity cost of economic growth for Economy A at Year 0.
+E) Economy A's households are consuming a larger percentage of GDP than Economy B's households.
+Answer:  E
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+17) Refer to Figure 26-1. Which of the following statements about Economies A and B is correct?
+A) Economy A will sustain higher material living standards than Economy B in the long run.
+B) Economies A and B will have equal material living standards beginning at Year 0.
+C) Economy B will sustain higher material living standards than Economy A in the long run.
+D) Economies A and B will have equal material living standards beginning at Year X.
+E) Economies A and B will have equal material living standards beginning at Year Y.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+18) Refer to Figure 26-1. The area marked Area 1 represents
+A) the value of consumption from Year 0 to Year X in Economy A.
+B) the value of the investment in capital goods undertaken by Economy B.
+C) the value of the investment in capital goods undertaken by Economy A.
+D) the sacrifice of current consumption by Economy B, as compared to Economy A.
+E) the sacrifice of current consumption by Economy A, as compared to Economy B.
+Answer:  D
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+19) Refer to Figure 26-1. Suppose Economy A jumps to the path of Economy B at Year 0 by increasing the share of GDP that is saved. In that case, which of the following statements about Economy A is true?
+A) Economy A will not be able to regain the losses in consumption it incurs by jumping to the path of Economy B.
+B) By Year Y, the increase in consumption made possible by the economy's higher growth rate equals the consumption sacrificed in earlier years.
+C) By Year X, Economy A is better off in terms of material living standards for having jumped to the path of Economy B.
+D) By jumping to a new growth path at Year 0, Economy A has increased the share of national income that is consumed.
+E) By Year X, Economy A is saving and investing the same share of its national income as it would have been had it stayed on its original path.
+Answer:  B
+Diff: 3
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+20) Refer to Figure 26-1. Which of the following costs of economic growth are reflected in this diagram?
+A) the sacrifice of current consumption
+B) lower real interest rate
+C) environmental degradation
+D) resource exhaustion
+E) national saving
+Answer:  A
+Diff: 1
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+21) If a country transfers resources from the production of consumption goods to the production of capital goods, the result will be to 
+A) raise future consumption.
+B) raise current living standards.
+C) decrease the long-run growth rate.
+D) lower future living standards.
+E) raise current consumption.
+Answer:  A
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+22) One of the benefits of long-run economic growth is 
+A) growth in nominal GDP greater than real GDP.
+B) decreased productive capacity.
+C) a greater ability to reduce inequality.
+D) increased future interest rates.
+E) decreased current saving and increased current consumption.
+Answer:  C
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+23) The costs of long-run economic growth include: 
+1) declining future average living standards;
+2) that current consumption must be sacrificed to increase investment in capital goods;
+3) current increases in investment may only generate greater consumption in the distant future.
+A) 1 and 2
+B) 2 and 3
+C) 1 only
+D) 2 only
+E) 3 only
+Answer:  B
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+24) For a given level of technology, a more rapid rate of economic growth can probably be achieved only if a country's citizens are prepared to 
+A) redistribute income.
+B) sacrifice some present consumption.
+C) increase their demand for goods and services.
+D) increase exports.
+E) decrease interest rates.
+Answer:  B
+Diff: 1
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+ 
+25) The costs of economic growth include 
+A) declining future living standards.
+B) current saving must be sacrificed to increase investment in capital goods.
+C) improvements in technology.
+D) the effects on workers whose skills are made obsolete by technical change.
+E) reduced interest rates.
+Answer:  D
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+26) Long-run economic growth can help alleviate the problems of poverty by
+A) creating new low-paying jobs for the unemployed.
+B) generating more resources that can be used to reduce income inequality.
+C) reallocating income away from low-value production to increase the incentives for high-value production.
+D) requiring increased saving on the part of most of the population.
+E) increasing future consumption for the middle class.
+Answer:  B
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+27) Long-term economic growth
+A) is achieved only by changes in factor-utilization rates.
+B) alleviates all poverty.
+C) can improve average material living standards.
+D) is the result of expansionary fiscal policy.
+E) leads to equal income distribution.
+Answer:  C
+Diff: 1
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+28) Consuming fewer goods today in order to invest resources in capital goods can be considered the ________ of economic growth.
+A) opportunity cost
+B) social cost
+C) investment cost
+D) external cost
+E) total cost
+Answer:  A
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+29) Alleviation of poverty is more achievable in a growing economy mainly because 
+A) individuals are more likely to object to the redistribution of income when they earn more. 
+B) everyone, including the poor, benefits equally from growth. 
+C) poor individuals are relatively easier to be identified in a growing economy. 
+D) nobody has to be made worse off when the increment to income caused by growth is redistributed. 
+E) wage rates for low-income people are naturally rising. 
+Answer:  D
+Diff: 1
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+30) An important social cost of economic growth is 
+A) the increasing inequality of income that usually accompanies sustained growth. 
+B) the sacrifice of current consumption required for a higher level of future consumption. 
+C) the associated inflation. 
+D) the associated frictional unemployment. 
+E) the destruction of jobs due to labour skills of certain workers becoming obsolete. 
+Answer:  E
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Recall
+User2:  Qualitative
+
+ 
+31) Economic growth is often associated with structural change in the economy, and this change can present difficult policy challenges to governments. Which of the following government policies would be most useful at addressing the social costs of economic growth?
+A) expansionary monetary policy
+B) the imposition of trade restrictions to protect Canadian jobs
+C) subsidies directed at Canadian manufacturing firms
+D) worker re-training and education programs
+E) reducing income taxes
+Answer:  D
+Diff: 3
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+User2:  Qualitative
+
+32) Which of the equations is a correct expression for national saving in the long run when real GDP equals potential output?
+A) NS = Y* - C - G
+B) NS = Y* - C + T - G
+C) NS = Y* - T - C
+D) NS = T - G
+E) NS = T - G - C
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+33) Consider the long-run theory of investment, saving and growth. In the long-run version of our macro model (with real GDP equal to Y*), the equilibrium interest rate is determined where
+A) aggregate demand equals aggregate expenditure.
+B) desired national saving equals desired investment.
+C) the nominal price level equals the real price level.
+D) desired consumption equals desired investment.
+E) desired saving equals desired consumption. 
+Answer:  B
+Diff: 1
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+34) If government policies are to be successful in enhancing a country's long-run growth rate, they likely work through generating 
+A) higher levels of current consumption.
+B) greater private investment in physical and human capital.
+C) an increase in current consumption and a reduction in saving.
+D) a leftward shift in the AS curve.
+E) fiscal policies that shift the AD curve to the right.
+Answer:  B
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+35) Consider a closed economy with real GDP in the long run of $400, consumption expenditures of $250, government purchases of $75, and net tax revenue of $20. What is the level of national saving?
+A) $55
+B) $75
+C) $95
+D) $225
+E) $230
+Answer:  B
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User2:  Quantitative
+ 
+The table below shows aggregate values for a hypothetical economy. Suppose that this economy has real GDP equal to potential output.
+
+Potential GDP	$2500
+Net tax revenues	$50
+Government purchases	$200
+Investment	$100
+Consumption	$2350
+Net exports	-$135
+
+TABLE 26-1
+
+36) Refer to Table 26-1. What is the level of private saving for this economy? 
+A) $50 
+B) $100 
+C) $150 
+D) $200 
+E) $300 
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+37) Refer to Table 26-1. What is the level of public saving for this economy? 
+A) -$200 
+B) -$150 
+C) -$50 
+D) $150 
+E) $200 
+Answer:  B
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+
+ 
+38) Refer to Table 26-1. What is the level of national saving for this economy? 
+A) -$200 
+B) -$150 
+C) -$50 
+D) $150 
+E) $200 
+Answer:  C
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Table
+User2:  Quantitative
+39) Suppose the government has a budget deficit of $400. If the country's level of national saving is $200, then private saving must be 
+A) -$400. 
+B) $200. 
+C) $400. 
+D) $600. 
+E) $800. 
+Answer:  D
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  REVISED
+User2:  Quantitative
+
+40) Suppose the government has a budget surplus of $2 billion. If the country's level of private saving is $1.2 billion, then national saving must be
+A) - $1.2 billion.
+B) - $800 million.
+C) $0.
+D) $800 million
+E) $3.2 billion
+Answer:  E
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  NEW
+User2:  Quantitative
+
+ 
+41) Consider the long-run theory of investment, saving, and growth. For a given level of private saving, an increase in government purchases will likely ________ the economy's long-run growth rate.
+A) slow down
+B) accelerate
+C) not affect
+D) increase
+E) Not enough information to know
+Answer:  A
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+42) For a given level of national income, an increase in private consumption or government purchases will cause national saving to
+A) increase.
+B) grow at a constant rate.
+C) remain unchanged from its initial level.
+D) exceed investment.
+E) decrease.
+Answer:  E
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+43) An increase in the government budget surplus, everything else constant, will cause a(n) 
+A) decrease in national saving.
+B) increase in national saving.
+C) decrease in the growth rate.
+D) equal increase in private consumption.
+E) equal decrease in private investment.
+Answer:  B
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User2:  Qualitative
+
+ 
+44) Consider a closed economy in the long run. A country with a low national saving rate (as a fraction of real GDP) is likely to have 
+A) a high growth rate because aggregate expenditure will be high out of any given income.
+B) either a high or low growth rate depending on the investment schedule.
+C) an AS curve moving continually to the right.
+D) trouble achieving potential real national income in the short run.
+E) a low growth rate because sustained high investment is not possible with low saving.
+Answer:  E
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+45) Consider the market for financial capital for a closed economy in the long run. Other things being equal, a country with a high national saving rate will tend to have
+A) a high growth rate because aggregate expenditure will be high out of any given income.
+B) a high growth rate because sustained high investment is possible with high saving.
+C) an AS curve moving continually to the left.
+D) trouble achieving potential real national income in the short run.
+E) either a high or low growth rate depending on the investment demand schedule.
+Answer:  B
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+46) Which of the following statements concerning national saving is true?
+A) A country's saving rate is unrelated to its growth rate.
+B) An increase in the rate of saving will lead to a reduction in consumption and therefore to both a short-run and a long-run decrease in national income.
+C) An increase in the rate of saving will cause an immediate increase in national income, but may cause a drop in national income in the long-run.
+D) An increase in the rate of saving will always be offset by a reduction in private investment.
+E) An increase in the rate of saving will lead to a short-run reduction in national income, but to higher economic growth in the long run.
+Answer:  E
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+ 
+47) For a given level of national income, a decrease in government tax revenues will cause
+A) a decrease in national saving.
+B) an increase in national saving.
+C) an increase in the growth rate.
+D) no effect on national saving.
+E) a decrease in consumption.
+Answer:  A
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+48) For a given level of private saving, a decrease in the government's budget deficit ________ the long-run rate of economic growth.
+A) will reduce
+B) will leave unchanged
+C) will increase 
+D) will diminish
+E) none of the above
+Answer:  C
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User2:  Qualitative
+49) Consider the long-run theory of investment, saving, and growth. For a given level of national income, a decrease in private consumption or government purchases will cause the equilibrium interest rate to
+A) increase and the flow of national saving to decrease.
+B) increase and the flow of investment to increase.
+C) increase and the flow of investment to decrease.
+D) decrease and the flow of national saving to increase.
+E) decrease and the flow of national saving to decrease.
+Answer:  D
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+50) For a given level of national income, a decrease in private consumption or government purchases will cause the equilibrium interest rate to
+A) increase and the flow of national saving to fall.
+B) increase and the flow of investment to increase.
+C) increase and the flow of investment to decrease.
+D) decrease and the flow of investment to decrease.
+E) decrease and the flow of investment to increase.
+Answer:  E
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+51) Consider the market for financial capital in the long run. The national saving curve is upward sloping because an increase in the real interest rate
+A) leads households to increase their current consumption.
+B) leads to an increase in investment demand.
+C) decreases the supply of public saving.
+D) leads households to reduce their current consumption.
+E) decreases the supply of private saving.
+Answer:  D
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+52) Consider the market for financial capital in the long run. The investment demand curve is downward sloping because
+A) an increase in the real interest rate leads to an increase in investment demand.
+B) all components of desired investment are negatively related to the real interest rate.
+C) all components of desired investment are positively related to the real interest rate.
+D) a decrease in the real interest rate reflects a higher opportunity cost to firms of using financial capital.
+E) an increase in the real interest rate reflects a lower opportunity cost to firms of using financial capital. 
+Answer:  B
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+The diagram below show the market for financial capital assuming that national income is constant at potential GDP, Y*.
+
+ 
+FIGURE 26-2
+
+53) Refer to Figure 26-2. Suppose national saving is reflected by NS0 and investment demand is reflected by I0D. If the real interest rate is i1, there is ________ which will drive the interest rate down until it reaches i*.  
+A) an excess demand for financial capital
+B) an excess demand for investment
+C) an excess supply of financial capital
+D) an excess supply of public saving
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+ 
+54) Refer to Figure 26-2. Suppose national saving is reflected by NS0 and investment demand is reflected by I0D. If the real interest rate is i4, there is ________, which will drive the real interest rate up to i*.
+A) an excess demand for financial capital
+B) an excess supply of financial capital
+C) an excess supply of saving
+D) an excess demand for public saving
+Answer:  A
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+55) Refer to Figure 26-2. Suppose national saving is reflected by NS0 and investment demand is reflected by I0D. Now suppose there is a reduction in government purchases (G). What is the effect on the equilibrium real interest rate?
+A) There is no effect on NS or ID, and the interest rate remains at i*.
+B) National saving shifts to NS1 and the interest rate falls to i3.
+C) Investment demand shifts to I1D, and the interest rate rises to i2.
+D) The real interest rate rises because of the decrease in the budget surplus.
+E) The real interest rate falls because of the decrease in the budget surplus.
+Answer:  B
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+56) Refer to Figure 26-2. Suppose national saving is reflected by NS0 and investment demand is reflected by I0D. Now suppose there is a reduction in government purchases. What is the effect on investment demand?
+A) National saving shifts to NS1, causing an increase in the quantity of investment demanded from I* to I2. 
+B) There is no effect on NS or ID, and the quantity of investment demanded remains at I*. 
+C) Investment demand shifts to I1D, causing an increase in the quantity of investment demanded from I* to I1.
+D) Investment demand shifts to I1D, causing an increase in the quantity of investment demanded from I* to I3.
+E) National saving shifts to NS1, and investment demand shifts to I1D, causing an increase in the quantity of investment demanded from I* to I3.
+Answer:  A
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+57) Refer to Figure 26-2. Suppose national saving is reflected by NS0 and investment demand is reflected by I0D. Now suppose the government implements a revenue-neutral tax policy that encourages investment. What is the effect on the real interest rate?
+A) There is no effect on NS or ID, and the interest rate remains at i*.
+B) National saving shifts to NS1, and the real interest rate falls to i3.
+C) The real interest rate rises because of the decrease in the budget surplus.
+D) The real interest rate falls because of the decrease in the budget surplus.
+E) Investment demand shifts to I1D, and the real interest rate rises to i2.
+Answer:  E
+Diff: 3
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+ 
+58) Refer to Figure 26-2. Suppose national saving is reflected by NS0 and investment demand is reflected by I0D. Now suppose the government implements a revenue-neutral tax policy that encourages investment. What is the effect on the quantity of national saving?
+A) There is no effect on NS or ID and the quantity of national saving supplied remains at I*.
+B) National saving shifts to  , and the quantity of national saving supplied rises to I2.
+C) Investment demand shifts to I1D and the quantity of national saving supplied rises to I1.
+D) Investment demand shifts to I1D, national saving shifts to NS1, and the quantity of national saving rises to I3.
+E) National saving shifts to  , investment demand shifts to I1D, and the quantity of national saving rises to  .
+Answer:  C
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Graph
+User2:  Qualitative
+
+ 
+The diagram below shows the market for financial capital in the long run when real GDP is equal to potential output, Y*.
+
+ 
+FIGURE 26-3
+
+59) Refer to Figure 26-3. The equilibrium interest rate in this market is ________% and the equilibrium flow of investment and saving is ________ billion dollars.
+A) 1; 50
+B) 2; 60
+C) 3; 70
+D) 4; 80
+E) 5; 90
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+User1:  Graph
+User2:  Quantitative
+
+ 
+60) Refer to Figure 26-3. Suppose the interest rate in this market for financial capital is 2%. In this case there is an excess ________ financial capital of ________ billion dollars.
+A) supply of; 30
+B) demand for; -30
+C) supply of; 50
+D) demand for; 30
+E) demand for; 80
+Answer:  D
+Diff: 2
+Topic:  26.1b. benefits and costs of economic growth
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+
+61) Refer to Figure 26-3. Suppose the interest rate in this market for financial capital is 4%. In this case there is an excess ________ financial capital of ________ billion dollars.
+A) supply of; 30
+B) demand for; -60
+C) supply of; 90
+D) demand for; 30
+E) demand for; 60
+Answer:  A
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Quantitative
+ 
+62) Refer to Figure 26-3. Suppose the interest rate in this market for financial capital is 2%. Which of the following statements correctly describes the adjustment that will occur in this market?  
+A) The excess supply of saving will push up the real interest rate, which will decrease the quantity demanded of investment and increase the quantity supplied of saving.
+B) The excess demand for investment will push up the real interest rate, which will decrease the quantity demanded of investment and increase the quantity supplied of saving.
+C) The excess supply of saving will push down the real interest rate, which will decrease the quantity demanded of investment and increase the quantity supplied of saving.
+D) The excess demand for investment will push down the real interest rate, which will decrease the quantity demanded of investment and increase the quantity supplied of saving.
+E) The excess demand for investment will push up the real interest rate, which will increase the quantity demanded of investment and decrease the quantity supplied of saving.
+Answer:  B
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Applied
+Objective:  REVISED
+User1:  Graph
+User2:  Qualitative
+
+63) In the long run, an increase in the demand for investment pushes ________ the real interest rate, encourages ________ saving by households, and leads to a ________ future growth rate of potential output.
+A) down; less; lower
+B) up; less; lower
+C) down; less; higher
+D) up; more; higher
+E) up; more; lower
+Answer:  D
+Diff: 2
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+
+64) Data from most industrialized countries show that countries with high investment rates (as a percentage of GDP) tend to be countries
+A) with the highest levels of per capita GDP.
+B) with the highest levels of GDP.
+C) with high rates of economic growth.
+D) with the lowest rate of national saving.
+E) with a negative relationship between investment and the rate of economic growth.
+Answer:  C
+Diff: 1
+Topic:  26.2a. investment, saving and growth
+Skill:  Recall
+User2:  Qualitative
+65) Consider the Neoclassical growth model. The effect of an increase in population (or the labour force) in an economy, with everything else held constant, is
+A) an increase in per capita national income.
+B) an increasingly aging population.
+C) a decrease in per capita output.
+D) a decrease in the capital-output ratio.
+E) an inward shift of the production possibilities boundary.
+Answer:  C
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+66) One important assumption of the Neoclassical growth model is that, with a given state of technology, 
+A) increases in the use of a single factor bring increasing returns.
+B) increases in the use of a single factor result in constant returns.
+C) increases in the use of single factor bring diminishing returns.
+D) the return from successive units of a single factor increases over time.
+E) increases in GDP are possible only if all factors are increased at an equal rate.
+Answer:  C
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+67) The main properties of a Neoclassical aggregate production function are ________ when all factors are increased proportionally and ________ when any one factor is increased on its own. 
+A) increasing returns to scale; diminishing marginal returns 
+B) constant returns to scale; diminishing marginal returns 
+C) constant returns to scale; constant marginal returns 
+D) decreasing returns to scale; diminishing marginal returns 
+E) increasing returns to scale; increasing marginal returns 
+Answer:  B
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+68) The Neoclassical growth model assumes that, with a given state of technology, increases in the use of a single factor will eventually
+A) increase the average product of the factor.
+B) decrease the average product of the factor.
+C) lead to an increase in the marginal output of the factor.
+D) lead to a decrease in total output by the factor.
+E) lead to an increase in the material standard of living.
+Answer:  B
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+69) The Neoclassical growth model assumes that, with a given state of technology, increases in the use of a single factor eventually cause the
+A) average product of the factor to increase.
+B) marginal product of the factor to fall.
+C) marginal product of the factor to increase at an increasing rate.
+D) marginal product of the factor to increase but at a decreasing rate.
+E) material standard of living to increase.
+Answer:  B
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+70) A central assumption of the Neoclassical growth model is that 
+A) long-run growth arises from correcting market failures.
+B) long-run growth arises only from technological innovation.
+C) there are diminishing marginal returns to a single factor.
+D) there are constant marginal returns to investment.
+E) there are increasing marginal returns to capital investment.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+ 
+71) In the Neoclassical growth model, whenever diminishing returns applies, increases in the population, other things being equal, are accompanied by
+A) decreasing GDP and falling living standards.
+B) decreasing GDP and increasing living standards.
+C) increasing GDP and falling living standards.
+D) increasing GDP and constant living standards.
+E) increasing GDP and increasing living standards.
+Answer:  C
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+72) In the Neoclassical growth model, decreases in the population, other things being equal, would eventually result in
+A) decreasing GDP and falling living standards.
+B) decreasing GDP and increasing living standards.
+C) increasing GDP and falling living standards.
+D) increasing GDP and increasing living standards.
+E) increasing savings and increasing living standards.
+Answer:  B
+Diff: 3
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+73) In the Neoclassical growth model, increases in the stock of physical capital, other things being equal, will lead to
+A) decreasing GDP and falling living standards.
+B) decreasing GDP and increasing living standards.
+C) increasing GDP and falling living standards.
+D) increasing GDP and increasing living standards.
+E) increasing GDP and decreased national wealth.
+Answer:  D
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+ 
+74) In the Neoclassical growth model, if capital and labour grow at the same rate, we will observe
+A) rising GDP but falling living standards.
+B) rising GDP but no change in living standards.
+C) rising GDP and increasing living standards.
+D) increasing living standards but only for workers using labour-intensive production.
+E) increasing living standards but only for workers using capital-intensive production.
+Answer:  B
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+75) According to the Neoclassical growth model, it is most likely that GDP would increase, but that average material living standards would fall, as a result of
+A) a fast-growing capital stock.
+B) a better educated labour force.
+C) an increase in the working population. 
+D) a growing capacity to develop and incorporate new innovations.
+E) an increase in the availability of natural resources.
+Answer:  C
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+76) In Neoclassical growth theory, an increase in the labour force ________ total output and ________ total output per person.
+A) increases; increases
+B) increases; leaves constant
+C) increases; reduces
+D) leaves constant; leaves constant
+E) leaves constant; reduces
+Answer:  C
+Diff: 1
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+ 
+77) In Neoclassical growth theory, average material living standards in an economy could fall when
+A) additional units of capital are added to the other factors.
+B) additional units of labour are added to the other factors.
+C) there is equal percentage growth in capital and labour inputs.
+D) technology improves.
+E) there is a decline in the population.
+Answer:  B
+Diff: 1
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+78) In Neoclassical growth theory, increasing the amount of capital employed in production ________ the average standard of living as long as the marginal product of capital exceeds zero.
+A) unambiguously raises
+B) unambiguously reduces
+C) has no effect on
+D) at first raises but eventually reduces
+E) at first reduces but eventually raises
+Answer:  A
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+79) The Neoclassical theory of economic growth led economics to be referred to as the "dismal science." The explanation for this reference lies in the theory's emphasis on
+A) growing inequality of income.
+B) increasing government intervention in the economy.
+C) increasing damage to the environment.
+D) the immoral behaviour of firms.
+E) diminishing returns in production.
+Answer:  E
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+ 
+80) The Neoclassical growth model assumes that with a given state of technology,
+A) increases in the use of a single factor bring increasing returns.
+B) increases in the use of a single factor result in constant returns.
+C) increases in GDP are possible only if all factors are increased at an equal rate.
+D) growth in GDP happens only if the labour force grows more quickly than the amount of physical capital. 
+E) the standard of living will decrease if the labour force grows more quickly than the amount of physical capital.
+Answer:  E
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+81) In the Neoclassical growth model, the law of diminishing marginal returns implies that capital accumulation leads to ever
+A) larger decreases in GDP and large decreases in living standards.
+B) larger increases in GDP but smaller decreases in living standards.
+C) smaller increases in GDP and living standards.
+D) larger levels of unemployment but small increases in the standard of living.
+E) larger levels of unemployment but larger increases in the standard of living.
+Answer:  C
+Diff: 3
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+82) A person who returns to school to improve her computer skills is an example of an increase in
+A) the labour force.
+B) human capital.
+C) physical capital.
+D) technological capital.
+E) financial capital.
+Answer:  B
+Diff: 1
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+ 
+83) According to the Neoclassical growth model, which of the following scenarios explains improvements in long-run material living standards?
+A) an increase in population
+B) a decrease in unemployment rates
+C) an increase in the stock of physical capital
+D) an equal increase in both population and the stock of capital
+E) an equal increase in both population and output
+Answer:  C
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+84) According to the Neoclassical growth model, which of the following scenarios (other things being equal) explains progressively smaller increases in per capita GDP?
+A) an increase in population
+B) a decrease in unemployment rates
+C) an increase in the capital stock
+D) an equal increase in both population and the stock of capital 
+E) an equal increase in population and output
+Answer:  C
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+85) Real GDP is not a good measure of average material living standards because 
+A) it is biased by the changes in the inflation rate. 
+B) it excludes the role of imported goods. 
+C) it does not take into account the size of the population. 
+D) it is sensitive to the base year chosen in its calculation. 
+E) the price level may be changing, which affects what people can afford to buy.
+Answer:  C
+Diff: 1
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Recall
+User2:  Qualitative
+
+ 
+86) Balanced growth of labour and capital in the Neoclassical growth model 
+A) leads to rising material living standards. 
+B) will not increase the level of per capita GDP. 
+C) will result in a constant level of GDP. 
+D) is a natural outcome of long-run equilibrium. 
+E) explains current rising per capita incomes in many countries. 
+Answer:  B
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+87) According to the Neoclassical growth theory, sustained rising material living standards can only be explained by 
+A) growth in human capital. 
+B) growth in physical capital. 
+C) growth in the labour force. 
+D) balanced growth of labour and capital. 
+E) exogenous technological change. 
+Answer:  E
+Diff: 2
+Topic:  26.2b. Neoclassical growth theory
+Skill:  Applied
+User2:  Qualitative
+
+88) "Embodied technical change" is said to occur when 
+A) older capital equipment is replaced with different, more productive, capital.
+B) the capital-labour ratio is increasing.
+C) innovations in the organization of production take place which do not involve changes in the form of capital used.
+D) techniques of managerial control are improved.
+E) the labour force acquires new skills that can be used across a wide range of industries.
+Answer:  A
+Diff: 1
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Recall
+User2:  Qualitative
+ 
+89) Consider the Neoclassical growth model. Sustained economic growth in the long run could best be fostered by
+A) expansionary fiscal policy.
+B) decreasing excise taxes on consumer goods.
+C) technological improvements embodied in physical or human capital.
+D) elimination of an output gap.
+E) expansionary monetary policy.
+Answer:  C
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 1
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+90) When a new personal computer is purchased to replace an old one, and the new PC is much better and faster than the old one, there has been
+A) a disembodied technical change.
+B) a rise in the capital-output ratio.
+C) a fall in the output per unit of capital.
+D) an embodied technical change.
+E) capital "deepening."
+Answer:  D
+Diff: 2
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Applied
+User2:  Qualitative
+
+91) If a country experiences growth in "total factor productivity" (i.e., the "Solow residual"), then
+A) all growth in real GDP can be explained by growth in the labour force.
+B) all growth in real GDP can be explained by growth in the capital stock.
+C) there is some growth in real GDP that cannot be accounted for by growth in capital or the labour force.
+D) none of the growth in real GDP can be accounted for by growth in capital and the labour force.
+E) material standards of living are falling.
+Answer:  C
+Diff: 2
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+ 
+92) The growth of "total factor productivity," or the "Solow residual," is equal to the growth in real GDP
+A) accounted for by changes in all factors of production but excluding technological changes.
+B) accounted for by changes in all factors of production and including technological changes.
+C) that cannot be accounted for by changes in the quantities of labour and capital.
+D) that cannot be accounted for by changes in technology.
+E) that cannot be accounted for by changes in the labour force.
+Answer:  C
+Diff: 3
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Applied
+User2:  Qualitative
+
+93) An example of "embodied technical change" is 
+A) education that teaches a wider portion of the labour force basic numeracy.
+B) the strengthening of social infrastructure, such as delivery of basic health-care services.
+C) better methods of inventory control.
+D) the development of better intellectual property law.
+E) the replacement of old computer chips with new ones designed for faster processing.
+Answer:  E
+Diff: 2
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Applied
+User2:  Qualitative
+
+94) The Solow residual is an estimate of changes in
+A) economic growth.
+B) human capital.
+C) physical capital.
+D) labour.
+E) technology.
+Answer:  E
+Diff: 2
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Recall
+User2:  Qualitative
+
+ 
+95) The so-called "Solow residual" 
+A) refers to the amount of GDP growth that cannot be explained by the growth in technological change. 
+B) takes embodied technological change into consideration. 
+C) is an underestimate of the amount of technological change when embodied technological progress occurs. 
+D) is an alternative to a measure of "total factor productivity."
+E) is an overestimate of the amount of technological change when embodied technological progress occurs. 
+Answer:  C
+Diff: 3
+Topic:  26.2c. embodied technical change and TFP
+Skill:  Applied
+User2:  Qualitative
+96) The aggregate production function shows the ________ for given levels of labour and capital inputs.
+A) marginal product of labour
+B) marginal product of capital
+C) returns to scale
+D) total output for society (real GDP)
+E) the production possibilities boundary
+Answer:  D
+Diff: 1
+Topic:  26.2d. the aggregate production function
+Skill:  Recall
+User2:  Qualitative
+
+97) Neoclassical growth theory is based on the assumption of ________ marginal returns to a single factor and ________ returns to scale exhibited by the aggregate production function.
+A) decreasing; constant
+B) decreasing; decreasing
+C) constant; decreasing
+D) increasing; increasing
+E) increasing; constant
+Answer:  A
+Diff: 2
+Topic:  26.2d. the aggregate production function
+Skill:  Recall
+User2:  Qualitative
+
+ 
+98) An aggregate production function exhibits constant returns to scale when a 1% increase in labour input
+A) produces a 1% increase in output.
+B) along with a 1% increase in capital produces the same amount of output.
+C) along with a 1% increase in capital produces one percent more output.
+D) along with a 1% decrease in capital produces the same amount of output.
+E) induces a 1% increase in capital input.
+Answer:  C
+Diff: 2
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+User2:  Qualitative
+
+99) An aggregate production function exhibits increasing returns to capital when
+A) no change in capital produces a one percent increase in output.
+B) a 1% decrease in capital produces an increase in the marginal product of capital.
+C) a 1% increase in capital produces no change in output.
+D) each additional unit of capital increases the number of jobs by more than 1%.
+E) each additional unit of capital has a higher marginal product than the previous unit.
+Answer:  E
+Diff: 2
+Topic:  26.2d. the aggregate production function
+Skill:  Recall
+User2:  Qualitative
+100) Consider the aggregate production function Y = F(K, L). If the inputs K and L are increased by 5% each and total output (Y) increases by 5% as a result, then this production function is displaying
+A) increasing returns to scale.
+B) constant returns to scale.
+C) decreasing returns to scale.
+D) diminishing marginal returns.
+E) a change in technology.
+Answer:  B
+Diff: 1
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+User2:  Quantitative
+
+ 
+101) Consider the aggregate production function Y = F(K, L). If the inputs K and L are increased by 5% each, and the production function displays constant returns to scale, then total output will increase by ________%. 
+A) 0
+B) less than 5
+C) 5
+D) more than 5
+E) Not enough information to determine
+Answer:  C
+Diff: 2
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+User2:  Quantitative
+
+102) Consider an aggregate production function Y = F(K, L) that displays diminishing marginal returns to labour. If the amount of capital is held constant and the amount of labour used in production is increasing, then
+A) each additional unit of labour will add less to total output than the previous unit of labour. 
+B) each additional unit of labour will add more to total output than the previous unit of labour.
+C) total output increases in proportion to the increases in labour.
+D) there are increasing returns to scale.
+E) there are constant returns to scale.
+Answer:  A
+Diff: 2
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+User2:  Qualitative
+ 
+Consider the following table for a hypothetical economy in which the initial level of GDP ( ) in all cases is 1000. Assume that real GDP grows according to the equation   , where N is the number of years in the future.  Solutions are rounded to the nearest whole number.
+
+		Real GDP with Alternative Growth Rates
+Year	1%	2%	3%	4%
+0	1000	1000	1000	1000
+1	1010			
+5				
+20				
+50				
+
+TABLE 26-2
+
+103) Note: This question requires a calculator with an exponent feature. 
+Refer to Table 26-2. What is real GDP in this economy in Year 20 if the annual growth rate is 1%? 
+A) 200
+B) 1020
+C) 1220
+D) 6727
+E) 20 200
+Answer:  C
+Diff: 3
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+104) Note: This question requires a calculator with an exponent function. 
+Refer to Table 26-2. What is real GDP in this economy in Year 20 if the annual growth rate is 4%?
+A) 2191
+B) 8000
+C) 20 800
+D) 80 000
+E) 836 683
+Answer:  A
+Diff: 3
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+105) Note: This question requires a calculator with an exponent function.
+Refer to Table 26-2. If this economy is growing at an annual rate of 2%, then real GDP in Year 50 will be ________; if it is growing at an annual rate of 4%, then real GDP in Year 50 will be ________. 
+A) 1645; 2000
+B) 1126; 1268
+C) 2692; 7107
+D) 500; 2000
+E) 51 000; 52 000
+Answer:  C
+Diff: 3
+Topic:  26.2d. the aggregate production function
+Skill:  Applied
+Objective:  NEW
+User1:  Table
+User2:  Quantitative
+
+106) Modern or "new" theories of long-run economic growth are based on the assumptions that technological change is mainly ________ to an economy and that investment yields ________ marginal returns.
+A) exogenous; diminishing
+B) exogenous; constant
+C) exogenous; increasing
+D) endogenous; decreasing
+E) endogenous, increasing
+Answer:  E
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+
+107) The "new" theories of economic growth emphasize that the pace of technological change is ________ to economic signals, and that it is ________ to the economic system.
+A) responsive; exogenous
+B) responsive; endogenous
+C) unresponsive; exogenous
+D) unresponsive; endogenous
+E) unresponsive; unrelated 
+Answer:  B
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+ 
+108) The "new" theories of economic growth emphasize that technological change ________ to price and profit signals.
+A) and product development are both directly related 
+B) is directly related and product development is inversely related
+C) is unaffected by but product development is directly related 
+D) is directly related and population growth is inversely related
+E) and product development are both unrelated 
+Answer:  A
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+109) According to the "new" theories of economic growth, increasing marginal returns to capital investment is 
+A) possible, but only in the early stages of innovation before imitators rush in to drive prices down.
+B) possible after initial fixed costs of innovation have been borne.
+C) possible only if the capital is government-owned infrastructure.
+D) impossible, and is thus a weak source of growth.
+E) impossible because diminishing returns are unavoidable.
+Answer:  B
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+
+110) New theories of economic growth based on the idea that growth is endogenous 
+A) assume that the rate of growth of the economy is equal to the rate of population growth.
+B) assume that the growth rate of technology is exogenous.
+C) incorporate factors such as central-bank behaviour.
+D) ignore the role of technology.
+E) stress the role of knowledge and learning in the economy's rate of growth.
+Answer:  E
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+ 
+111) With respect to long-run economic growth, one rationale for the idea that there may be increasing marginal returns to investment is that
+A) as further investment takes place the economy moves down to the right along the marginal product schedule.
+B) as further investment takes place the economy moves upward to the left along the marginal product schedule.
+C) the investment costs to "followers" are lower than those for "pioneers."
+D) initial investment shifts the the investment demand schedule to the left, making further investment less costly.
+E) initial investment shifts the the aggregate demand schedule to the left, making further investment less costly.
+Answer:  C
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Applied
+User2:  Qualitative
+
+112) According to some modern theories of long-run economic growth, successive increments of investment have ________ returns since some fixed costs are ________ for subsequent firms.
+A) constant; identical
+B) increasing; lower
+C) increasing; higher
+D) decreasing; higher
+E) decreasing; lower
+Answer:  B
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+
+113) In new theories of "endogenous growth," increasing marginal returns to investment can occur because 
+A) investment costs for followers can be higher than for pioneers.
+B) knowledge provides the input that allows investment to be profitable.
+C) many investments require large fixed costs, the benefits of which are not available to subsequent firms.
+D) little risk is associated with the process of innovation for technological followers.
+E) early investors create an infrastructure favorable to followers.
+Answer:  E
+Diff: 3
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+ 
+114) Compared to Neoclassical growth theory, newer "endogenous growth" theories are more ________ regarding the prospect of continuous increases in the standard of living, due in part to its emphasis on the ________.
+A) pessimistic; endogeneity of technological change
+B) pessimistic; accelerating depletion of natural resources
+C) pessimistic; increasing birth rates as a result of higher real income per capita
+D) optimistic; accelerating depletion of natural resources
+E) optimistic; endogeneity of technological change
+Answer:  E
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Applied
+User2:  Qualitative
+
+115) Given the rapid growth of world population in recent decades, the present needs and aspirations of the world's population can likely only be met through
+A) enormous increases in financial capital.
+B) increasing knowledge and technological improvements. 
+C) reductions in the world's capital stock, as a means of controlling the exhaustion of natural resources.
+D) coordination of fiscal and monetary policies.
+E) relatively small increases in the saving rates of the developing economies.
+Answer:  B
+Comment:  An algorithmic version of this question appears in MyEconLab
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+Objective:  REVISED
+User2:  Qualitative
+
+116) Modern growth theories are more optimistic than Neoclassical growth theories because the former emphasize the unlimited potential of
+A) modern capital.
+B) knowledge-driven technological change.
+C) more educated government policy making.
+D) modern labour.
+E) economic theory.
+Answer:  B
+Diff: 1
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+ 
+117) Which of the following statements is true of new growth theory, and not true of Neoclassical growth theory?
+A) It cannot explain improved living standards over the long term. 
+B) It can explain improved living standards over the long term.
+C) Economic growth does not have an impact on resource exhaustion.
+D) Economic growth depends only on population growth.
+E) Economic growth is the result of innovation.
+Answer:  B
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+
+118) Investment in innovation is often considered to have increasing marginal returns because
+A) new products increase firms' profits. 
+B) R&D costs are negligible relative to firms' total costs. 
+C) innovation is mostly through "leaning by doing."
+D) of market development costs and the "public good" nature of knowledge. 
+E) after the initial investment is made, subsequent investors face more difficult and expensive production problems. 
+Answer:  D
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Applied
+User2:  Qualitative
+
+119) Consider the competing products made by Apple (iPhone) and Samsung, for example. The innovation generated by these firms as a result of their intense rivalry is an example of 
+A) covert collusion.
+B) constant returns to scale.
+C) exogenous technological change.
+D) endogenous technological change.
+E) decreasing marginal returns.
+Answer:  D
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Applied
+Objective:  REVISED
+User2:  Qualitative
+
+ 
+120) In new theories of economic growth, "learning by doing" contributes to endogenous technological change because
+A) knowledge can be considered a private good.
+B) knowledge can be considered a public good.
+C) information at all stages of the design and production processes is fed upstream and contributes to further innovation.
+D) "learning by doing" increases the marginal product of physical capital.
+E) new technical knowledge can be transferred at zero cost.
+Answer:  C
+Diff: 2
+Topic:  26.3. newer growth theories
+Skill:  Recall
+User2:  Qualitative
+121) Resource exhaustion is not considered to be among the main factors that limit economic growth because 
+A) the population growth rate is decreasing over time and projected to be negative in the future. 
+B) different types of inputs are used in production over time. 
+C) resources can be obtained from other planets as technology advances. 
+D) technological advances change the nature of production over time and also make more resources available for extraction. 
+E) there are limitless supplies of resources, at high enough prices. 
+Answer:  D
+Diff: 1
+Topic:  26.4. limits to growth
+Skill:  Applied
+User2:  Qualitative
+
+122) In 1950, when the world's population was 2.5 billion, it was unimaginable that the world could ever produce enough food to feed the present world population of 7 billion. Such a belief was likely based on the following erroneous assumptions:
+A) food production increases geometrically and population increases arithmetically. 
+B) the potential GDP of all countries is constant, and food production would comprise a declining share of GDP. 
+C) the state of technology is constant and the stock of resources is fixed. 
+D) global political and economic cooperation would be a necessary condition to feed such a growing population. 
+Answer:  C
+Diff: 2
+Topic:  26.4. limits to growth
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+123) Suppose that most of the world's population would like to achieve a standard of living equal to that of the average Canadian family. Such a rise in global living standards is 
+A) not possible given the world's current resources and the current state of technology.
+B) possible with better political and economic cooperation around the world. 
+C) possible given the world's current resources and current state of technology. 
+D) not possible under any circumstances. 
+E) possible with no adverse effects on pollution and environmental degradation. 
+Answer:  A
+Diff: 2
+Topic:  26.4. limits to growth
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+124) In the early 1970s, a group called the "Club of Rome" published a book entitled The Limits to Growth which concluded that industrialized countries faced an imminent absolute limit to growth. Did this prediction come true in the subsequent years? 
+A) No, because as income levels rose, we could afford to purchase more resources and increase growth. 
+B) No, because technology has changed, allowing for new discoveries, development, and more efficient use of resources. 
+C) Yes, all growth in recent decades has been in the non-industrialized and developing economies. 
+D) Yes, there has been no change in absolute levels of output of industrialized countries. 
+Answer:  B
+Diff: 1
+Topic:  26.4. limits to growth
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
+
+ 
+125) Economic growth allows increasing numbers of people around the world to enjoy higher incomes and to escape (material) poverty. Which of the following statements best describes the current limits to this growth? 
+A) Rising consumption due to higher incomes puts increasing pressure on the world's natural ecosystems and its ability to cope with further pollution and environmental degradation. 
+B) The supply of financial capital is insufficient to maintain this level of economic growth. 
+C) The inability of developing countries to increase their human capital will prevent further economic growth. 
+D) Increasing prices of natural resources will limit further economic growth. 
+E) Innovation and technological change with respect to resource development have been exhausted. 
+Answer:  A
+Diff: 2
+Topic:  26.4. limits to growth
+Skill:  Applied
+Objective:  NEW
+User2:  Qualitative
